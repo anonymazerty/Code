@@ -1,0 +1,136 @@
+================================================================================
+  JudgeAgent – Statistical Analysis Report
+  Proportion of Favorable Responses | Kruskal–Wallis | Wilcoxon Pairwise
+  Method: per-persona AVERAGE across 5 runs (n=55 per group)
+================================================================================
+
+1. DESCRIPTIVE STATISTICS  (median [Q1–Q3], n=55 per group)
+--------------------------------------------------------------------------------
+Question                       CROWD         GPT-5      LLaMA-8B   Mistral-24B
+--------------------------------------------------------------------------------
+Accomplishment         4.00 [3.0–5.0] 3.80 [2.0–4.6] 3.71 [2.9–4.0] 4.00 [2.9–4.1]
+Effort Required        5.00 [4.0–5.0] 3.67 [3.2–4.0] 3.40 [3.2–3.6] 3.60 [3.2–3.8]
+Mental Demand          5.00 [4.0–5.0] 3.80 [3.1–4.0] 4.00 [3.8–4.0] 4.00 [4.0–4.0]
+Controllability        4.00 [3.0–5.0] 3.00 [2.4–3.4] 3.17 [2.2–3.8] 3.00 [2.8–3.6]
+Temporal Demand        4.00 [3.0–5.0] 2.00 [2.0–2.4] 2.20 [2.0–2.6] 2.80 [2.4–3.0]
+Trust                  4.00 [3.0–5.0] 3.14 [2.6–4.0] 4.00 [3.4–4.4] 4.00 [2.5–4.0]
+
+
+2. PROPORTION OF FAVORABLE RESPONSES  (% with average ≥ 4, n=55 each)
+--------------------------------------------------------------------------------
+Question                   CROWD     GPT-5  LLaMA-8B Mistral-24B
+--------------------------------------------------------------------------------
+Accomplishment             70.9%     45.5%     43.6%       58.2%
+Effort Required            89.1%     41.8%      1.8%       23.6%
+Mental Demand              89.1%     45.5%     65.5%       96.4%
+Controllability            63.6%     16.4%     23.6%       21.8%
+Temporal Demand            58.2%      0.0%      0.0%        0.0%
+Trust                      60.0%     34.5%     56.4%       52.7%
+
+
+3. KRUSKAL–WALLIS H TEST  (omnibus, α=0.05)
+--------------------------------------------------------------------------------
+Question                        H      p-value    Sig
+--------------------------------------------------------------------------------
+Accomplishment             6.0193     0.110676   n.s.
+Effort Required           72.7026     0.000000    ***
+Mental Demand             54.6774     0.000000    ***
+Controllability           20.3206     0.000146    ***
+Temporal Demand           61.5617     0.000000    ***
+Trust                     11.5219     0.009214     **
+
+
+4. PAIRWISE WILCOXON RANK-SUM (Mann–Whitney U)
+   Bonferroni correction: α' = 0.05/6 = 0.0083
+--------------------------------------------------------------------------------
+
+  Q1 – Accomplishment
+  Comparison                              U      p-raw     p-Bonf    Sig
+  CROWD vs GPT-5                     1793.0   0.089093   0.534557   n.s.
+  CROWD vs LLaMA-8B                  1900.0   0.018633   0.111800   n.s.
+  CROWD vs Mistral-24B               1781.0   0.099195   0.595171   n.s.
+  GPT-5 vs LLaMA-8B                  1622.0   0.512950   1.000000   n.s.
+  GPT-5 vs Mistral-24B               1495.5   0.920690   1.000000   n.s.
+  LLaMA-8B vs Mistral-24B            1391.5   0.466107   1.000000   n.s.
+
+  Q2 – Effort Required
+  Comparison                              U      p-raw     p-Bonf    Sig
+  CROWD vs GPT-5                     2535.0   0.000000   0.000000      *
+  CROWD vs LLaMA-8B                  2705.0   0.000000   0.000000      *
+  CROWD vs Mistral-24B               2609.0   0.000000   0.000000      *
+  GPT-5 vs LLaMA-8B                  1947.0   0.008777   0.052661   n.s.
+  GPT-5 vs Mistral-24B               1661.5   0.363009   1.000000   n.s.
+  LLaMA-8B vs Mistral-24B            1183.5   0.047417   0.284501   n.s.
+
+  Q3 – Mental Demand
+  Comparison                              U      p-raw     p-Bonf    Sig
+  CROWD vs GPT-5                     2451.5   0.000000   0.000000      *
+  CROWD vs LLaMA-8B                  2267.5   0.000002   0.000013      *
+  CROWD vs Mistral-24B               2163.0   0.000006   0.000034      *
+  GPT-5 vs LLaMA-8B                  1003.0   0.001554   0.009323      *
+  GPT-5 vs Mistral-24B                837.0   0.000003   0.000020      *
+  LLaMA-8B vs Mistral-24B            1217.0   0.029472   0.176833   n.s.
+
+  Q4 – Controllability
+  Comparison                              U      p-raw     p-Bonf    Sig
+  CROWD vs GPT-5                     2167.5   0.000072   0.000433      *
+  CROWD vs LLaMA-8B                  2079.5   0.000644   0.003867      *
+  CROWD vs Mistral-24B               2111.5   0.000276   0.001657      *
+  GPT-5 vs LLaMA-8B                  1456.0   0.737042   1.000000   n.s.
+  GPT-5 vs Mistral-24B               1444.0   0.681115   1.000000   n.s.
+  LLaMA-8B vs Mistral-24B            1499.0   0.937816   1.000000   n.s.
+
+  Q5 – Temporal Demand
+  Comparison                              U      p-raw     p-Bonf    Sig
+  CROWD vs GPT-5                     2416.0   0.000000   0.000000      *
+  CROWD vs LLaMA-8B                  2337.0   0.000001   0.000004      *
+  CROWD vs Mistral-24B               2237.0   0.000011   0.000066      *
+  GPT-5 vs LLaMA-8B                  1175.0   0.037656   0.225938   n.s.
+  GPT-5 vs Mistral-24B                529.5   0.000000   0.000000      *
+  LLaMA-8B vs Mistral-24B             778.0   0.000009   0.000056      *
+
+  Q6 – Trust
+  Comparison                              U      p-raw     p-Bonf    Sig
+  CROWD vs GPT-5                     1904.0   0.016900   0.101398   n.s.
+  CROWD vs LLaMA-8B                  1486.0   0.875355   1.000000   n.s.
+  CROWD vs Mistral-24B               1715.5   0.217080   1.000000   n.s.
+  GPT-5 vs LLaMA-8B                   950.0   0.000726   0.004354      *
+  GPT-5 vs Mistral-24B               1274.0   0.148960   0.893762   n.s.
+  LLaMA-8B vs Mistral-24B            1771.5   0.119925   0.719552   n.s.
+
+
+================================================================================
+  INTERPRETATION GUIDE
+================================================================================
+
+Significance codes:  *** p<0.001   ** p<0.01   * p<0.05 (Bonf-corrected)   n.s. not significant
+
+FAVORABLE RESPONSE (≥ 4):
+  A rating of 4 or 5 on the 1–5 scale is considered favorable.  For LLM agents,
+  we first average the 5 runs per persona, then check whether that average ≥ 4.
+  This makes it easy to say "X% of CROWD vs Y% of GPT-5 found this favorable."
+
+KRUSKAL–WALLIS:
+  Non-parametric analogue of one-way ANOVA.  Ranks all 4×55 = 220 observations
+  together and tests whether rank sums differ across groups.  No normality
+  assumption – appropriate for Likert data.  Significant result → at least one
+  group is distributed differently, but does not identify which pair(s).
+
+WILCOXON RANK-SUM (= MANN–WHITNEY U):
+  Two-sample rank-sum test applied to every pair of groups.  Bonferroni correction
+  multiplies each raw p-value by 6 (number of pairs) to guard against inflated
+  false-positive rate from multiple testing.  Significant → the two groups'
+  distributions are unlikely to be the same.
+
+WHY AVERAGE (NOT MEDIAN) ACROSS RUNS?
+  Five runs per persona give us repeated measurements of the same latent
+  "agent personality."  Averaging collapses these to one number per persona,
+  eliminating pseudo-replication.  The MEAN is preferred over the median here
+  because:
+    (a) it preserves the full numerical gradient of the 1–5 Likert responses,
+    (b) it results in continuous-valued observations that spread more evenly
+        across the scale (fewer ties), which improves the power of rank-sum tests,
+    (c) it is the standard when the goal is to estimate the expected value of the
+        agent's response distribution for a given persona.
+  Using the mean vs. the median typically makes little difference when n=5, but
+  can slightly shift proportions and test statistics for skewed response patterns.

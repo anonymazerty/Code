@@ -1,0 +1,7 @@
+prompt_type,llm,model_name,run_number,num_simulations,total_tokens,total_llm_calls
+Calibrated,llama8B,llama3.1:8b,0,65,461981,301
+Calibrated,llama8B,llama3.1:8b,1,65,450033,295
+Calibrated,llama8B,llama3.1:8b,2,65,461890,303
+Calibrated,llama8B,llama3.1:8b,3,65,447561,293
+Calibrated,llama8B,llama3.1:8b,4,65,471907,307
+Calibrated,llama8B,llama3.1:8b,ALL,325,2293372,1499

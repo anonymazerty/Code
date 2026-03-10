@@ -1,0 +1,14 @@
+{
+  "accuracy": {"high": "greater than or equal to 0.8", "medium": "in between 0.6 and 0.79", "low": "below 0.6"},
+  "mastery": {"above threshold": "greater than or equal to 0.8", "below threshold": "below 0.8"},
+  "reward": {
+    "high": "normalized reward greater than or equal to 0.6",
+    "medium": "normalized reward in between 0.4 and 0.6",
+    "low": "normalized reward below 0.4"
+  },
+  "stability": {
+    "stable": "std below 0.05",
+    "moderate": "std in between 0.05 and 0.15",
+    "volatile": "std greater than or equal to 0.15"
+  }
+}

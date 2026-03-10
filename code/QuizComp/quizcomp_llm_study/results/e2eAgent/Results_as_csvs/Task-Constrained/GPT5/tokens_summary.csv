@@ -1,0 +1,7 @@
+prompt_type,llm,model_name,run_number,num_simulations,total_tokens,total_llm_calls
+Task-Constrained,GPT5,gpt-5-2025-08-07,0,65,376068,230
+Task-Constrained,GPT5,gpt-5-2025-08-07,1,65,384958,233
+Task-Constrained,GPT5,gpt-5-2025-08-07,2,65,392347,238
+Task-Constrained,GPT5,gpt-5-2025-08-07,3,65,364747,224
+Task-Constrained,GPT5,gpt-5-2025-08-07,4,65,380288,227
+Task-Constrained,GPT5,gpt-5-2025-08-07,ALL,325,1898408,1152

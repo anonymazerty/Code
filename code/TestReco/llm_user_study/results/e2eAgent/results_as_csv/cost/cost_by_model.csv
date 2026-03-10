@@ -1,0 +1,4 @@
+model,simul_student_usd,survey_usd,total_usd
+gpt-5-2025-08-07,353.575883,16.374135,369.950018
+llama-3-8b,2.652728,0.222093,2.874821
+mistral-24b-instruct,4.290884,0.328981,4.619865

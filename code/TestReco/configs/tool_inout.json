@@ -1,0 +1,23 @@
+{
+    "schema": {
+      "input": {
+        "student state": {
+          "mastery": "Dictionary of skill names to float values between 0 and 1. Example: {'Linear Algebra': 0.75}",
+          "accuracy": "Dictionary of (skill, difficulty) to float accuracy values. Example: {('Linear Algebra', 'easy'): 0.9}",
+          "failures": "Dictionary of skill × difficulty to failed question ratio (0-1). Example: {('Linear Algebra', 'easy'): 0.2}"
+        }
+      },
+      "output": {
+        "action": "String. One of ['Failed Questions', 'Easy Questions', 'High-Aptitude Questions']",
+        "recommended questions": "List of tuples. Each is a question identifier. Example: [('Q001', 'easy'), ('Q015', 'medium'), ('Q103', 'hard'), ('Q042', 'easy'), ('Q087', 'medium')]",
+        "student feedback": {
+          "performance reward": "Float. Normalized to [0, 1]",
+          "gap reward": "Float. Normalized to [0, 1]",
+          "aptitude reward": "Float. Normalized to [0, 1]",
+          "mastery change": "String. One of ['improved', 'declined', 'unchanged']"
+        }
+      }
+    },
+    "note": "This schema is shared by all tools."
+}
+  

@@ -1,0 +1,10 @@
+prompt_type,llm,model_name,total_tokens,rate_input_per_1m,rate_output_per_1m,rate_avg_per_1m,cost_lower_input_only,cost_avg,cost_upper_output_only
+Calibrated,GPT5,gpt-5-2025-08-07,5673925,2.5,20.0,11.25,14.184812,63.831656,113.4785
+Calibrated,llama8B,llama3.1:8b,2293372,0.036,0.038,0.037,0.082561,0.084855,0.087148
+Calibrated,Mistral,mistralai/mistral-small-3.2-24b-instruct,1821144,0.053,0.095,0.074,0.096521,0.134765,0.173009
+Role-Anchored,GPT5,gpt-5-2025-08-07,2057791,2.5,20.0,11.25,5.144477,23.150149,41.15582
+Role-Anchored,llama8B,llama3.1:8b,726702,0.036,0.038,0.037,0.026161,0.026888,0.027615
+Role-Anchored,Mistral,mistralai/mistral-small-3.2-24b-instruct,901816,0.053,0.095,0.074,0.047796,0.066734,0.085673
+Task-Constrained,GPT5,gpt-5-2025-08-07,1898408,2.5,20.0,11.25,4.74602,21.35709,37.96816
+Task-Constrained,llama8B,llama3.1:8b,985046,0.036,0.038,0.037,0.035462,0.036447,0.037432
+Task-Constrained,Mistral,mistralai/mistral-small-3.2-24b-instruct,840352,0.053,0.095,0.074,0.044539,0.062186,0.079833

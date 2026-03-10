@@ -1,0 +1,66 @@
+persona_id,Q1_Accomplishment,Q2_Effort,Q3_Mental_Demand,Q4_Controllability,Q5_Temporal_Demand,Q6_Satisfaction,Current_Job_Role
+0,3.8,2.0,2.0,3.8,1.0,3.8,College Teacher
+1,3.2,2.0,2.0,2.4,1.2,2.8,College Teacher
+2,3.6,1.6,1.6,3.6,1.0,3.6,High School Teacher
+3,3.6,2.0,2.0,2.6,1.0,3.2,College Teacher
+4,3.8,2.0,2.0,3.2,1.0,3.4,High School Teacher
+5,3.2,1.8,2.0,2.6,1.0,2.6,High School Teacher
+6,2.6,2.0,2.0,2.4,1.0,2.4,High School Teacher
+7,3.8,1.8,2.0,3.4,1.0,3.4,High School Teacher
+8,3.4,2.0,2.0,2.4,1.0,3.0,College Teacher
+9,3.6,1.8,2.0,3.2,1.0,3.4,High School Teacher
+10,3.8,1.8,2.0,3.0,1.0,3.4,College Teacher
+11,2.8,2.0,2.0,2.8,1.2,2.8,High School Teacher
+12,3.0,2.0,2.0,2.4,1.0,2.8,College Teacher
+13,3.8,1.8,2.0,3.4,1.0,3.4,College Teacher
+14,3.6,1.8,1.8,3.0,1.0,3.2,High School Teacher
+15,3.6,1.8,1.8,3.2,1.0,3.4,High School Teacher
+16,4.0,1.4,2.0,3.8,1.0,3.8,College Teacher
+17,3.4,1.6,2.0,2.8,1.0,3.0,High School Teacher
+18,3.6,1.8,1.8,3.2,1.0,3.4,College Teacher
+19,4.0,1.0,1.8,3.8,1.0,3.8,High School Teacher
+20,3.4,2.0,2.0,3.2,1.0,3.0,College Teacher
+21,4.0,1.8,1.8,4.0,1.0,4.0,High School Teacher
+22,3.4,2.0,2.0,2.8,1.0,3.4,College Teacher
+23,3.4,1.8,1.8,3.4,1.0,3.4,College Teacher
+24,3.4,2.0,2.0,2.4,1.0,2.8,College Teacher
+25,3.2,1.8,2.0,2.4,1.0,2.8,High School Teacher
+26,3.4,1.6,1.8,3.0,1.0,3.0,College Teacher
+27,3.2,1.8,1.8,3.0,1.0,3.0,College Teacher
+28,3.0,2.0,2.0,2.6,1.2,2.8,College Teacher
+29,3.6,2.0,2.0,3.0,1.0,3.6,College Teacher
+30,3.2,2.0,2.0,2.8,1.0,2.8,College Teacher
+31,3.4,1.8,2.0,3.2,1.0,3.2,High School Teacher
+32,2.6,2.0,2.0,2.0,1.0,2.2,College Teacher
+33,3.6,1.6,2.0,3.2,1.0,3.6,College Teacher
+34,3.0,1.8,1.8,2.6,1.0,2.8,College Teacher
+35,3.0,2.0,2.0,2.6,1.0,2.8,High School Teacher
+36,2.8,2.0,2.0,2.8,1.0,2.8,High School Teacher
+37,2.8,2.4,2.0,2.4,1.0,2.6,High School Teacher
+38,3.4,1.8,1.8,3.2,1.0,3.4,College Teacher
+39,3.4,2.4,2.0,3.4,1.0,3.2,College Teacher
+40,3.6,2.0,2.0,2.8,1.0,3.2,College Teacher
+41,3.2,2.6,2.0,3.0,1.0,3.0,High School Teacher
+42,3.4,2.0,2.0,2.8,1.0,3.2,High School Teacher
+43,3.2,2.0,2.0,2.6,1.0,2.8,College Teacher
+44,3.2,2.0,2.0,3.4,1.0,3.2,High School Teacher
+45,3.4,2.0,2.0,2.8,1.0,3.0,College Teacher
+46,3.0,2.0,2.0,2.6,1.0,2.8,College Teacher
+47,3.0,2.0,2.0,2.4,1.0,2.6,High School Teacher
+48,3.0,2.0,2.0,2.4,1.0,3.0,College Teacher
+49,3.4,2.0,2.0,2.6,1.0,3.4,College Teacher
+50,3.8,2.0,2.0,3.2,1.0,3.4,High School Teacher
+51,3.4,1.8,1.8,3.0,1.0,3.2,High School Teacher
+52,3.2,1.8,1.8,2.8,1.0,2.8,College Teacher
+53,3.0,1.8,2.0,2.6,1.0,3.0,High School Teacher
+54,3.4,2.0,2.0,2.8,1.2,3.2,High School Teacher
+55,3.4,2.0,2.0,3.0,1.0,3.4,College Teacher
+56,3.2,1.8,1.8,3.0,1.0,3.2,College Teacher
+57,3.4,1.8,2.0,3.0,1.0,3.4,College Teacher
+58,3.0,2.0,2.0,2.2,1.0,2.8,High School Teacher
+59,3.8,1.6,1.6,3.6,1.0,3.8,College Teacher
+60,3.2,2.0,2.0,2.8,1.2,3.2,College Teacher
+61,3.6,2.0,2.0,3.2,1.0,3.2,High School Teacher
+62,3.2,2.0,2.0,2.6,1.0,3.0,High School Teacher
+63,3.2,2.2,2.2,2.8,1.2,3.2,College Teacher
+64,3.2,2.0,2.0,2.8,1.0,3.0,College Teacher

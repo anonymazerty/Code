@@ -1,0 +1,7 @@
+llm,model_name,run_number,num_simulations,total_tokens,total_llm_calls
+llama8B,llama3.1:8b,1,65,68441,65
+llama8B,llama3.1:8b,2,65,70156,65
+llama8B,llama3.1:8b,3,65,67085,65
+llama8B,llama3.1:8b,4,65,67070,65
+llama8B,llama3.1:8b,5,65,68215,65
+llama8B,llama3.1:8b,ALL,325,340967,325

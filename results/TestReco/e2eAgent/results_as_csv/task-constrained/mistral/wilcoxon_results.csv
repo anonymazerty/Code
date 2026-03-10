@@ -1,0 +1,25 @@
+metric,metric_label,U_stat,p_value,significance,crowd_n,agent_n,mode,prompt,model,profile
+accomplishment,Q1: Accomplishment,612.0,6.56339767895734e-10,***,55,55,E2E Agent,Task-Constrained,Mistral-24B,All
+effort_required,Q2: Effort Required,2673.0,1.454999296963959e-13,***,55,55,E2E Agent,Task-Constrained,Mistral-24B,All
+mental_demand,Q3: Mental Demand,2172.5,1.6009401151057236e-06,***,55,55,E2E Agent,Task-Constrained,Mistral-24B,All
+perceived_controllability,Q4: Controllability,1546.0,0.8237575900599325,ns,55,55,E2E Agent,Task-Constrained,Mistral-24B,All
+temporal_demand,Q5: Temporal Demand,2451.5,1.2018663441076866e-09,***,55,55,E2E Agent,Task-Constrained,Mistral-24B,All
+trust,Q6: Trust,627.0,7.298782671864835e-09,***,55,55,E2E Agent,Task-Constrained,Mistral-24B,All
+accomplishment,Q1: Accomplishment,21.0,0.06952711765529632,ns,9,9,E2E Agent,Task-Constrained,Mistral-24B,high_school
+effort_required,Q2: Effort Required,64.5,0.027166755534789973,*,9,9,E2E Agent,Task-Constrained,Mistral-24B,high_school
+mental_demand,Q3: Mental Demand,54.0,0.14293891411903953,ns,9,9,E2E Agent,Task-Constrained,Mistral-24B,high_school
+perceived_controllability,Q4: Controllability,52.5,0.2849613964660028,ns,9,9,E2E Agent,Task-Constrained,Mistral-24B,high_school
+temporal_demand,Q5: Temporal Demand,58.5,0.08860097919771151,ns,9,9,E2E Agent,Task-Constrained,Mistral-24B,high_school
+trust,Q6: Trust,23.0,0.10460031949019537,ns,9,9,E2E Agent,Task-Constrained,Mistral-24B,high_school
+accomplishment,Q1: Accomplishment,76.5,2.41462052852682e-06,***,23,23,E2E Agent,Task-Constrained,Mistral-24B,undergraduate
+effort_required,Q2: Effort Required,483.5,2.2482955823052843e-07,***,23,23,E2E Agent,Task-Constrained,Mistral-24B,undergraduate
+mental_demand,Q3: Mental Demand,345.0,0.03978326389629477,*,23,23,E2E Agent,Task-Constrained,Mistral-24B,undergraduate
+perceived_controllability,Q4: Controllability,163.5,0.011633378778325968,*,23,23,E2E Agent,Task-Constrained,Mistral-24B,undergraduate
+temporal_demand,Q5: Temporal Demand,444.5,8.730027591202627e-06,***,23,23,E2E Agent,Task-Constrained,Mistral-24B,undergraduate
+trust,Q6: Trust,87.5,3.327067029688638e-05,***,23,23,E2E Agent,Task-Constrained,Mistral-24B,undergraduate
+accomplishment,Q1: Accomplishment,124.0,0.00014431354718471312,***,23,23,E2E Agent,Task-Constrained,Mistral-24B,graduate
+effort_required,Q2: Effort Required,477.0,7.47349024618016e-07,***,23,23,E2E Agent,Task-Constrained,Mistral-24B,graduate
+mental_demand,Q3: Mental Demand,425.5,9.72135519767369e-06,***,23,23,E2E Agent,Task-Constrained,Mistral-24B,graduate
+perceived_controllability,Q4: Controllability,345.0,0.03310069283891681,*,23,23,E2E Agent,Task-Constrained,Mistral-24B,graduate
+temporal_demand,Q5: Temporal Demand,436.0,7.090275492234398e-05,***,23,23,E2E Agent,Task-Constrained,Mistral-24B,graduate
+trust,Q6: Trust,92.0,4.629053801093996e-06,***,23,23,E2E Agent,Task-Constrained,Mistral-24B,graduate

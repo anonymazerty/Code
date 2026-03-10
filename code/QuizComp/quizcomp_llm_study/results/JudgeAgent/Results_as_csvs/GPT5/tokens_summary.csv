@@ -1,0 +1,7 @@
+llm,model_name,run_number,num_simulations,total_tokens,total_llm_calls
+GPT5,gpt-5-2025-08-07,1,65,116316,65
+GPT5,gpt-5-2025-08-07,2,65,114474,64
+GPT5,gpt-5-2025-08-07,3,65,114940,65
+GPT5,gpt-5-2025-08-07,4,65,115979,65
+GPT5,gpt-5-2025-08-07,5,65,114712,65
+GPT5,gpt-5-2025-08-07,ALL,325,576421,324

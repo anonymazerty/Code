@@ -1,0 +1,7 @@
+prompt_type,llm,model_name,run_number,num_simulations,total_tokens,total_llm_calls
+Calibrated,Mistral,mistralai/mistral-small-3.2-24b-instruct,0,65,357827,237
+Calibrated,Mistral,mistralai/mistral-small-3.2-24b-instruct,1,65,357623,237
+Calibrated,Mistral,mistralai/mistral-small-3.2-24b-instruct,2,65,365211,241
+Calibrated,Mistral,mistralai/mistral-small-3.2-24b-instruct,3,65,363180,240
+Calibrated,Mistral,mistralai/mistral-small-3.2-24b-instruct,4,65,377303,248
+Calibrated,Mistral,mistralai/mistral-small-3.2-24b-instruct,ALL,325,1821144,1203

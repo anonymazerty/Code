@@ -1,0 +1,7 @@
+prompt_type,llm,model_name,run_number,num_simulations,total_tokens,total_llm_calls
+Role-Anchored,Mistral,mistralai/mistral-small-3.2-24b-instruct,0,65,182421,175
+Role-Anchored,Mistral,mistralai/mistral-small-3.2-24b-instruct,1,65,182267,175
+Role-Anchored,Mistral,mistralai/mistral-small-3.2-24b-instruct,2,65,183648,176
+Role-Anchored,Mistral,mistralai/mistral-small-3.2-24b-instruct,3,65,167440,162
+Role-Anchored,Mistral,mistralai/mistral-small-3.2-24b-instruct,4,65,186040,178
+Role-Anchored,Mistral,mistralai/mistral-small-3.2-24b-instruct,ALL,325,901816,866

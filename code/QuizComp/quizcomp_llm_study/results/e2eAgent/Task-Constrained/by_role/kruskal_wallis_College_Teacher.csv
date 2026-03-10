@@ -1,0 +1,7 @@
+Question,Question_Name,H_statistic,p_value,Significant
+Q1,Accomplishment,43.0299,2.425337681557232e-09,Yes
+Q2,Effort,60.4676,4.670356174480607e-13,Yes
+Q3,Mental Demand,52.1206,2.8228942824029386e-11,Yes
+Q4,Controllability,27.5107,4.600773995389267e-06,Yes
+Q5,Temporal Demand,106.7958,5.367982818056266e-23,Yes
+Q6,Satisfaction,32.6544,3.8091381368270427e-07,Yes

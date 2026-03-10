@@ -1,0 +1,25 @@
+metric,metric_label,crowd_n,crowd_median,crowd_iqr,ci_med,ci_iqr,agent_n,agent_median,agent_iqr,delta_med,delta_iqr,med_compatible,iqr_compatible,d_score,align_score,mode,prompt,model,profile
+accomplishment,Q1: Accomplishment,55,4.0,2.0,"[4.0, 4.0]","[1.0, 2.5]",55,5.0,0.0,1.0,-2.0,False,False,1.5,0.22313016014842982,E2E Agent,Task-Constrained,LLaMA-8B,All
+effort_required,Q2: Effort Required,55,5.0,1.0,"[4.0, 5.0]","[1.0, 1.0]",55,3.0,0.0,-2.0,-1.0,False,False,3.0,0.049787068367863944,E2E Agent,Task-Constrained,LLaMA-8B,All
+mental_demand,Q3: Mental Demand,55,5.0,1.0,"[4.0, 5.0]","[1.0, 1.0]",55,4.0,0.0,-1.0,-1.0,True,False,2.0,0.1353352832366127,E2E Agent,Task-Constrained,LLaMA-8B,All
+perceived_controllability,Q4: Controllability,55,4.0,2.0,"[4.0, 4.0]","[1.0, 2.5]",55,4.0,0.0,0.0,-2.0,True,False,1.0,0.36787944117144233,E2E Agent,Task-Constrained,LLaMA-8B,All
+temporal_demand,Q5: Temporal Demand,55,4.0,2.0,"[3.0, 5.0]","[2.0, 3.0]",55,2.0,0.0,-2.0,-2.0,False,False,2.0,0.1353352832366127,E2E Agent,Task-Constrained,LLaMA-8B,All
+trust,Q6: Trust,55,4.0,2.0,"[3.0, 4.0]","[1.0, 2.0]",55,5.0,1.0,1.0,-1.0,False,True,1.0,0.36787944117144233,E2E Agent,Task-Constrained,LLaMA-8B,All
+accomplishment,Q1: Accomplishment,9,4.0,2.0,"[1.0, 5.0]","[0.0, 4.0]",9,5.0,1.0,1.0,-1.0,True,True,1.0,0.36787944117144233,E2E Agent,Task-Constrained,LLaMA-8B,high_school
+effort_required,Q2: Effort Required,9,5.0,1.0,"[3.0, 5.0]","[0.0, 3.0]",9,3.0,1.0,-2.0,0.0,True,True,2.0,0.1353352832366127,E2E Agent,Task-Constrained,LLaMA-8B,high_school
+mental_demand,Q3: Mental Demand,9,4.0,1.0,"[4.0, 5.0]","[0.0, 2.0]",9,4.0,0.0,0.0,-1.0,True,True,1.0,0.36787944117144233,E2E Agent,Task-Constrained,LLaMA-8B,high_school
+perceived_controllability,Q4: Controllability,9,4.0,2.0,"[2.0, 5.0]","[0.0, 3.0]",9,3.0,1.0,-1.0,-1.0,True,True,1.0,0.36787944117144233,E2E Agent,Task-Constrained,LLaMA-8B,high_school
+temporal_demand,Q5: Temporal Demand,9,3.0,2.0,"[1.0, 4.0]","[0.0, 4.0]",9,2.0,0.0,-1.0,-2.0,True,True,1.5,0.22313016014842982,E2E Agent,Task-Constrained,LLaMA-8B,high_school
+trust,Q6: Trust,9,3.0,1.0,"[3.0, 5.0]","[0.0, 3.0]",9,4.0,0.0,1.0,-1.0,True,True,2.0,0.1353352832366127,E2E Agent,Task-Constrained,LLaMA-8B,high_school
+accomplishment,Q1: Accomplishment,23,4.0,2.0,"[3.0, 4.0]","[0.0, 3.0]",23,5.0,1.0,1.0,-1.0,False,True,1.0,0.36787944117144233,E2E Agent,Task-Constrained,LLaMA-8B,undergraduate
+effort_required,Q2: Effort Required,23,4.0,1.0,"[4.0, 5.0]","[0.5, 1.0]",23,3.0,0.0,-1.0,-1.0,False,False,2.0,0.1353352832366127,E2E Agent,Task-Constrained,LLaMA-8B,undergraduate
+mental_demand,Q3: Mental Demand,23,5.0,1.0,"[4.0, 5.0]","[0.5, 2.0]",23,4.0,0.0,-1.0,-1.0,True,False,2.0,0.1353352832366127,E2E Agent,Task-Constrained,LLaMA-8B,undergraduate
+perceived_controllability,Q4: Controllability,23,3.0,1.5,"[3.0, 4.0]","[1.0, 2.0]",23,4.0,0.0,1.0,-1.5,True,False,1.6666666666666665,0.18887560283756186,E2E Agent,Task-Constrained,LLaMA-8B,undergraduate
+temporal_demand,Q5: Temporal Demand,23,4.0,2.5,"[3.0, 5.0]","[1.0, 3.0]",23,2.0,0.0,-2.0,-2.5,False,False,1.8,0.16529888822158653,E2E Agent,Task-Constrained,LLaMA-8B,undergraduate
+trust,Q6: Trust,23,3.0,1.5,"[3.0, 4.0]","[1.0, 3.0]",23,4.0,1.0,1.0,-0.5,True,True,1.0,0.36787944117144233,E2E Agent,Task-Constrained,LLaMA-8B,undergraduate
+accomplishment,Q1: Accomplishment,23,4.0,1.0,"[4.0, 5.0]","[1.0, 2.0]",23,5.0,0.0,1.0,-1.0,True,False,2.0,0.1353352832366127,E2E Agent,Task-Constrained,LLaMA-8B,graduate
+effort_required,Q2: Effort Required,23,5.0,0.5,"[5.0, 5.0]","[0.0, 1.0]",23,3.0,0.5,-2.0,0.0,False,True,4.0,0.01831563888873418,E2E Agent,Task-Constrained,LLaMA-8B,graduate
+mental_demand,Q3: Mental Demand,23,5.0,1.0,"[4.0, 5.0]","[0.0, 1.0]",23,4.0,0.0,-1.0,-1.0,True,True,2.0,0.1353352832366127,E2E Agent,Task-Constrained,LLaMA-8B,graduate
+perceived_controllability,Q4: Controllability,23,4.0,1.0,"[4.0, 5.0]","[1.0, 2.0]",23,4.0,0.0,0.0,-1.0,True,False,1.0,0.36787944117144233,E2E Agent,Task-Constrained,LLaMA-8B,graduate
+temporal_demand,Q5: Temporal Demand,23,5.0,2.0,"[3.0, 5.0]","[0.0, 4.0]",23,2.0,0.0,-3.0,-2.0,False,True,2.5,0.0820849986238988,E2E Agent,Task-Constrained,LLaMA-8B,graduate
+trust,Q6: Trust,23,4.0,1.0,"[4.0, 5.0]","[0.0, 2.0]",23,5.0,0.0,1.0,-1.0,True,True,2.0,0.1353352832366127,E2E Agent,Task-Constrained,LLaMA-8B,graduate

@@ -1,0 +1,25 @@
+metric,metric_label,U_stat,p_value,significance,crowd_n,agent_n,mode,prompt,model,profile
+accomplishment,Q1: Accomplishment,729.0,1.7269034100798944e-07,***,55,55,E2E Agent,Task-Constrained,LLaMA-8B,All
+effort_required,Q2: Effort Required,2673.0,1.454999296963959e-13,***,55,55,E2E Agent,Task-Constrained,LLaMA-8B,All
+mental_demand,Q3: Mental Demand,2172.5,1.6009401151057236e-06,***,55,55,E2E Agent,Task-Constrained,LLaMA-8B,All
+perceived_controllability,Q4: Controllability,1531.5,0.9000728428000866,ns,55,55,E2E Agent,Task-Constrained,LLaMA-8B,All
+temporal_demand,Q5: Temporal Demand,2468.5,4.3677943232234484e-10,***,55,55,E2E Agent,Task-Constrained,LLaMA-8B,All
+trust,Q6: Trust,759.0,1.3029259438769337e-06,***,55,55,E2E Agent,Task-Constrained,LLaMA-8B,All
+accomplishment,Q1: Accomplishment,21.0,0.06952711765529632,ns,9,9,E2E Agent,Task-Constrained,LLaMA-8B,high_school
+effort_required,Q2: Effort Required,61.5,0.057353335459160666,ns,9,9,E2E Agent,Task-Constrained,LLaMA-8B,high_school
+mental_demand,Q3: Mental Demand,54.0,0.14293891411903953,ns,9,9,E2E Agent,Task-Constrained,LLaMA-8B,high_school
+perceived_controllability,Q4: Controllability,52.5,0.2849613964660028,ns,9,9,E2E Agent,Task-Constrained,LLaMA-8B,high_school
+temporal_demand,Q5: Temporal Demand,58.5,0.08860097919771151,ns,9,9,E2E Agent,Task-Constrained,LLaMA-8B,high_school
+trust,Q6: Trust,25.0,0.1423936974688228,ns,9,9,E2E Agent,Task-Constrained,LLaMA-8B,high_school
+accomplishment,Q1: Accomplishment,121.5,0.000672557118149643,***,23,23,E2E Agent,Task-Constrained,LLaMA-8B,undergraduate
+effort_required,Q2: Effort Required,489.0,9.099934828573476e-08,***,23,23,E2E Agent,Task-Constrained,LLaMA-8B,undergraduate
+mental_demand,Q3: Mental Demand,345.0,0.03978326389629477,*,23,23,E2E Agent,Task-Constrained,LLaMA-8B,undergraduate
+perceived_controllability,Q4: Controllability,149.5,0.002988295364476668,**,23,23,E2E Agent,Task-Constrained,LLaMA-8B,undergraduate
+temporal_demand,Q5: Temporal Demand,448.5,3.962991540790109e-06,***,23,23,E2E Agent,Task-Constrained,LLaMA-8B,undergraduate
+trust,Q6: Trust,117.5,0.0007097067727040397,***,23,23,E2E Agent,Task-Constrained,LLaMA-8B,undergraduate
+accomplishment,Q1: Accomplishment,124.0,0.00014431354718471312,***,23,23,E2E Agent,Task-Constrained,LLaMA-8B,graduate
+effort_required,Q2: Effort Required,479.5,5.056321276315818e-07,***,23,23,E2E Agent,Task-Constrained,LLaMA-8B,graduate
+mental_demand,Q3: Mental Demand,425.5,9.72135519767369e-06,***,23,23,E2E Agent,Task-Constrained,LLaMA-8B,graduate
+perceived_controllability,Q4: Controllability,350.5,0.025654302725166115,*,23,23,E2E Agent,Task-Constrained,LLaMA-8B,graduate
+temporal_demand,Q5: Temporal Demand,438.5,5.0584476636321376e-05,***,23,23,E2E Agent,Task-Constrained,LLaMA-8B,graduate
+trust,Q6: Trust,101.5,2.1213557453624275e-05,***,23,23,E2E Agent,Task-Constrained,LLaMA-8B,graduate

@@ -1,0 +1,25 @@
+metric,metric_label,U_stat,p_value,significance,crowd_n,agent_n,mode,prompt,model,profile
+accomplishment,Q1: Accomplishment,1719.5,0.19941270571512348,ns,55,55,AgentJudge,N/A,GPT-5,All
+effort_required,Q2: Effort Required,2483.0,6.386661574863157e-10,***,55,55,AgentJudge,N/A,GPT-5,All
+mental_demand,Q3: Mental Demand,2435.5,3.065599359623422e-09,***,55,55,AgentJudge,N/A,GPT-5,All
+perceived_controllability,Q4: Controllability,2174.0,3.9713611575274124e-05,***,55,55,AgentJudge,N/A,GPT-5,All
+temporal_demand,Q5: Temporal Demand,2400.5,1.6908960376572657e-08,***,55,55,AgentJudge,N/A,GPT-5,All
+trust,Q6: Trust,1907.5,0.013819908988744651,*,55,55,AgentJudge,N/A,GPT-5,All
+accomplishment,Q1: Accomplishment,43.0,0.8557860748112573,ns,9,9,AgentJudge,N/A,GPT-5,high_school
+effort_required,Q2: Effort Required,55.5,0.1543417614793357,ns,9,9,AgentJudge,N/A,GPT-5,high_school
+mental_demand,Q3: Mental Demand,52.5,0.24137287013119624,ns,9,9,AgentJudge,N/A,GPT-5,high_school
+perceived_controllability,Q4: Controllability,60.5,0.07206444762560463,ns,9,9,AgentJudge,N/A,GPT-5,high_school
+temporal_demand,Q5: Temporal Demand,46.5,0.6012829957986746,ns,9,9,AgentJudge,N/A,GPT-5,high_school
+trust,Q6: Trust,53.0,0.2755170189808518,ns,9,9,AgentJudge,N/A,GPT-5,high_school
+accomplishment,Q1: Accomplishment,248.5,0.7233051974255128,ns,23,23,AgentJudge,N/A,GPT-5,undergraduate
+effort_required,Q2: Effort Required,395.5,0.0009984130303709725,***,23,23,AgentJudge,N/A,GPT-5,undergraduate
+mental_demand,Q3: Mental Demand,356.0,0.023317396166349487,*,23,23,AgentJudge,N/A,GPT-5,undergraduate
+perceived_controllability,Q4: Controllability,279.5,0.7348238238606195,ns,23,23,AgentJudge,N/A,GPT-5,undergraduate
+temporal_demand,Q5: Temporal Demand,424.5,0.00017599067318650974,***,23,23,AgentJudge,N/A,GPT-5,undergraduate
+trust,Q6: Trust,243.5,0.6354020712120989,ns,23,23,AgentJudge,N/A,GPT-5,undergraduate
+accomplishment,Q1: Accomplishment,359.5,0.029070713103869286,*,23,23,AgentJudge,N/A,GPT-5,graduate
+effort_required,Q2: Effort Required,482.0,3.3024028412310427e-07,***,23,23,AgentJudge,N/A,GPT-5,graduate
+mental_demand,Q3: Mental Demand,515.5,3.805726717912997e-09,***,23,23,AgentJudge,N/A,GPT-5,graduate
+perceived_controllability,Q4: Controllability,461.5,7.041794689368881e-06,***,23,23,AgentJudge,N/A,GPT-5,graduate
+temporal_demand,Q5: Temporal Demand,448.5,9.554222623458502e-06,***,23,23,AgentJudge,N/A,GPT-5,graduate
+trust,Q6: Trust,420.0,0.00034626455921136384,***,23,23,AgentJudge,N/A,GPT-5,graduate

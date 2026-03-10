@@ -1,0 +1,66 @@
+{
+  "_comment": "Pricing per 1M tokens (student-simulation models only, NOT orchestrator). GPT-5: OpenAI direct API pricing. LLaMA 3 8B, Mistral Small 24B: OpenRouter weighted-average pricing.",
+  "model_pricing": {
+    "gpt-5-2025-08-07": {
+      "display_name": "GPT-5",
+      "input_per_1m": 2.50,
+      "output_per_1m": 20.00,
+      "source": "OpenAI direct API (Batch API: input $1.25, cached $0.125, output $10.00)"
+    },
+    "llama3.1:8b": {
+      "display_name": "LLaMA 3 8B",
+      "input_per_1m": 0.036,
+      "output_per_1m": 0.038,
+      "source": "OpenRouter weighted avg — DeepInfra $0.029/$0.036, Novita $0.040/$0.034, Together $0.099/$0.088"
+    },
+    "mistralai/mistral-small-3.2-24b-instruct": {
+      "display_name": "Mistral Small 24B",
+      "input_per_1m": 0.053,
+      "output_per_1m": 0.095,
+      "source": "OpenRouter weighted avg — DeepInfra $0.050/$0.078, Together $0.100/$0.297"
+    }
+  },
+  "provider_breakdown": {
+    "gpt-5-2025-08-07": {
+      "openai": {
+        "input_per_1m": 2.50,
+        "cached_input_per_1m": 0.25,
+        "output_per_1m": 20.00
+      },
+      "openai_batch": {
+        "input_per_1m": 1.25,
+        "cached_input_per_1m": 0.125,
+        "output_per_1m": 10.00
+      }
+    },
+    "llama3.1:8b": {
+      "deepinfra": {
+        "input_per_1m": 0.029,
+        "output_per_1m": 0.036,
+        "cache_hit_rate": 0.0
+      },
+      "novita": {
+        "input_per_1m": 0.040,
+        "output_per_1m": 0.034,
+        "cache_hit_rate": 0.0
+      },
+      "together": {
+        "input_per_1m": 0.099,
+        "output_per_1m": 0.088,
+        "cache_hit_rate": 0.0
+      }
+    },
+    "mistralai/mistral-small-3.2-24b-instruct": {
+      "deepinfra": {
+        "input_per_1m": 0.050,
+        "output_per_1m": 0.078,
+        "cache_hit_rate": 0.0
+      },
+      "together": {
+        "input_per_1m": 0.100,
+        "output_per_1m": 0.297,
+        "cache_hit_rate": 0.0
+      }
+    }
+  }
+}

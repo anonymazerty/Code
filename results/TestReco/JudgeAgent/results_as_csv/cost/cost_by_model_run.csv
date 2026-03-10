@@ -1,0 +1,16 @@
+model,run_number,survey_usd,n_calls
+gpt-5-2025-08-07,1,0.767247,23
+gpt-5-2025-08-07,2,0.807078,23
+gpt-5-2025-08-07,3,0.300293,9
+gpt-5-2025-08-07,4,1.889133,55
+gpt-5-2025-08-07,5,1.862272,55
+llama-3-8b,1,0.012091,55
+llama-3-8b,2,0.012114,55
+llama-3-8b,3,0.003167,14
+llama-3-8b,4,0.012247,55
+llama-3-8b,5,0.012181,55
+mistral-24b-instruct,1,0.004015,9
+mistral-24b-instruct,2,0.003988,9
+mistral-24b-instruct,3,0.004016,9
+mistral-24b-instruct,4,0.024131,55
+mistral-24b-instruct,5,0.024066,55

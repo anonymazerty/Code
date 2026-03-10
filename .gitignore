@@ -1,0 +1,34 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+llm_env/
+pip-wheel-metadata/
+.pytest_cache/
+.mypy_cache/
+llm_study_env/
+# --- Streamlit ---
+.streamlit/secrets.toml
+
+# --- Env / secrets ---
+.env
+*.env
+**/.env
+
+
+# --- Private dataset ---
+**/benchmarks/MATHE/
+**/benchmarks/MedMCQA/
+*survey_session_*.json
+
+# --- Large files ---
+*_training.log
+
+.claude/

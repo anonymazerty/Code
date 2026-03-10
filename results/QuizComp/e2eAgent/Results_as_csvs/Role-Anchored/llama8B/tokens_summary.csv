@@ -1,0 +1,7 @@
+prompt_type,llm,model_name,run_number,num_simulations,total_tokens,total_llm_calls
+Role-Anchored,llama8B,llama3.1:8b,0,65,144706,134
+Role-Anchored,llama8B,llama3.1:8b,1,65,144619,135
+Role-Anchored,llama8B,llama3.1:8b,2,65,147187,137
+Role-Anchored,llama8B,llama3.1:8b,3,65,147968,139
+Role-Anchored,llama8B,llama3.1:8b,4,65,142222,134
+Role-Anchored,llama8B,llama3.1:8b,ALL,325,726702,679

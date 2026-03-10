@@ -1,0 +1,289 @@
+metric,metric_label,U_stat,p_value,significance,crowd_n,agent_n,mode,prompt,model,profile
+accomplishment,Q1: Accomplishment,729.0,1.7269034100798944e-07,***,55,55,E2E Agent,Task-Constrained,LLaMA-8B,All
+effort_required,Q2: Effort Required,2673.0,1.454999296963959e-13,***,55,55,E2E Agent,Task-Constrained,LLaMA-8B,All
+mental_demand,Q3: Mental Demand,2172.5,1.6009401151057236e-06,***,55,55,E2E Agent,Task-Constrained,LLaMA-8B,All
+perceived_controllability,Q4: Controllability,1531.5,0.9000728428000866,ns,55,55,E2E Agent,Task-Constrained,LLaMA-8B,All
+temporal_demand,Q5: Temporal Demand,2468.5,4.3677943232234484e-10,***,55,55,E2E Agent,Task-Constrained,LLaMA-8B,All
+trust,Q6: Trust,759.0,1.3029259438769337e-06,***,55,55,E2E Agent,Task-Constrained,LLaMA-8B,All
+accomplishment,Q1: Accomplishment,21.0,0.06952711765529632,ns,9,9,E2E Agent,Task-Constrained,LLaMA-8B,high_school
+effort_required,Q2: Effort Required,61.5,0.057353335459160666,ns,9,9,E2E Agent,Task-Constrained,LLaMA-8B,high_school
+mental_demand,Q3: Mental Demand,54.0,0.14293891411903953,ns,9,9,E2E Agent,Task-Constrained,LLaMA-8B,high_school
+perceived_controllability,Q4: Controllability,52.5,0.2849613964660028,ns,9,9,E2E Agent,Task-Constrained,LLaMA-8B,high_school
+temporal_demand,Q5: Temporal Demand,58.5,0.08860097919771151,ns,9,9,E2E Agent,Task-Constrained,LLaMA-8B,high_school
+trust,Q6: Trust,25.0,0.1423936974688228,ns,9,9,E2E Agent,Task-Constrained,LLaMA-8B,high_school
+accomplishment,Q1: Accomplishment,121.5,0.000672557118149643,***,23,23,E2E Agent,Task-Constrained,LLaMA-8B,undergraduate
+effort_required,Q2: Effort Required,489.0,9.099934828573476e-08,***,23,23,E2E Agent,Task-Constrained,LLaMA-8B,undergraduate
+mental_demand,Q3: Mental Demand,345.0,0.03978326389629477,*,23,23,E2E Agent,Task-Constrained,LLaMA-8B,undergraduate
+perceived_controllability,Q4: Controllability,149.5,0.002988295364476668,**,23,23,E2E Agent,Task-Constrained,LLaMA-8B,undergraduate
+temporal_demand,Q5: Temporal Demand,448.5,3.962991540790109e-06,***,23,23,E2E Agent,Task-Constrained,LLaMA-8B,undergraduate
+trust,Q6: Trust,117.5,0.0007097067727040397,***,23,23,E2E Agent,Task-Constrained,LLaMA-8B,undergraduate
+accomplishment,Q1: Accomplishment,124.0,0.00014431354718471312,***,23,23,E2E Agent,Task-Constrained,LLaMA-8B,graduate
+effort_required,Q2: Effort Required,479.5,5.056321276315818e-07,***,23,23,E2E Agent,Task-Constrained,LLaMA-8B,graduate
+mental_demand,Q3: Mental Demand,425.5,9.72135519767369e-06,***,23,23,E2E Agent,Task-Constrained,LLaMA-8B,graduate
+perceived_controllability,Q4: Controllability,350.5,0.025654302725166115,*,23,23,E2E Agent,Task-Constrained,LLaMA-8B,graduate
+temporal_demand,Q5: Temporal Demand,438.5,5.0584476636321376e-05,***,23,23,E2E Agent,Task-Constrained,LLaMA-8B,graduate
+trust,Q6: Trust,101.5,2.1213557453624275e-05,***,23,23,E2E Agent,Task-Constrained,LLaMA-8B,graduate
+accomplishment,Q1: Accomplishment,573.0,6.991851380538204e-11,***,55,55,E2E Agent,Task-Constrained,GPT-5,All
+effort_required,Q2: Effort Required,2711.0,1.321543727961126e-14,***,55,55,E2E Agent,Task-Constrained,GPT-5,All
+mental_demand,Q3: Mental Demand,2172.5,1.6009401151057236e-06,***,55,55,E2E Agent,Task-Constrained,GPT-5,All
+perceived_controllability,Q4: Controllability,1531.5,0.9000728428000866,ns,55,55,E2E Agent,Task-Constrained,GPT-5,All
+temporal_demand,Q5: Temporal Demand,2468.5,4.3677943232234484e-10,***,55,55,E2E Agent,Task-Constrained,GPT-5,All
+trust,Q6: Trust,610.5,3.4068975344779355e-09,***,55,55,E2E Agent,Task-Constrained,GPT-5,All
+accomplishment,Q1: Accomplishment,21.0,0.06952711765529632,ns,9,9,E2E Agent,Task-Constrained,GPT-5,high_school
+effort_required,Q2: Effort Required,66.0,0.016735462679022366,*,9,9,E2E Agent,Task-Constrained,GPT-5,high_school
+mental_demand,Q3: Mental Demand,54.0,0.14293891411903953,ns,9,9,E2E Agent,Task-Constrained,GPT-5,high_school
+perceived_controllability,Q4: Controllability,52.5,0.2849613964660028,ns,9,9,E2E Agent,Task-Constrained,GPT-5,high_school
+temporal_demand,Q5: Temporal Demand,58.5,0.08860097919771151,ns,9,9,E2E Agent,Task-Constrained,GPT-5,high_school
+trust,Q6: Trust,23.0,0.10460031949019537,ns,9,9,E2E Agent,Task-Constrained,GPT-5,high_school
+accomplishment,Q1: Accomplishment,69.0,6.459455510527547e-07,***,23,23,E2E Agent,Task-Constrained,GPT-5,undergraduate
+effort_required,Q2: Effort Required,489.0,9.099934828573476e-08,***,23,23,E2E Agent,Task-Constrained,GPT-5,undergraduate
+mental_demand,Q3: Mental Demand,345.0,0.03978326389629477,*,23,23,E2E Agent,Task-Constrained,GPT-5,undergraduate
+perceived_controllability,Q4: Controllability,156.5,0.0061450058008509474,**,23,23,E2E Agent,Task-Constrained,GPT-5,undergraduate
+temporal_demand,Q5: Temporal Demand,444.5,8.730027591202627e-06,***,23,23,E2E Agent,Task-Constrained,GPT-5,undergraduate
+trust,Q6: Trust,82.5,1.7268959215757098e-05,***,23,23,E2E Agent,Task-Constrained,GPT-5,undergraduate
+accomplishment,Q1: Accomplishment,115.0,3.4417431761498854e-05,***,23,23,E2E Agent,Task-Constrained,GPT-5,graduate
+effort_required,Q2: Effort Required,482.0,3.3024028412310427e-07,***,23,23,E2E Agent,Task-Constrained,GPT-5,graduate
+mental_demand,Q3: Mental Demand,425.5,9.72135519767369e-06,***,23,23,E2E Agent,Task-Constrained,GPT-5,graduate
+perceived_controllability,Q4: Controllability,345.0,0.03310069283891681,*,23,23,E2E Agent,Task-Constrained,GPT-5,graduate
+temporal_demand,Q5: Temporal Demand,441.0,3.508865311214238e-05,***,23,23,E2E Agent,Task-Constrained,GPT-5,graduate
+trust,Q6: Trust,92.0,4.629053801093996e-06,***,23,23,E2E Agent,Task-Constrained,GPT-5,graduate
+accomplishment,Q1: Accomplishment,612.0,6.56339767895734e-10,***,55,55,E2E Agent,Task-Constrained,Mistral-24B,All
+effort_required,Q2: Effort Required,2673.0,1.454999296963959e-13,***,55,55,E2E Agent,Task-Constrained,Mistral-24B,All
+mental_demand,Q3: Mental Demand,2172.5,1.6009401151057236e-06,***,55,55,E2E Agent,Task-Constrained,Mistral-24B,All
+perceived_controllability,Q4: Controllability,1546.0,0.8237575900599325,ns,55,55,E2E Agent,Task-Constrained,Mistral-24B,All
+temporal_demand,Q5: Temporal Demand,2451.5,1.2018663441076866e-09,***,55,55,E2E Agent,Task-Constrained,Mistral-24B,All
+trust,Q6: Trust,627.0,7.298782671864835e-09,***,55,55,E2E Agent,Task-Constrained,Mistral-24B,All
+accomplishment,Q1: Accomplishment,21.0,0.06952711765529632,ns,9,9,E2E Agent,Task-Constrained,Mistral-24B,high_school
+effort_required,Q2: Effort Required,64.5,0.027166755534789973,*,9,9,E2E Agent,Task-Constrained,Mistral-24B,high_school
+mental_demand,Q3: Mental Demand,54.0,0.14293891411903953,ns,9,9,E2E Agent,Task-Constrained,Mistral-24B,high_school
+perceived_controllability,Q4: Controllability,52.5,0.2849613964660028,ns,9,9,E2E Agent,Task-Constrained,Mistral-24B,high_school
+temporal_demand,Q5: Temporal Demand,58.5,0.08860097919771151,ns,9,9,E2E Agent,Task-Constrained,Mistral-24B,high_school
+trust,Q6: Trust,23.0,0.10460031949019537,ns,9,9,E2E Agent,Task-Constrained,Mistral-24B,high_school
+accomplishment,Q1: Accomplishment,76.5,2.41462052852682e-06,***,23,23,E2E Agent,Task-Constrained,Mistral-24B,undergraduate
+effort_required,Q2: Effort Required,483.5,2.2482955823052843e-07,***,23,23,E2E Agent,Task-Constrained,Mistral-24B,undergraduate
+mental_demand,Q3: Mental Demand,345.0,0.03978326389629477,*,23,23,E2E Agent,Task-Constrained,Mistral-24B,undergraduate
+perceived_controllability,Q4: Controllability,163.5,0.011633378778325968,*,23,23,E2E Agent,Task-Constrained,Mistral-24B,undergraduate
+temporal_demand,Q5: Temporal Demand,444.5,8.730027591202627e-06,***,23,23,E2E Agent,Task-Constrained,Mistral-24B,undergraduate
+trust,Q6: Trust,87.5,3.327067029688638e-05,***,23,23,E2E Agent,Task-Constrained,Mistral-24B,undergraduate
+accomplishment,Q1: Accomplishment,124.0,0.00014431354718471312,***,23,23,E2E Agent,Task-Constrained,Mistral-24B,graduate
+effort_required,Q2: Effort Required,477.0,7.47349024618016e-07,***,23,23,E2E Agent,Task-Constrained,Mistral-24B,graduate
+mental_demand,Q3: Mental Demand,425.5,9.72135519767369e-06,***,23,23,E2E Agent,Task-Constrained,Mistral-24B,graduate
+perceived_controllability,Q4: Controllability,345.0,0.03310069283891681,*,23,23,E2E Agent,Task-Constrained,Mistral-24B,graduate
+temporal_demand,Q5: Temporal Demand,436.0,7.090275492234398e-05,***,23,23,E2E Agent,Task-Constrained,Mistral-24B,graduate
+trust,Q6: Trust,92.0,4.629053801093996e-06,***,23,23,E2E Agent,Task-Constrained,Mistral-24B,graduate
+accomplishment,Q1: Accomplishment,1002.0,0.0009020345731051649,***,55,55,E2E Agent,Role-Anchored,LLaMA-8B,All
+effort_required,Q2: Effort Required,2701.5,2.4822900470628263e-14,***,55,55,E2E Agent,Role-Anchored,LLaMA-8B,All
+mental_demand,Q3: Mental Demand,2172.5,1.6009401151057236e-06,***,55,55,E2E Agent,Role-Anchored,LLaMA-8B,All
+perceived_controllability,Q4: Controllability,1662.0,0.331738798396772,ns,55,55,E2E Agent,Role-Anchored,LLaMA-8B,All
+temporal_demand,Q5: Temporal Demand,2494.0,8.240418893679874e-11,***,55,55,E2E Agent,Role-Anchored,LLaMA-8B,All
+trust,Q6: Trust,825.0,1.0674021705174936e-05,***,55,55,E2E Agent,Role-Anchored,LLaMA-8B,All
+accomplishment,Q1: Accomplishment,33.0,0.45993597347516046,ns,9,9,E2E Agent,Role-Anchored,LLaMA-8B,high_school
+effort_required,Q2: Effort Required,64.5,0.027166755534789973,*,9,9,E2E Agent,Role-Anchored,LLaMA-8B,high_school
+mental_demand,Q3: Mental Demand,54.0,0.14293891411903953,ns,9,9,E2E Agent,Role-Anchored,LLaMA-8B,high_school
+perceived_controllability,Q4: Controllability,58.5,0.08820150262646032,ns,9,9,E2E Agent,Role-Anchored,LLaMA-8B,high_school
+temporal_demand,Q5: Temporal Demand,58.5,0.08860097919771151,ns,9,9,E2E Agent,Role-Anchored,LLaMA-8B,high_school
+trust,Q6: Trust,27.0,0.18838513471909535,ns,9,9,E2E Agent,Role-Anchored,LLaMA-8B,high_school
+accomplishment,Q1: Accomplishment,151.5,0.007587302596918863,**,23,23,E2E Agent,Role-Anchored,LLaMA-8B,undergraduate
+effort_required,Q2: Effort Required,489.0,9.099934828573476e-08,***,23,23,E2E Agent,Role-Anchored,LLaMA-8B,undergraduate
+mental_demand,Q3: Mental Demand,345.0,0.03978326389629477,*,23,23,E2E Agent,Role-Anchored,LLaMA-8B,undergraduate
+perceived_controllability,Q4: Controllability,191.5,0.08118491972912008,ns,23,23,E2E Agent,Role-Anchored,LLaMA-8B,undergraduate
+temporal_demand,Q5: Temporal Demand,448.5,3.962991540790109e-06,***,23,23,E2E Agent,Role-Anchored,LLaMA-8B,undergraduate
+trust,Q6: Trust,132.5,0.002214274245497233,**,23,23,E2E Agent,Role-Anchored,LLaMA-8B,undergraduate
+accomplishment,Q1: Accomplishment,178.0,0.03284133466438395,*,23,23,E2E Agent,Role-Anchored,LLaMA-8B,graduate
+effort_required,Q2: Effort Required,482.0,3.3024028412310427e-07,***,23,23,E2E Agent,Role-Anchored,LLaMA-8B,graduate
+mental_demand,Q3: Mental Demand,425.5,9.72135519767369e-06,***,23,23,E2E Agent,Role-Anchored,LLaMA-8B,graduate
+perceived_controllability,Q4: Controllability,350.5,0.025654302725166115,*,23,23,E2E Agent,Role-Anchored,LLaMA-8B,graduate
+temporal_demand,Q5: Temporal Demand,446.0,1.5312277386741677e-05,***,23,23,E2E Agent,Role-Anchored,LLaMA-8B,graduate
+trust,Q6: Trust,101.5,2.1213557453624275e-05,***,23,23,E2E Agent,Role-Anchored,LLaMA-8B,graduate
+accomplishment,Q1: Accomplishment,865.5,2.2957873039822402e-05,***,55,55,E2E Agent,Role-Anchored,GPT-5,All
+effort_required,Q2: Effort Required,2682.5,8.228644734191623e-14,***,55,55,E2E Agent,Role-Anchored,GPT-5,All
+mental_demand,Q3: Mental Demand,2172.5,1.6009401151057236e-06,***,55,55,E2E Agent,Role-Anchored,GPT-5,All
+perceived_controllability,Q4: Controllability,1662.0,0.331738798396772,ns,55,55,E2E Agent,Role-Anchored,GPT-5,All
+temporal_demand,Q5: Temporal Demand,2485.5,1.4679710412391908e-10,***,55,55,E2E Agent,Role-Anchored,GPT-5,All
+trust,Q6: Trust,742.5,7.360770771282333e-07,***,55,55,E2E Agent,Role-Anchored,GPT-5,All
+accomplishment,Q1: Accomplishment,36.0,0.6543344191690161,ns,9,9,E2E Agent,Role-Anchored,GPT-5,high_school
+effort_required,Q2: Effort Required,67.5,0.009237314357999097,**,9,9,E2E Agent,Role-Anchored,GPT-5,high_school
+mental_demand,Q3: Mental Demand,54.0,0.14293891411903953,ns,9,9,E2E Agent,Role-Anchored,GPT-5,high_school
+perceived_controllability,Q4: Controllability,58.5,0.08820150262646032,ns,9,9,E2E Agent,Role-Anchored,GPT-5,high_school
+temporal_demand,Q5: Temporal Demand,58.5,0.08860097919771151,ns,9,9,E2E Agent,Role-Anchored,GPT-5,high_school
+trust,Q6: Trust,27.0,0.18838513471909535,ns,9,9,E2E Agent,Role-Anchored,GPT-5,high_school
+accomplishment,Q1: Accomplishment,114.0,0.0003219690100215171,***,23,23,E2E Agent,Role-Anchored,GPT-5,undergraduate
+effort_required,Q2: Effort Required,472.5,1.118236970044822e-06,***,23,23,E2E Agent,Role-Anchored,GPT-5,undergraduate
+mental_demand,Q3: Mental Demand,345.0,0.03978326389629477,*,23,23,E2E Agent,Role-Anchored,GPT-5,undergraduate
+perceived_controllability,Q4: Controllability,191.5,0.08118491972912008,ns,23,23,E2E Agent,Role-Anchored,GPT-5,undergraduate
+temporal_demand,Q5: Temporal Demand,448.5,3.962991540790109e-06,***,23,23,E2E Agent,Role-Anchored,GPT-5,undergraduate
+trust,Q6: Trust,107.5,0.00029347296030611585,***,23,23,E2E Agent,Role-Anchored,GPT-5,undergraduate
+accomplishment,Q1: Accomplishment,151.0,0.003683233903284017,**,23,23,E2E Agent,Role-Anchored,GPT-5,graduate
+effort_required,Q2: Effort Required,479.5,5.056321276315818e-07,***,23,23,E2E Agent,Role-Anchored,GPT-5,graduate
+mental_demand,Q3: Mental Demand,425.5,9.72135519767369e-06,***,23,23,E2E Agent,Role-Anchored,GPT-5,graduate
+perceived_controllability,Q4: Controllability,350.5,0.025654302725166115,*,23,23,E2E Agent,Role-Anchored,GPT-5,graduate
+temporal_demand,Q5: Temporal Demand,443.5,2.3589539023990062e-05,***,23,23,E2E Agent,Role-Anchored,GPT-5,graduate
+trust,Q6: Trust,101.5,2.1213557453624275e-05,***,23,23,E2E Agent,Role-Anchored,GPT-5,graduate
+accomplishment,Q1: Accomplishment,963.0,0.00035014989766890314,***,55,55,E2E Agent,Role-Anchored,Mistral-24B,All
+effort_required,Q2: Effort Required,2739.5,1.737912389013301e-15,***,55,55,E2E Agent,Role-Anchored,Mistral-24B,All
+mental_demand,Q3: Mental Demand,2172.5,1.6009401151057236e-06,***,55,55,E2E Agent,Role-Anchored,Mistral-24B,All
+perceived_controllability,Q4: Controllability,1691.0,0.24919847993451272,ns,55,55,E2E Agent,Role-Anchored,Mistral-24B,All
+temporal_demand,Q5: Temporal Demand,2485.5,1.4679710412391908e-10,***,55,55,E2E Agent,Role-Anchored,Mistral-24B,All
+trust,Q6: Trust,808.5,6.472335067832807e-06,***,55,55,E2E Agent,Role-Anchored,Mistral-24B,All
+accomplishment,Q1: Accomplishment,36.0,0.6543344191690161,ns,9,9,E2E Agent,Role-Anchored,Mistral-24B,high_school
+effort_required,Q2: Effort Required,67.5,0.009237314357999097,**,9,9,E2E Agent,Role-Anchored,Mistral-24B,high_school
+mental_demand,Q3: Mental Demand,54.0,0.14293891411903953,ns,9,9,E2E Agent,Role-Anchored,Mistral-24B,high_school
+perceived_controllability,Q4: Controllability,58.5,0.08820150262646032,ns,9,9,E2E Agent,Role-Anchored,Mistral-24B,high_school
+temporal_demand,Q5: Temporal Demand,58.5,0.08860097919771151,ns,9,9,E2E Agent,Role-Anchored,Mistral-24B,high_school
+trust,Q6: Trust,27.0,0.18838513471909535,ns,9,9,E2E Agent,Role-Anchored,Mistral-24B,high_school
+accomplishment,Q1: Accomplishment,166.5,0.019982439983320915,*,23,23,E2E Agent,Role-Anchored,Mistral-24B,undergraduate
+effort_required,Q2: Effort Required,483.5,2.2482955823052843e-07,***,23,23,E2E Agent,Role-Anchored,Mistral-24B,undergraduate
+mental_demand,Q3: Mental Demand,345.0,0.03978326389629477,*,23,23,E2E Agent,Role-Anchored,Mistral-24B,undergraduate
+perceived_controllability,Q4: Controllability,205.5,0.16449798642761781,ns,23,23,E2E Agent,Role-Anchored,Mistral-24B,undergraduate
+temporal_demand,Q5: Temporal Demand,448.5,3.962991540790109e-06,***,23,23,E2E Agent,Role-Anchored,Mistral-24B,undergraduate
+trust,Q6: Trust,127.5,0.0015486940788951408,**,23,23,E2E Agent,Role-Anchored,Mistral-24B,undergraduate
+accomplishment,Q1: Accomplishment,133.0,0.0004955856280454365,***,23,23,E2E Agent,Role-Anchored,Mistral-24B,graduate
+effort_required,Q2: Effort Required,489.5,7.172232676873259e-08,***,23,23,E2E Agent,Role-Anchored,Mistral-24B,graduate
+mental_demand,Q3: Mental Demand,425.5,9.72135519767369e-06,***,23,23,E2E Agent,Role-Anchored,Mistral-24B,graduate
+perceived_controllability,Q4: Controllability,350.5,0.025654302725166115,*,23,23,E2E Agent,Role-Anchored,Mistral-24B,graduate
+temporal_demand,Q5: Temporal Demand,443.5,2.3589539023990062e-05,***,23,23,E2E Agent,Role-Anchored,Mistral-24B,graduate
+trust,Q6: Trust,101.5,2.1213557453624275e-05,***,23,23,E2E Agent,Role-Anchored,Mistral-24B,graduate
+accomplishment,Q1: Accomplishment,826.5,6.550772619552962e-06,***,55,55,E2E Agent,Calibrated,LLaMA-8B,All
+effort_required,Q2: Effort Required,2720.5,6.881562232275896e-15,***,55,55,E2E Agent,Calibrated,LLaMA-8B,All
+mental_demand,Q3: Mental Demand,2172.5,1.6009401151057236e-06,***,55,55,E2E Agent,Calibrated,LLaMA-8B,All
+perceived_controllability,Q4: Controllability,1662.0,0.331738798396772,ns,55,55,E2E Agent,Calibrated,LLaMA-8B,All
+temporal_demand,Q5: Temporal Demand,2485.5,1.4679710412391908e-10,***,55,55,E2E Agent,Calibrated,LLaMA-8B,All
+trust,Q6: Trust,726.0,4.0766753595062164e-07,***,55,55,E2E Agent,Calibrated,LLaMA-8B,All
+accomplishment,Q1: Accomplishment,33.0,0.45993597347516046,ns,9,9,E2E Agent,Calibrated,LLaMA-8B,high_school
+effort_required,Q2: Effort Required,66.0,0.016735462679022366,*,9,9,E2E Agent,Calibrated,LLaMA-8B,high_school
+mental_demand,Q3: Mental Demand,54.0,0.14293891411903953,ns,9,9,E2E Agent,Calibrated,LLaMA-8B,high_school
+perceived_controllability,Q4: Controllability,58.5,0.08820150262646032,ns,9,9,E2E Agent,Calibrated,LLaMA-8B,high_school
+temporal_demand,Q5: Temporal Demand,58.5,0.08860097919771151,ns,9,9,E2E Agent,Calibrated,LLaMA-8B,high_school
+trust,Q6: Trust,27.0,0.18838513471909535,ns,9,9,E2E Agent,Calibrated,LLaMA-8B,high_school
+accomplishment,Q1: Accomplishment,121.5,0.000672557118149643,***,23,23,E2E Agent,Calibrated,LLaMA-8B,undergraduate
+effort_required,Q2: Effort Required,494.5,3.3980856082939916e-08,***,23,23,E2E Agent,Calibrated,LLaMA-8B,undergraduate
+mental_demand,Q3: Mental Demand,345.0,0.03978326389629477,*,23,23,E2E Agent,Calibrated,LLaMA-8B,undergraduate
+perceived_controllability,Q4: Controllability,191.5,0.08118491972912008,ns,23,23,E2E Agent,Calibrated,LLaMA-8B,undergraduate
+temporal_demand,Q5: Temporal Demand,448.5,3.962991540790109e-06,***,23,23,E2E Agent,Calibrated,LLaMA-8B,undergraduate
+trust,Q6: Trust,102.5,0.00018028986690771904,***,23,23,E2E Agent,Calibrated,LLaMA-8B,undergraduate
+accomplishment,Q1: Accomplishment,133.0,0.0004955856280454365,***,23,23,E2E Agent,Calibrated,LLaMA-8B,graduate
+effort_required,Q2: Effort Required,482.0,3.3024028412310427e-07,***,23,23,E2E Agent,Calibrated,LLaMA-8B,graduate
+mental_demand,Q3: Mental Demand,425.5,9.72135519767369e-06,***,23,23,E2E Agent,Calibrated,LLaMA-8B,graduate
+perceived_controllability,Q4: Controllability,350.5,0.025654302725166115,*,23,23,E2E Agent,Calibrated,LLaMA-8B,graduate
+temporal_demand,Q5: Temporal Demand,443.5,2.3589539023990062e-05,***,23,23,E2E Agent,Calibrated,LLaMA-8B,graduate
+trust,Q6: Trust,101.5,2.1213557453624275e-05,***,23,23,E2E Agent,Calibrated,LLaMA-8B,graduate
+accomplishment,Q1: Accomplishment,885.0,4.1401792559591685e-05,***,55,55,E2E Agent,Calibrated,GPT-5,All
+effort_required,Q2: Effort Required,2711.0,1.321543727961126e-14,***,55,55,E2E Agent,Calibrated,GPT-5,All
+mental_demand,Q3: Mental Demand,2185.0,1.259876032807939e-06,***,55,55,E2E Agent,Calibrated,GPT-5,All
+perceived_controllability,Q4: Controllability,1604.0,0.5471280251389652,ns,55,55,E2E Agent,Calibrated,GPT-5,All
+temporal_demand,Q5: Temporal Demand,2468.5,4.3677943232234484e-10,***,55,55,E2E Agent,Calibrated,GPT-5,All
+trust,Q6: Trust,709.5,2.2112583277904957e-07,***,55,55,E2E Agent,Calibrated,GPT-5,All
+accomplishment,Q1: Accomplishment,33.0,0.45993597347516046,ns,9,9,E2E Agent,Calibrated,GPT-5,high_school
+effort_required,Q2: Effort Required,67.5,0.009237314357999097,**,9,9,E2E Agent,Calibrated,GPT-5,high_school
+mental_demand,Q3: Mental Demand,54.0,0.14293891411903953,ns,9,9,E2E Agent,Calibrated,GPT-5,high_school
+perceived_controllability,Q4: Controllability,54.5,0.20600199449141499,ns,9,9,E2E Agent,Calibrated,GPT-5,high_school
+temporal_demand,Q5: Temporal Demand,58.5,0.08860097919771151,ns,9,9,E2E Agent,Calibrated,GPT-5,high_school
+trust,Q6: Trust,27.0,0.18838513471909535,ns,9,9,E2E Agent,Calibrated,GPT-5,high_school
+accomplishment,Q1: Accomplishment,114.0,0.0003219690100215171,***,23,23,E2E Agent,Calibrated,GPT-5,undergraduate
+effort_required,Q2: Effort Required,478.0,5.174206354432236e-07,***,23,23,E2E Agent,Calibrated,GPT-5,undergraduate
+mental_demand,Q3: Mental Demand,350.5,0.030621226566163503,*,23,23,E2E Agent,Calibrated,GPT-5,undergraduate
+perceived_controllability,Q4: Controllability,163.5,0.011633378778325968,*,23,23,E2E Agent,Calibrated,GPT-5,undergraduate
+temporal_demand,Q5: Temporal Demand,444.5,8.730027591202627e-06,***,23,23,E2E Agent,Calibrated,GPT-5,undergraduate
+trust,Q6: Trust,92.5,6.0979829635450623e-05,***,23,23,E2E Agent,Calibrated,GPT-5,undergraduate
+accomplishment,Q1: Accomplishment,169.0,0.017289409547140738,*,23,23,E2E Agent,Calibrated,GPT-5,graduate
+effort_required,Q2: Effort Required,484.5,2.0750061955940821e-07,***,23,23,E2E Agent,Calibrated,GPT-5,graduate
+mental_demand,Q3: Mental Demand,425.5,9.72135519767369e-06,***,23,23,E2E Agent,Calibrated,GPT-5,graduate
+perceived_controllability,Q4: Controllability,361.5,0.014951357633087362,*,23,23,E2E Agent,Calibrated,GPT-5,graduate
+temporal_demand,Q5: Temporal Demand,441.0,3.508865311214238e-05,***,23,23,E2E Agent,Calibrated,GPT-5,graduate
+trust,Q6: Trust,111.0,8.077848697527572e-05,***,23,23,E2E Agent,Calibrated,GPT-5,graduate
+accomplishment,Q1: Accomplishment,885.0,4.1401792559591685e-05,***,55,55,E2E Agent,Calibrated,Mistral-24B,All
+effort_required,Q2: Effort Required,2692.0,4.5651870013367164e-14,***,55,55,E2E Agent,Calibrated,Mistral-24B,All
+mental_demand,Q3: Mental Demand,2172.5,1.6009401151057236e-06,***,55,55,E2E Agent,Calibrated,Mistral-24B,All
+perceived_controllability,Q4: Controllability,1676.5,0.28840900546377146,ns,55,55,E2E Agent,Calibrated,Mistral-24B,All
+temporal_demand,Q5: Temporal Demand,2468.5,4.3677943232234484e-10,***,55,55,E2E Agent,Calibrated,Mistral-24B,All
+trust,Q6: Trust,759.0,1.3029259438769337e-06,***,55,55,E2E Agent,Calibrated,Mistral-24B,All
+accomplishment,Q1: Accomplishment,33.0,0.45993597347516046,ns,9,9,E2E Agent,Calibrated,Mistral-24B,high_school
+effort_required,Q2: Effort Required,66.0,0.016735462679022366,*,9,9,E2E Agent,Calibrated,Mistral-24B,high_school
+mental_demand,Q3: Mental Demand,54.0,0.14293891411903953,ns,9,9,E2E Agent,Calibrated,Mistral-24B,high_school
+perceived_controllability,Q4: Controllability,58.5,0.08820150262646032,ns,9,9,E2E Agent,Calibrated,Mistral-24B,high_school
+temporal_demand,Q5: Temporal Demand,58.5,0.08860097919771151,ns,9,9,E2E Agent,Calibrated,Mistral-24B,high_school
+trust,Q6: Trust,27.0,0.18838513471909535,ns,9,9,E2E Agent,Calibrated,Mistral-24B,high_school
+accomplishment,Q1: Accomplishment,144.0,0.004427885957457474,**,23,23,E2E Agent,Calibrated,Mistral-24B,undergraduate
+effort_required,Q2: Effort Required,489.0,9.099934828573476e-08,***,23,23,E2E Agent,Calibrated,Mistral-24B,undergraduate
+mental_demand,Q3: Mental Demand,345.0,0.03978326389629477,*,23,23,E2E Agent,Calibrated,Mistral-24B,undergraduate
+perceived_controllability,Q4: Controllability,205.5,0.16449798642761781,ns,23,23,E2E Agent,Calibrated,Mistral-24B,undergraduate
+temporal_demand,Q5: Temporal Demand,448.5,3.962991540790109e-06,***,23,23,E2E Agent,Calibrated,Mistral-24B,undergraduate
+trust,Q6: Trust,117.5,0.0007097067727040397,***,23,23,E2E Agent,Calibrated,Mistral-24B,undergraduate
+accomplishment,Q1: Accomplishment,133.0,0.0004955856280454365,***,23,23,E2E Agent,Calibrated,Mistral-24B,graduate
+effort_required,Q2: Effort Required,477.0,7.47349024618016e-07,***,23,23,E2E Agent,Calibrated,Mistral-24B,graduate
+mental_demand,Q3: Mental Demand,425.5,9.72135519767369e-06,***,23,23,E2E Agent,Calibrated,Mistral-24B,graduate
+perceived_controllability,Q4: Controllability,345.0,0.03310069283891681,*,23,23,E2E Agent,Calibrated,Mistral-24B,graduate
+temporal_demand,Q5: Temporal Demand,438.5,5.0584476636321376e-05,***,23,23,E2E Agent,Calibrated,Mistral-24B,graduate
+trust,Q6: Trust,92.0,4.629053801093996e-06,***,23,23,E2E Agent,Calibrated,Mistral-24B,graduate
+accomplishment,Q1: Accomplishment,1924.0,0.009556800841761694,**,55,55,AgentJudge,N/A,LLaMA-8B,All
+effort_required,Q2: Effort Required,2575.0,2.3594003108542423e-11,***,55,55,AgentJudge,N/A,LLaMA-8B,All
+mental_demand,Q3: Mental Demand,2207.0,8.562866302891135e-07,***,55,55,AgentJudge,N/A,LLaMA-8B,All
+perceived_controllability,Q4: Controllability,2034.5,0.0012623490959863051,**,55,55,AgentJudge,N/A,LLaMA-8B,All
+temporal_demand,Q5: Temporal Demand,2370.5,7.13812389423156e-08,***,55,55,AgentJudge,N/A,LLaMA-8B,All
+trust,Q6: Trust,1503.5,0.9568936215814834,ns,55,55,AgentJudge,N/A,LLaMA-8B,All
+accomplishment,Q1: Accomplishment,47.5,0.5501369767748843,ns,9,9,AgentJudge,N/A,LLaMA-8B,high_school
+effort_required,Q2: Effort Required,61.0,0.06596956589011915,ns,9,9,AgentJudge,N/A,LLaMA-8B,high_school
+mental_demand,Q3: Mental Demand,58.5,0.07661190350918284,ns,9,9,AgentJudge,N/A,LLaMA-8B,high_school
+perceived_controllability,Q4: Controllability,60.0,0.08747186954080528,ns,9,9,AgentJudge,N/A,LLaMA-8B,high_school
+temporal_demand,Q5: Temporal Demand,50.5,0.377627255104211,ns,9,9,AgentJudge,N/A,LLaMA-8B,high_school
+trust,Q6: Trust,48.0,0.5247157330184229,ns,9,9,AgentJudge,N/A,LLaMA-8B,high_school
+accomplishment,Q1: Accomplishment,316.0,0.23446184956559835,ns,23,23,AgentJudge,N/A,LLaMA-8B,undergraduate
+effort_required,Q2: Effort Required,445.0,2.5350682717028388e-05,***,23,23,AgentJudge,N/A,LLaMA-8B,undergraduate
+mental_demand,Q3: Mental Demand,350.5,0.030621226566163503,*,23,23,AgentJudge,N/A,LLaMA-8B,undergraduate
+perceived_controllability,Q4: Controllability,291.5,0.5439693050669903,ns,23,23,AgentJudge,N/A,LLaMA-8B,undergraduate
+temporal_demand,Q5: Temporal Demand,415.5,0.0004517969686071824,***,23,23,AgentJudge,N/A,LLaMA-8B,undergraduate
+trust,Q6: Trust,228.0,0.4113746880344564,ns,23,23,AgentJudge,N/A,LLaMA-8B,undergraduate
+accomplishment,Q1: Accomplishment,358.5,0.02762561674582367,*,23,23,AgentJudge,N/A,LLaMA-8B,graduate
+effort_required,Q2: Effort Required,474.0,1.2555873433817978e-06,***,23,23,AgentJudge,N/A,LLaMA-8B,graduate
+mental_demand,Q3: Mental Demand,425.5,9.72135519767369e-06,***,23,23,AgentJudge,N/A,LLaMA-8B,graduate
+perceived_controllability,Q4: Controllability,421.0,0.00031216537565950864,***,23,23,AgentJudge,N/A,LLaMA-8B,graduate
+temporal_demand,Q5: Temporal Demand,441.0,4.495540385509918e-05,***,23,23,AgentJudge,N/A,LLaMA-8B,graduate
+trust,Q6: Trust,288.5,0.5397594484533847,ns,23,23,AgentJudge,N/A,LLaMA-8B,graduate
+accomplishment,Q1: Accomplishment,1719.5,0.19941270571512348,ns,55,55,AgentJudge,N/A,GPT-5,All
+effort_required,Q2: Effort Required,2483.0,6.386661574863157e-10,***,55,55,AgentJudge,N/A,GPT-5,All
+mental_demand,Q3: Mental Demand,2435.5,3.065599359623422e-09,***,55,55,AgentJudge,N/A,GPT-5,All
+perceived_controllability,Q4: Controllability,2174.0,3.9713611575274124e-05,***,55,55,AgentJudge,N/A,GPT-5,All
+temporal_demand,Q5: Temporal Demand,2400.5,1.6908960376572657e-08,***,55,55,AgentJudge,N/A,GPT-5,All
+trust,Q6: Trust,1907.5,0.013819908988744651,*,55,55,AgentJudge,N/A,GPT-5,All
+accomplishment,Q1: Accomplishment,43.0,0.8557860748112573,ns,9,9,AgentJudge,N/A,GPT-5,high_school
+effort_required,Q2: Effort Required,55.5,0.1543417614793357,ns,9,9,AgentJudge,N/A,GPT-5,high_school
+mental_demand,Q3: Mental Demand,52.5,0.24137287013119624,ns,9,9,AgentJudge,N/A,GPT-5,high_school
+perceived_controllability,Q4: Controllability,60.5,0.07206444762560463,ns,9,9,AgentJudge,N/A,GPT-5,high_school
+temporal_demand,Q5: Temporal Demand,46.5,0.6012829957986746,ns,9,9,AgentJudge,N/A,GPT-5,high_school
+trust,Q6: Trust,53.0,0.2755170189808518,ns,9,9,AgentJudge,N/A,GPT-5,high_school
+accomplishment,Q1: Accomplishment,248.5,0.7233051974255128,ns,23,23,AgentJudge,N/A,GPT-5,undergraduate
+effort_required,Q2: Effort Required,395.5,0.0009984130303709725,***,23,23,AgentJudge,N/A,GPT-5,undergraduate
+mental_demand,Q3: Mental Demand,356.0,0.023317396166349487,*,23,23,AgentJudge,N/A,GPT-5,undergraduate
+perceived_controllability,Q4: Controllability,279.5,0.7348238238606195,ns,23,23,AgentJudge,N/A,GPT-5,undergraduate
+temporal_demand,Q5: Temporal Demand,424.5,0.00017599067318650974,***,23,23,AgentJudge,N/A,GPT-5,undergraduate
+trust,Q6: Trust,243.5,0.6354020712120989,ns,23,23,AgentJudge,N/A,GPT-5,undergraduate
+accomplishment,Q1: Accomplishment,359.5,0.029070713103869286,*,23,23,AgentJudge,N/A,GPT-5,graduate
+effort_required,Q2: Effort Required,482.0,3.3024028412310427e-07,***,23,23,AgentJudge,N/A,GPT-5,graduate
+mental_demand,Q3: Mental Demand,515.5,3.805726717912997e-09,***,23,23,AgentJudge,N/A,GPT-5,graduate
+perceived_controllability,Q4: Controllability,461.5,7.041794689368881e-06,***,23,23,AgentJudge,N/A,GPT-5,graduate
+temporal_demand,Q5: Temporal Demand,448.5,9.554222623458502e-06,***,23,23,AgentJudge,N/A,GPT-5,graduate
+trust,Q6: Trust,420.0,0.00034626455921136384,***,23,23,AgentJudge,N/A,GPT-5,graduate
+accomplishment,Q1: Accomplishment,1752.0,0.13451278830667834,ns,55,55,AgentJudge,N/A,Mistral-24B,All
+effort_required,Q2: Effort Required,2483.0,6.386661574863157e-10,***,55,55,AgentJudge,N/A,Mistral-24B,All
+mental_demand,Q3: Mental Demand,2148.0,4.521499853680247e-06,***,55,55,AgentJudge,N/A,Mistral-24B,All
+perceived_controllability,Q4: Controllability,2128.5,0.0001287854089527569,***,55,55,AgentJudge,N/A,Mistral-24B,All
+temporal_demand,Q5: Temporal Demand,2188.0,2.0342001296904186e-05,***,55,55,AgentJudge,N/A,Mistral-24B,All
+trust,Q6: Trust,1678.5,0.30101068526694563,ns,55,55,AgentJudge,N/A,Mistral-24B,All
+accomplishment,Q1: Accomplishment,49.0,0.4684609727084539,ns,9,9,AgentJudge,N/A,Mistral-24B,high_school
+effort_required,Q2: Effort Required,57.0,0.125724945224013,ns,9,9,AgentJudge,N/A,Mistral-24B,high_school
+mental_demand,Q3: Mental Demand,50.0,0.3366683676100387,ns,9,9,AgentJudge,N/A,Mistral-24B,high_school
+perceived_controllability,Q4: Controllability,60.5,0.07639892694902266,ns,9,9,AgentJudge,N/A,Mistral-24B,high_school
+temporal_demand,Q5: Temporal Demand,44.5,0.733431207582504,ns,9,9,AgentJudge,N/A,Mistral-24B,high_school
+trust,Q6: Trust,58.0,0.12055424360604076,ns,9,9,AgentJudge,N/A,Mistral-24B,high_school
+accomplishment,Q1: Accomplishment,275.0,0.8177275621825396,ns,23,23,AgentJudge,N/A,Mistral-24B,undergraduate
+effort_required,Q2: Effort Required,456.0,8.255752768625986e-06,***,23,23,AgentJudge,N/A,Mistral-24B,undergraduate
+mental_demand,Q3: Mental Demand,345.0,0.03978326389629477,*,23,23,AgentJudge,N/A,Mistral-24B,undergraduate
+perceived_controllability,Q4: Controllability,284.5,0.6524268993863761,ns,23,23,AgentJudge,N/A,Mistral-24B,undergraduate
+temporal_demand,Q5: Temporal Demand,404.5,0.0013216951860316006,**,23,23,AgentJudge,N/A,Mistral-24B,undergraduate
+trust,Q6: Trust,239.0,0.5693847294444113,ns,23,23,AgentJudge,N/A,Mistral-24B,undergraduate
+accomplishment,Q1: Accomplishment,323.5,0.17019637347841166,ns,23,23,AgentJudge,N/A,Mistral-24B,graduate
+effort_required,Q2: Effort Required,452.0,8.478195877764135e-06,***,23,23,AgentJudge,N/A,Mistral-24B,graduate
+mental_demand,Q3: Mental Demand,425.5,9.72135519767369e-06,***,23,23,AgentJudge,N/A,Mistral-24B,graduate
+perceived_controllability,Q4: Controllability,448.0,2.1056771202952793e-05,***,23,23,AgentJudge,N/A,Mistral-24B,graduate
+temporal_demand,Q5: Temporal Demand,401.0,0.001157775849594205,**,23,23,AgentJudge,N/A,Mistral-24B,graduate
+trust,Q6: Trust,327.0,0.13339008204330532,ns,23,23,AgentJudge,N/A,Mistral-24B,graduate

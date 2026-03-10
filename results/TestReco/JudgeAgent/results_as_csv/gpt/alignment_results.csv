@@ -1,0 +1,25 @@
+metric,metric_label,crowd_n,crowd_median,crowd_iqr,ci_med,ci_iqr,agent_n,agent_median,agent_iqr,delta_med,delta_iqr,med_compatible,iqr_compatible,d_score,align_score,mode,prompt,model,profile
+accomplishment,Q1: Accomplishment,55,4.0,2.0,"[4.0, 4.0]","[1.0, 2.5]",55,4.0,3.0,0.0,1.0,True,False,0.5,0.6065306597126334,AgentJudge,N/A,GPT-5,All
+effort_required,Q2: Effort Required,55,5.0,1.0,"[4.0, 5.0]","[1.0, 1.0]",55,4.0,1.0,-1.0,0.0,True,True,1.0,0.36787944117144233,AgentJudge,N/A,GPT-5,All
+mental_demand,Q3: Mental Demand,55,5.0,1.0,"[4.0, 5.0]","[1.0, 1.0]",55,4.0,1.0,-1.0,0.0,True,True,1.0,0.36787944117144233,AgentJudge,N/A,GPT-5,All
+perceived_controllability,Q4: Controllability,55,4.0,2.0,"[4.0, 4.0]","[1.0, 2.5]",55,3.0,1.0,-1.0,-1.0,False,True,1.0,0.36787944117144233,AgentJudge,N/A,GPT-5,All
+temporal_demand,Q5: Temporal Demand,55,4.0,2.0,"[3.0, 5.0]","[2.0, 3.0]",55,2.0,0.0,-2.0,-2.0,False,False,2.0,0.1353352832366127,AgentJudge,N/A,GPT-5,All
+trust,Q6: Trust,55,4.0,2.0,"[3.0, 4.0]","[1.0, 2.0]",55,3.0,1.0,-1.0,-1.0,True,True,1.0,0.36787944117144233,AgentJudge,N/A,GPT-5,All
+accomplishment,Q1: Accomplishment,9,4.0,2.0,"[1.0, 5.0]","[0.0, 4.0]",9,2.0,3.0,-2.0,1.0,True,True,1.5,0.22313016014842982,AgentJudge,N/A,GPT-5,high_school
+effort_required,Q2: Effort Required,9,5.0,1.0,"[3.0, 5.0]","[0.0, 3.0]",9,4.0,0.0,-1.0,-1.0,True,True,2.0,0.1353352832366127,AgentJudge,N/A,GPT-5,high_school
+mental_demand,Q3: Mental Demand,9,4.0,1.0,"[4.0, 5.0]","[0.0, 2.0]",9,4.0,0.0,0.0,-1.0,True,True,1.0,0.36787944117144233,AgentJudge,N/A,GPT-5,high_school
+perceived_controllability,Q4: Controllability,9,4.0,2.0,"[2.0, 5.0]","[0.0, 3.0]",9,2.0,1.0,-2.0,-1.0,True,True,1.5,0.22313016014842982,AgentJudge,N/A,GPT-5,high_school
+temporal_demand,Q5: Temporal Demand,9,3.0,2.0,"[1.0, 4.0]","[0.0, 4.0]",9,3.0,1.0,0.0,-1.0,True,True,0.5,0.6065306597126334,AgentJudge,N/A,GPT-5,high_school
+trust,Q6: Trust,9,3.0,1.0,"[3.0, 5.0]","[0.0, 3.0]",9,2.0,2.0,-1.0,1.0,False,True,2.0,0.1353352832366127,AgentJudge,N/A,GPT-5,high_school
+accomplishment,Q1: Accomplishment,23,4.0,2.0,"[3.0, 4.0]","[0.0, 3.0]",23,4.0,2.0,0.0,0.0,True,True,0.0,1.0,AgentJudge,N/A,GPT-5,undergraduate
+effort_required,Q2: Effort Required,23,4.0,1.0,"[4.0, 5.0]","[0.5, 1.0]",23,4.0,0.0,0.0,-1.0,True,False,1.0,0.36787944117144233,AgentJudge,N/A,GPT-5,undergraduate
+mental_demand,Q3: Mental Demand,23,5.0,1.0,"[4.0, 5.0]","[0.5, 2.0]",23,4.0,0.0,-1.0,-1.0,True,False,2.0,0.1353352832366127,AgentJudge,N/A,GPT-5,undergraduate
+perceived_controllability,Q4: Controllability,23,3.0,1.5,"[3.0, 4.0]","[1.0, 2.0]",23,3.0,1.0,0.0,-0.5,True,True,0.3333333333333333,0.7165313105737893,AgentJudge,N/A,GPT-5,undergraduate
+temporal_demand,Q5: Temporal Demand,23,4.0,2.5,"[3.0, 5.0]","[1.0, 3.0]",23,2.0,0.5,-2.0,-2.0,False,False,1.6,0.20189651799465538,AgentJudge,N/A,GPT-5,undergraduate
+trust,Q6: Trust,23,3.0,1.5,"[3.0, 4.0]","[1.0, 3.0]",23,4.0,1.0,1.0,-0.5,True,True,1.0,0.36787944117144233,AgentJudge,N/A,GPT-5,undergraduate
+accomplishment,Q1: Accomplishment,23,4.0,1.0,"[4.0, 5.0]","[1.0, 2.0]",23,4.0,1.5,0.0,0.5,True,True,0.5,0.6065306597126334,AgentJudge,N/A,GPT-5,graduate
+effort_required,Q2: Effort Required,23,5.0,0.5,"[5.0, 5.0]","[0.0, 1.0]",23,3.0,0.0,-2.0,-0.5,False,True,5.0,0.006737946999085467,AgentJudge,N/A,GPT-5,graduate
+mental_demand,Q3: Mental Demand,23,5.0,1.0,"[4.0, 5.0]","[0.0, 1.0]",23,3.0,0.0,-2.0,-1.0,False,True,3.0,0.049787068367863944,AgentJudge,N/A,GPT-5,graduate
+perceived_controllability,Q4: Controllability,23,4.0,1.0,"[4.0, 5.0]","[1.0, 2.0]",23,3.0,0.5,-1.0,-0.5,False,False,1.5,0.22313016014842982,AgentJudge,N/A,GPT-5,graduate
+temporal_demand,Q5: Temporal Demand,23,5.0,2.0,"[3.0, 5.0]","[0.0, 4.0]",23,2.0,0.0,-3.0,-2.0,False,True,2.5,0.0820849986238988,AgentJudge,N/A,GPT-5,graduate
+trust,Q6: Trust,23,4.0,1.0,"[4.0, 5.0]","[0.0, 2.0]",23,3.0,1.5,-1.0,0.5,False,True,1.5,0.22313016014842982,AgentJudge,N/A,GPT-5,graduate

@@ -1,0 +1,89 @@
+================================================================================
+  Statistical Analysis – College Teacher
+  (per-persona averages across 5 runs)
+================================================================================
+
+Sample sizes: CROWD=36, GPT-5=36, LLaMA-8B=36, Mistral-24B=36
+
+
+1. PROPORTION OF FAVORABLE RESPONSES (% rating ≥ 4)
+--------------------------------------------------------------------------------
+Question           |      CROWD |      GPT-5 |   LLaMA-8B | Mistral-24B
+--------------------------------------------------------------------------------
+Accomplishment     |      50.0% |      69.4% |      47.2% |      97.2%
+Effort             |      33.3% |       0.0% |       0.0% |       0.0%
+Mental Demand      |      52.8% |       0.0% |       0.0% |       0.0%
+Controllability    |      50.0% |      61.1% |      88.9% |      97.2%
+Temporal Demand    |      16.7% |       0.0% |       2.8% |       0.0%
+Satisfaction       |      47.2% |      72.2% |      33.3% |      94.4%
+
+
+2. KRUSKAL–WALLIS H TEST (4-group omnibus, α=0.05)
+--------------------------------------------------------------------------------
+Question           |  H statistic |      p-value |  Significant
+--------------------------------------------------------------------------------
+Accomplishment     |      14.5181 |     0.002278 |           **
+Effort             |      35.9485 |     0.000000 |          ***
+Mental Demand      |      45.0388 |     0.000000 |          ***
+Controllability    |      39.8515 |     0.000000 |          ***
+Temporal Demand    |      62.1981 |     0.000000 |          ***
+Satisfaction       |      14.0203 |     0.002878 |           **
+
+
+3. PAIRWISE WILCOXON RANK-SUM (MANN–WHITNEY U)
+   Bonferroni correction: α' = 0.05/6 = 0.0083
+--------------------------------------------------------------------------------
+
+  Q1 – Accomplishment
+  Comparison                     |        U |    p-value |    p(Bonf) |    Sig
+  CROWD vs GPT-5                 |    530.0 |   0.158555 |   0.951330 |   n.s.
+  CROWD vs LLaMA-8B              |    558.0 |   0.299382 |   1.000000 |   n.s.
+  CROWD vs Mistral-24B           |    468.0 |   0.021126 |   0.126754 |   n.s.
+  GPT-5 vs LLaMA-8B              |    715.5 |   0.399898 |   1.000000 |   n.s.
+  GPT-5 vs Mistral-24B           |    451.5 |   0.000994 |   0.005963 |      *
+  LLaMA-8B vs Mistral-24B        |    330.0 |   0.000010 |   0.000062 |      *
+
+  Q2 – Effort
+  Comparison                     |        U |    p-value |    p(Bonf) |    Sig
+  CROWD vs GPT-5                 |    871.0 |   0.008744 |   0.052467 |   n.s.
+  CROWD vs LLaMA-8B              |    612.0 |   0.681129 |   1.000000 |   n.s.
+  CROWD vs Mistral-24B           |    784.5 |   0.110158 |   0.660949 |   n.s.
+  GPT-5 vs LLaMA-8B              |     78.5 |   0.000000 |   0.000000 |      *
+  GPT-5 vs Mistral-24B           |    445.0 |   0.013370 |   0.080220 |   n.s.
+  LLaMA-8B vs Mistral-24B        |   1008.5 |   0.000020 |   0.000123 |      *
+
+  Q3 – Mental Demand
+  Comparison                     |        U |    p-value |    p(Bonf) |    Sig
+  CROWD vs GPT-5                 |    995.0 |   0.000052 |   0.000311 |      *
+  CROWD vs LLaMA-8B              |    859.0 |   0.016643 |   0.099856 |   n.s.
+  CROWD vs Mistral-24B           |    827.5 |   0.028442 |   0.170650 |   n.s.
+  GPT-5 vs LLaMA-8B              |    177.5 |   0.000000 |   0.000000 |      *
+  GPT-5 vs Mistral-24B           |    123.0 |   0.000000 |   0.000000 |      *
+  LLaMA-8B vs Mistral-24B        |    433.5 |   0.008271 |   0.049626 |      *
+
+  Q4 – Controllability
+  Comparison                     |        U |    p-value |    p(Bonf) |    Sig
+  CROWD vs GPT-5                 |    554.0 |   0.265792 |   1.000000 |   n.s.
+  CROWD vs LLaMA-8B              |    331.5 |   0.000325 |   0.001950 |      *
+  CROWD vs Mistral-24B           |    455.5 |   0.011736 |   0.070419 |   n.s.
+  GPT-5 vs LLaMA-8B              |    177.0 |   0.000000 |   0.000000 |      *
+  GPT-5 vs Mistral-24B           |    408.5 |   0.000147 |   0.000882 |      *
+  LLaMA-8B vs Mistral-24B        |   1047.5 |   0.000001 |   0.000004 |      *
+
+  Q5 – Temporal Demand
+  Comparison                     |        U |    p-value |    p(Bonf) |    Sig
+  CROWD vs GPT-5                 |   1039.5 |   0.000006 |   0.000037 |      *
+  CROWD vs LLaMA-8B              |    602.0 |   0.604525 |   1.000000 |   n.s.
+  CROWD vs Mistral-24B           |    751.5 |   0.226081 |   1.000000 |   n.s.
+  GPT-5 vs LLaMA-8B              |     43.5 |   0.000000 |   0.000000 |      *
+  GPT-5 vs Mistral-24B           |     12.5 |   0.000000 |   0.000000 |      *
+  LLaMA-8B vs Mistral-24B        |    933.5 |   0.000935 |   0.005608 |      *
+
+  Q6 – Satisfaction
+  Comparison                     |        U |    p-value |    p(Bonf) |    Sig
+  CROWD vs GPT-5                 |    504.0 |   0.084833 |   0.509000 |   n.s.
+  CROWD vs LLaMA-8B              |    535.5 |   0.201560 |   1.000000 |   n.s.
+  CROWD vs Mistral-24B           |    459.0 |   0.016436 |   0.098616 |   n.s.
+  GPT-5 vs LLaMA-8B              |    755.5 |   0.201406 |   1.000000 |   n.s.
+  GPT-5 vs Mistral-24B           |    496.0 |   0.008554 |   0.051325 |   n.s.
+  LLaMA-8B vs Mistral-24B        |    327.0 |   0.000056 |   0.000335 |      *

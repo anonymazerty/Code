@@ -1,0 +1,76 @@
+prolific_pid,total_time_hms,num_compose_attempts,q1_accomplishment,q2_effort,q3_mental_demand,q4_controllability,q5_temporal_demand,q6_satisfaction_trust,q7_would_use_again,comments,Current job role,Age,Sex,Country of residence,Nationality,Language,Employment status
+697274f14ba12d763b82e610,00:08:18,5,3,2,2,2,4,2,0,,College Teacher,46,Male,Poland,Poland,Polish,Full-Time
+6978d316230693c70d1005f2,00:04:35,3,1,2,2,1,1,1,0,It never gave me the distribution of topics I was looking for. It listed my parameters as input but basically ignored them.,High School Teacher,28,Male,United States,DATA_EXPIRED,English,Part-Time
+672baa684649287a25e6130f,00:21:12,2,4,2,3,3,2,4,1,,High School Teacher,33,Male,Brazil,Brazil,Portuguese,Part-Time
+694b9f1c43f972a25a092dd2,00:37:52,3,4,4,4,4,4,4,1,,College Teacher,37,Male,Czech Republic,Czech Republic,English,Part-Time
+67409da3525cfe05680d7f53,00:06:32,1,2,3,4,3,3,3,1,,High School Teacher,36,Male,India,India,Other,Full-Time
+68a5f9f40b71ed556a624b78,00:08:23,2,3,4,4,5,2,3,0,,High School Teacher,32,Female,United Kingdom,DATA_EXPIRED,Hindi,Part-Time
+696dffe2743963cdce54128c,00:06:16,2,1,4,4,2,2,2,0,"The parameters imputed didn't seem to be taken into account when generating the final quiz. Also, difficulty levels seemed very variable.",High School Teacher,33,Male,France,DATA_EXPIRED,French,Part-Time
+61430bcb6d7e2ec5993eeaf4,00:05:42,1,3,2,4,4,3,4,1,,College Teacher,25,Female,South Africa,South Africa,English,Due to start a new job within the next month
+696a88d7f6e44c3434e8a2c4,00:04:59,2,4,3,3,3,4,2,1,not perfect match on topics,High School Teacher,35,Male,Switzerland,Switzerland,German,Full-Time
+672b6ffcea50a91ac23dd705,00:03:00,2,5,2,2,3,2,4,1,,College Teacher,20,Male,Italy,Italy,Italian,Due to start a new job within the next month
+6063b039a95d68dc47e1624d,00:06:38,2,5,4,4,4,2,4,0,"It's more of an ""I don't know."" I don't find it very intuitive. I'm also not sure if I would recommend it precisely because of its lack of intuitiveness.",High School Teacher,31,Male,Chile,Chile,Spanish,Part-Time
+65b96074491c5acab7390dbd,00:05:28,4,3,4,2,5,1,3,0,,College Teacher,39,Male,Austria,Azerbaijan,English,Part-Time
+697868b39ae56d2b72946e2c,00:03:55,3,2,3,4,4,2,3,0,,College Teacher,27,Female,Germany,DATA_EXPIRED,German,Full-Time
+68cf706ed449a3e570b00380,00:12:22,3,5,5,5,3,1,5,1,,High School Teacher,58,Female,India,DATA_EXPIRED,English,Part-Time
+6978f0d31eee040048065920,00:09:35,2,3,3,5,3,4,4,1,It took me a while to figure out that dragging the marker alters the value of the given parameter.,High School Teacher,48,Male,Poland,DATA_EXPIRED,Polish,Full-Time
+5d7e8ddd4a8468000138c24e,00:07:27,5,1,4,4,1,1,1,0,The quiz didn't seem to fulfill the parameters even when I set them to 100% of a topic and 100% of a level.,High School Teacher,63,Female,United Kingdom,United Kingdom,English,Part-Time
+69698037e442102b583983c0,00:07:08,6,1,2,2,1,1,1,0,"In the end, I gave up trying to get it to generate a quiz that matched the parameters I set. I only put two desired topics but it consistently included 5 or 6, and it did not fit with the difficulty level preferences I had set either, even after making modifications and trying multiple iterations with each set of preferences.",College Teacher,38,Female,United States,DATA_EXPIRED,English,Full-Time
+697a2b1c69b6fa5acf4874e5,00:07:59,1,4,1,2,2,1,4,1,,High School Teacher,40,Male,Germany,DATA_EXPIRED,German,Full-Time
+695fb49ed951787df4da9974,00:06:26,3,2,2,2,1,1,2,1,"I requested a quiz to review integration and differentiation topics at 50/50, but the system kept giving me questions from other fields. Despite generating additional quizzes, I didn't feel that I had a way to limit the quiz to the topics that I had chosen to review. I also felt that I had no way to gauge in advance what the difficulty of the questions would be, so the given levels were not a useful metric for this. My initial assumption was that this would be a quiz system for high school-level calculus, but even the level 1 questions were at a much higher level.",College Teacher,34,Female,United States,United States,English,Part-Time
+62ead0772116e6bc70b7cd09,00:07:19,1,2,4,2,1,2,4,1,"You stated that the correct answer is the first one, I would hope that this is just for the purpose of this trial quiz?",High School Teacher,54,Female,United Kingdom,United Kingdom,English,Part-Time
+696001215742076b5a4b539f,00:16:23,8,1,2,2,1,3,2,0,"This system did not follow my requirements. Even with one topic, at the lowest level, it give me questions of other topics. I can live with questions jumping level 1 and 2.",College Teacher,61,Female,United States,United States,English,Part-Time
+56752c4529c5470012d66d5f,00:05:09,3,1,3,2,1,2,1,0,,College Teacher,63,Male,United Kingdom,United Kingdom,English,DATA_EXPIRED
+697a58809140acb77b2a6c1a,00:03:10,1,4,3,2,4,2,4,1,It changed the difficulty distribution but kept the topic distribution correct.,High School Teacher,32,Male,United States,DATA_EXPIRED,English,Full-Time
+697a6fbca71796a6bdde7139,00:07:04,1,3,3,4,5,3,5,1,,College Teacher,40,Male,Chile,DATA_EXPIRED,Spanish,Due to start a new job within the next month
+697a6d7fe579688108a6dc38,00:05:38,1,4,5,5,4,4,5,1,,College Teacher,40,Male,Brazil,DATA_EXPIRED,Portuguese,Full-Time
+695fcd69c6fe6570b30efb65,00:03:48,1,2,3,3,4,1,3,0,"I selected five quiz questions and only chose the ""Probability"" category, and set the percentage to 100%, but there were two probability questions and three from categories that I did not select. This seems like an issue?",College Teacher,31,Female,United States,United States,English,Full-Time
+695ffb90683fd081e9d0a758,00:05:22,10,1,5,4,1,1,1,0,"It never generated according to my specifications. The only acccurate thing was the number of questions. The subjects present in the quiz did not match the subjects I selected to be quizzed. The level of difficulty also did not match, and it would sometimes introduce level 5 difficulty questions for no reason. It did not matter how many times I regenerated the quiz or how I adjusted the parameters since the generator would never follow instructions.",High School Teacher,25,Male,United States,United States,English,Part-Time
+6977e2406bd72dae06ee5ef5,00:08:38,1,5,3,3,2,3,5,1,"I love the quiz generator, it's so interesting and easy to use. Well formatted",College Teacher,41,Female,Australia,DATA_EXPIRED,Other,Part-Time
+695ff65efbef4ed6e2310c7a,00:04:08,1,1,1,5,1,1,1,0,,College Teacher,47,Female,United States,United States,English,Part-Time
+697ac17e7de490c574e0f5a9,00:05:46,5,1,3,2,1,1,1,0,"Parameters are not reflected in the generated quiz-set.
+For example, even if I choose only one domain, quiz-set always includes more than one domains.",College Teacher,33,Male,Japan,DATA_EXPIRED,Japanese,Full-Time
+5ecd4fd21c94a20976d923e4,00:02:48,1,3,1,1,4,1,5,1,Fast and simplified to use,College Teacher,42,Female,United Kingdom,United Kingdom,English,Part-Time
+697a6d2e272fe7f711527c5a,00:05:48,1,4,3,4,5,3,4,1,,College Teacher,41,Female,Spain,DATA_EXPIRED,Spanish,Full-Time
+67227b6a95c02df067984f28,00:02:46,2,4,3,3,4,1,4,1,,High School Teacher,31,Female,United States,United States,English,Part-Time
+697a478b94bca1722d0995a2,00:04:05,1,5,4,5,4,2,4,1,It will be nicer to also provide explanations of how to solve the problem,College Teacher,39,Female,United States,DATA_EXPIRED,Chinese,Full-Time
+6977b337ff2f3823156b1f69,00:10:54,2,2,4,4,1,2,2,0,,College Teacher,29,Male,Germany,DATA_EXPIRED,German,Full-Time
+697be53b7479d5289c7e5a9e,00:13:59,2,4,2,2,3,5,4,1,"Excellent writing. Some level 3 questions didn’t feel medium-level, and on the other hand, many level 4 questions felt easier.",College Teacher,24,Male,Mexico,DATA_EXPIRED,Spanish,Part-Time
+6960c3ab440b5e7d5aeecd3d,00:06:57,7,1,1,1,1,1,1,0,The system does not create quizs as I request.,High School Teacher,44,Male,Japan,DATA_EXPIRED,Japanese,Part-Time
+6913db603a126b55cb252a19,00:04:43,7,1,2,2,1,2,1,0,"Not sure if this was intentional, but the designed quizzes did not appear to match the inputs at all.",College Teacher,37,Male,Australia,Canada,English,Full-Time
+697cc097555c0129bbf9a988,00:04:25,2,2,4,3,2,3,2,0,The builder didn't really make the quiz with the percentages i asked for...,High School Teacher,45,Male,Portugal,DATA_EXPIRED,Portuguese,Full-Time
+697cbfb01ee0ad1e7374c584,00:03:22,1,5,3,2,3,5,5,1,,High School Teacher,49,Female,Mexico,DATA_EXPIRED,Spanish,Part-Time
+697cf5f0e400431b9b245876,00:10:33,3,3,1,4,3,2,3,1,"I was not able to just get a quiz that provides questions from 1 or 2 levels, it always includes from all levels and subjects.",College Teacher,46,Male,Mexico,DATA_EXPIRED,Spanish,Part-Time
+697ab98caa7079baa7919743,00:13:03,2,4,3,4,3,2,3,1,"Maybe you can add, short justifications or some lines about, why an option ""X"" is  the right answer in a question (for example if you are going to use the quiz in an online platform, the student wants to know  why he is wrong or right)
+The first step is a little bit difficult to understand, because I cannot understand what can I do or press in the table that shows the content.",College Teacher,49,Female,Mexico,DATA_EXPIRED,Spanish,Full-Time
+697d9e2921b9c502efc63f59,00:06:06,1,5,5,4,5,5,4,1,,College Teacher,31,Male,Mexico,DATA_EXPIRED,Spanish,Full-Time
+697cf4989a402d974daed55d,00:04:54,1,5,5,4,4,5,5,1,,High School Teacher,35,Female,Ireland,DATA_EXPIRED,Swahili,Part-Time
+697dcb871f720fee0e39b82e,00:03:18,1,4,3,3,1,1,4,1,,High School Teacher,34,Female,France,DATA_EXPIRED,French,Full-Time
+697b4daf0aa9b272f76f4d4d,00:06:52,1,5,2,3,5,3,5,1,"One thing is that I didn't choose the differential equations topic, but it gave me a differential equation question, which is also related to integrals a bit, but not in the subject of integrals. Also, I got a difficulty level 1, which I didn't ask for, but this is fine as the difficulty levels of other questions were fine.",College Teacher,33,Male,France,DATA_EXPIRED,Turkish,Part-Time
+6912a7215ab3a0bd7eee9a00,00:04:10,3,1,1,1,3,1,1,0,"should be clear that this quiz is used to produce university level quizes.
+I thought level 1 would be grade 1 in elementary school",High School Teacher,35,Male,Australia,Australia,English,Full-Time
+694586e4d80c10f845335875,00:10:09,7,3,1,2,1,1,1,0,No. It never seemed to give me questions with the appropriate mix of chosen topics.,College Teacher,62,Male,United States,DATA_EXPIRED,English,Full-Time
+65cb90ace80f886a058024ce,00:05:03,1,5,3,4,5,2,5,1,The difficulty level was not consistent.,College Teacher,40,Female,United States,Nepal,Nepali,Part-Time
+697e055fadd6b35cb2f1c99f,00:08:01,3,4,4,4,3,2,4,1,,College Teacher,53,Female,Ireland,DATA_EXPIRED,English,Part-Time
+6980dab35149f78fba4a45b3,00:15:40,33,3,4,3,1,3,3,1,,High School Teacher,33,Male,Egypt,DATA_EXPIRED,Arabic,Full-Time
+69809e2d72b4e51672090486,00:16:21,4,3,4,5,4,3,3,0,,College Teacher,36,Female,Vietnam,DATA_EXPIRED,Vietnamese,Part-Time
+691f0a4a9d104abca2402652,00:07:05,3,2,5,5,2,3,2,0,,College Teacher,49,Male,Germany,DATA_EXPIRED,German,Full-Time
+5fd8b3ef6a260626886363c1,00:05:39,1,4,3,2,4,2,3,1,,High School Teacher,25,Male,Greece,Greece,Greek,Part-Time
+6980a6ede87af1a5046c132f,00:17:40,6,3,1,2,2,1,4,0,"PROBLEM: The generation of the quiz constantly disregarded the level of difficulty set up by me.
+I generated multiple versions, but it kept mixing levels of difficulty 1 - 5, even if I had selected level 1 - 2, at first, and then only level 1.",High School Teacher,49,Female,Romania,Romania,Romanian,Full-Time
+698a58f718cf71db398a09b1,00:04:02,1,4,2,3,4,3,4,1,,College Teacher,32,Male,Netherlands,China,Chinese,Full-Time
+6977a47f891c2f3112db706d,00:02:26,2,3,3,3,3,3,3,0,To difficult questions even on level 1 for my pupils.,High School Teacher,36,Male,Germany,Germany,German,Full-Time
+697a6e12c0ee5d636cc5717d,00:01:49,1,2,3,4,3,1,3,1,,High School Teacher,30,Male,Spain,Spain,Spanish,Full-Time
+612ea926374f6bb3a45dd488,00:10:03,1,4,5,5,5,4,5,1,The quiz was easy to work out. The time should be increased to allow candidates enough time to work out the solution.,College Teacher,32,Female,South Africa,South Africa,English,DATA_EXPIRED
+6980a57b187f7952eb6eac37,00:03:13,1,5,1,3,3,3,3,1,,College Teacher,38,Male,India,India,Hindi,Full-Time
+6972607d2c622ee3b7b8b420,00:15:50,5,4,3,3,2,3,3,1,"It didn't respect the level I had chosen. I will use this system again, but I will choose questions from different quizzes. If I were you, I would correct the algorithm.",College Teacher,28,Female,Italy,Italy,Italian,Full-Time
+697801e663df41c309064cf4,00:04:06,2,3,2,3,3,4,3,1,It would be great if you could set it to just have one topic of questions or eliminate a topic and modify it that way also,High School Teacher,36,Female,Australia,Australia,Italian,Part-Time
+66d1410666761c25becf1999,00:06:02,4,1,1,1,1,1,1,0,Didn’t remotely do what I asked it to,High School Teacher,34,Female,United Kingdom,United Kingdom,English,Part-Time
+697e0c45d16cc5b0de9f3099,00:12:59,2,5,4,3,4,2,5,1,"As a professor myself who has to regularly struggle with forming mcqs at different difficulty level, availability of such a system would be godsent for s and save numerous working hours improve productivity. very impressed.",College Teacher,31,Male,India,India,English,Full-Time
+698b9c69f961f92592b06af2,00:12:38,2,2,3,5,1,1,2,0,"intente 2 veces a crear El cuestionario que yo buscaba, y la IA genero las 2 veces Algo que no Pedí.",College Teacher,44,Male,Argentina,Argentina,Spanish,Full-Time
+697b7d329eb08e3eb1ec8e2b,00:17:18,4,2,4,5,2,5,3,0,,High School Teacher,35,Male,Mexico,Mexico,Spanish,Part-Time
+69986a5a5c8d5b8f04d0d570,00:06:30,7,1,2,1,1,1,1,0,,High School Teacher,31,Female,United States,United States,English,Full-Time
+699cd5c5942aff029f6b8246,00:06:09,6,1,1,1,1,1,1,0,"None of the quizzes generated matched my specification. They included the topics and difficulty levels I did not ask for.
+There were no time requirements, so I did not feel pressured (Q4)
+While randomised quizzes are useful, they need to meet the constraints set; otherwise, people cannot use them.",College Teacher,49,Female,United Kingdom,United Kingdom,Dutch,Full-Time
+6658f0a58f1ee667f4264a93,00:03:10,2,4,4,5,4,3,3,1,,College Teacher,25,Female,United Kingdom,United Kingdom,English,Part-Time

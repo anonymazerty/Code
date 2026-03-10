@@ -1,0 +1,7 @@
+prompt_type,llm,model_name,run_number,num_simulations,total_tokens,total_llm_calls
+Task-Constrained,llama8B,llama3.1:8b,0,65,183246,177
+Task-Constrained,llama8B,llama3.1:8b,1,65,189130,183
+Task-Constrained,llama8B,llama3.1:8b,2,65,199044,192
+Task-Constrained,llama8B,llama3.1:8b,3,65,194250,188
+Task-Constrained,llama8B,llama3.1:8b,4,65,219376,211
+Task-Constrained,llama8B,llama3.1:8b,ALL,325,985046,951

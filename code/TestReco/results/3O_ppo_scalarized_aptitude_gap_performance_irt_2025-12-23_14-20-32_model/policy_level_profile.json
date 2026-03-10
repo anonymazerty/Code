@@ -1,0 +1,15 @@
+{
+  "avg_scalar_reward": 7.877594444444444,
+  "std_scalar_reward": 1.4501294328970509,
+  "objective_avg_rewards": {
+    "aptitude": 4.199450000000001,
+    "gap": 1.3333333333333333,
+    "performance": 18.100000000000005
+  },
+  "avg_steps_per_episode": 20.3,
+  "objectives": [
+    "aptitude",
+    "gap",
+    "performance"
+  ]
+}

@@ -1,0 +1,25 @@
+metric,metric_label,U_stat,p_value,significance,crowd_n,agent_n,mode,prompt,model,profile
+accomplishment,Q1: Accomplishment,885.0,4.1401792559591685e-05,***,55,55,E2E Agent,Calibrated,GPT-5,All
+effort_required,Q2: Effort Required,2711.0,1.321543727961126e-14,***,55,55,E2E Agent,Calibrated,GPT-5,All
+mental_demand,Q3: Mental Demand,2185.0,1.259876032807939e-06,***,55,55,E2E Agent,Calibrated,GPT-5,All
+perceived_controllability,Q4: Controllability,1604.0,0.5471280251389652,ns,55,55,E2E Agent,Calibrated,GPT-5,All
+temporal_demand,Q5: Temporal Demand,2468.5,4.3677943232234484e-10,***,55,55,E2E Agent,Calibrated,GPT-5,All
+trust,Q6: Trust,709.5,2.2112583277904957e-07,***,55,55,E2E Agent,Calibrated,GPT-5,All
+accomplishment,Q1: Accomplishment,33.0,0.45993597347516046,ns,9,9,E2E Agent,Calibrated,GPT-5,high_school
+effort_required,Q2: Effort Required,67.5,0.009237314357999097,**,9,9,E2E Agent,Calibrated,GPT-5,high_school
+mental_demand,Q3: Mental Demand,54.0,0.14293891411903953,ns,9,9,E2E Agent,Calibrated,GPT-5,high_school
+perceived_controllability,Q4: Controllability,54.5,0.20600199449141499,ns,9,9,E2E Agent,Calibrated,GPT-5,high_school
+temporal_demand,Q5: Temporal Demand,58.5,0.08860097919771151,ns,9,9,E2E Agent,Calibrated,GPT-5,high_school
+trust,Q6: Trust,27.0,0.18838513471909535,ns,9,9,E2E Agent,Calibrated,GPT-5,high_school
+accomplishment,Q1: Accomplishment,114.0,0.0003219690100215171,***,23,23,E2E Agent,Calibrated,GPT-5,undergraduate
+effort_required,Q2: Effort Required,478.0,5.174206354432236e-07,***,23,23,E2E Agent,Calibrated,GPT-5,undergraduate
+mental_demand,Q3: Mental Demand,350.5,0.030621226566163503,*,23,23,E2E Agent,Calibrated,GPT-5,undergraduate
+perceived_controllability,Q4: Controllability,163.5,0.011633378778325968,*,23,23,E2E Agent,Calibrated,GPT-5,undergraduate
+temporal_demand,Q5: Temporal Demand,444.5,8.730027591202627e-06,***,23,23,E2E Agent,Calibrated,GPT-5,undergraduate
+trust,Q6: Trust,92.5,6.0979829635450623e-05,***,23,23,E2E Agent,Calibrated,GPT-5,undergraduate
+accomplishment,Q1: Accomplishment,169.0,0.017289409547140738,*,23,23,E2E Agent,Calibrated,GPT-5,graduate
+effort_required,Q2: Effort Required,484.5,2.0750061955940821e-07,***,23,23,E2E Agent,Calibrated,GPT-5,graduate
+mental_demand,Q3: Mental Demand,425.5,9.72135519767369e-06,***,23,23,E2E Agent,Calibrated,GPT-5,graduate
+perceived_controllability,Q4: Controllability,361.5,0.014951357633087362,*,23,23,E2E Agent,Calibrated,GPT-5,graduate
+temporal_demand,Q5: Temporal Demand,441.0,3.508865311214238e-05,***,23,23,E2E Agent,Calibrated,GPT-5,graduate
+trust,Q6: Trust,111.0,8.077848697527572e-05,***,23,23,E2E Agent,Calibrated,GPT-5,graduate

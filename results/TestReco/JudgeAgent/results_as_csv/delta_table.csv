@@ -1,0 +1,7 @@
+Metric,Crowd_Med,Crowd_IQR,Llama_dMed,Llama_dIQR,Gpt_dMed,Gpt_dIQR,Mistral_dMed,Mistral_dIQR
+Q1 Accomplishment,4.0,2.0,0.0,-1.0,0.0,1.0,0.0,-1.0
+Q2 Effort Required,5.0,1.0,-2.0,0.0,-1.0,0.0,-1.0,0.0
+Q3 Mental Demand,5.0,1.0,-1.0,-1.0,-1.0,0.0,-1.0,-1.0
+Q4 Perceived Controllability,4.0,2.0,-1.0,0.0,-1.0,-1.0,-1.0,-1.5
+Q5 Temporal Demand,4.0,2.0,-2.0,-1.25,-2.0,-2.0,-1.0,-1.0
+Q6 Trust,4.0,2.0,0.0,-1.0,-1.0,-1.0,0.0,-0.5

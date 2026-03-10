@@ -1,0 +1,16 @@
+# Core web framework
+streamlit>=1.30.0
+
+# Database
+SQLAlchemy>=2.0.0
+
+# HTTP requests
+requests>=2.32.0
+
+# Data manipulation
+pandas>=2.0.0
+
+# Password hashing
+passlib>=1.7.4
+
+# Python version requirement: Python 3.9+

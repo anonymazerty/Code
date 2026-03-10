@@ -1,0 +1,4 @@
+llm,model_name,num_simulations,total_tokens,total_llm_calls,input_tokens,output_tokens,input_ratio,input_rate,output_rate,cost
+GPT5,gpt-5-2025-08-07,325,576421,324,501486,74935,0.87,2.5,20.0,2.752415
+llama8B,llama3.1:8b,325,340967,325,296641,44326,0.87,0.036,0.038,0.012363
+Mistral,mistralai/mistral-small-3.2-24b-instruct,325,332443,324,289225,43218,0.87,0.053,0.095,0.019435

@@ -1,0 +1,22 @@
+Model,Question,Question_Name,Crowd_Med,CI_Med_Lo,CI_Med_Hi,Crowd_IQR,CI_IQR_Lo,CI_IQR_Hi,Agent_Med,Agent_IQR,ΔMed,ΔIQR,d(q),AlignScore,Med_Compat,IQR_Compat
+GPT-5,Q1,Accomplishment,3.0,2.0,4.0,2.0,1.0,3.0,4.0,1.0,1.0,-1.0,1.0,0.3679,True,True
+GPT-5,Q2,Effort,3.0,3.0,4.0,1.25,1.0,3.0,2.0,0.0,-1.0,-1.25,1.8,0.1653,False,False
+GPT-5,Q3,Mental Demand,3.0,2.5,4.0,2.0,1.0,2.25,2.0,0.0,-1.0,-2.0,1.5,0.2231,False,False
+GPT-5,Q4,Controllability,3.0,2.0,3.0,1.25,1.0,3.0,3.0,0.0,0.0,-1.25,1.0,0.3679,True,False
+GPT-5,Q5,Temporal Demand,2.0,1.0,3.0,2.25,1.0,3.25,1.0,0.0,-1.0,-2.25,1.4444,0.2359,True,False
+GPT-5,Q6,Satisfaction,3.0,3.0,4.0,1.25,1.0,3.0,3.0,1.0,0.0,-0.25,0.2,0.8187,True,True
+GPT-5,Avg,Aggregate,,,,,,,,,,,1.1574,0.3631,0/6,0/6
+LLaMA-8B,Q1,Accomplishment,3.0,2.0,4.0,2.0,1.0,3.0,3.0,1.0,0.0,-1.0,0.5,0.6065,True,True
+LLaMA-8B,Q2,Effort,3.0,3.0,4.0,1.25,1.0,3.0,3.0,1.0,0.0,-0.25,0.2,0.8187,True,True
+LLaMA-8B,Q3,Mental Demand,3.0,2.5,4.0,2.0,1.0,2.25,2.0,1.0,-1.0,-1.0,1.0,0.3679,False,True
+LLaMA-8B,Q4,Controllability,3.0,2.0,3.0,1.25,1.0,3.0,3.0,1.0,0.0,-0.25,0.2,0.8187,True,True
+LLaMA-8B,Q5,Temporal Demand,2.0,1.0,3.0,2.25,1.0,3.25,3.0,2.0,1.0,-0.25,0.5556,0.5738,True,True
+LLaMA-8B,Q6,Satisfaction,3.0,3.0,4.0,1.25,1.0,3.0,3.0,0.0,0.0,-1.25,1.0,0.3679,True,False
+LLaMA-8B,Avg,Aggregate,,,,,,,,,,,0.5759,0.5922,0/6,0/6
+Mistral-24B,Q1,Accomplishment,3.0,2.0,4.0,2.0,1.0,3.0,4.0,0.0,1.0,-2.0,1.5,0.2231,True,False
+Mistral-24B,Q2,Effort,3.0,3.0,4.0,1.25,1.0,3.0,2.0,0.0,-1.0,-1.25,1.8,0.1653,False,False
+Mistral-24B,Q3,Mental Demand,3.0,2.5,4.0,2.0,1.0,2.25,2.0,0.0,-1.0,-2.0,1.5,0.2231,False,False
+Mistral-24B,Q4,Controllability,3.0,2.0,3.0,1.25,1.0,3.0,3.0,1.0,0.0,-0.25,0.2,0.8187,True,True
+Mistral-24B,Q5,Temporal Demand,2.0,1.0,3.0,2.25,1.0,3.25,1.0,0.0,-1.0,-2.25,1.4444,0.2359,True,False
+Mistral-24B,Q6,Satisfaction,3.0,3.0,4.0,1.25,1.0,3.0,4.0,1.0,1.0,-0.25,1.0,0.3679,True,True
+Mistral-24B,Avg,Aggregate,,,,,,,,,,,1.2407,0.339,0/6,0/6

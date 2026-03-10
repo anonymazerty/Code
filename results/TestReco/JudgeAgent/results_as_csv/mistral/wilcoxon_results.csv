@@ -1,0 +1,25 @@
+metric,metric_label,U_stat,p_value,significance,crowd_n,agent_n,mode,prompt,model,profile
+accomplishment,Q1: Accomplishment,1752.0,0.13451278830667834,ns,55,55,AgentJudge,N/A,Mistral-24B,All
+effort_required,Q2: Effort Required,2483.0,6.386661574863157e-10,***,55,55,AgentJudge,N/A,Mistral-24B,All
+mental_demand,Q3: Mental Demand,2148.0,4.521499853680247e-06,***,55,55,AgentJudge,N/A,Mistral-24B,All
+perceived_controllability,Q4: Controllability,2128.5,0.0001287854089527569,***,55,55,AgentJudge,N/A,Mistral-24B,All
+temporal_demand,Q5: Temporal Demand,2188.0,2.0342001296904186e-05,***,55,55,AgentJudge,N/A,Mistral-24B,All
+trust,Q6: Trust,1678.5,0.30101068526694563,ns,55,55,AgentJudge,N/A,Mistral-24B,All
+accomplishment,Q1: Accomplishment,49.0,0.4684609727084539,ns,9,9,AgentJudge,N/A,Mistral-24B,high_school
+effort_required,Q2: Effort Required,57.0,0.125724945224013,ns,9,9,AgentJudge,N/A,Mistral-24B,high_school
+mental_demand,Q3: Mental Demand,50.0,0.3366683676100387,ns,9,9,AgentJudge,N/A,Mistral-24B,high_school
+perceived_controllability,Q4: Controllability,60.5,0.07639892694902266,ns,9,9,AgentJudge,N/A,Mistral-24B,high_school
+temporal_demand,Q5: Temporal Demand,44.5,0.733431207582504,ns,9,9,AgentJudge,N/A,Mistral-24B,high_school
+trust,Q6: Trust,58.0,0.12055424360604076,ns,9,9,AgentJudge,N/A,Mistral-24B,high_school
+accomplishment,Q1: Accomplishment,275.0,0.8177275621825396,ns,23,23,AgentJudge,N/A,Mistral-24B,undergraduate
+effort_required,Q2: Effort Required,456.0,8.255752768625986e-06,***,23,23,AgentJudge,N/A,Mistral-24B,undergraduate
+mental_demand,Q3: Mental Demand,345.0,0.03978326389629477,*,23,23,AgentJudge,N/A,Mistral-24B,undergraduate
+perceived_controllability,Q4: Controllability,284.5,0.6524268993863761,ns,23,23,AgentJudge,N/A,Mistral-24B,undergraduate
+temporal_demand,Q5: Temporal Demand,404.5,0.0013216951860316006,**,23,23,AgentJudge,N/A,Mistral-24B,undergraduate
+trust,Q6: Trust,239.0,0.5693847294444113,ns,23,23,AgentJudge,N/A,Mistral-24B,undergraduate
+accomplishment,Q1: Accomplishment,323.5,0.17019637347841166,ns,23,23,AgentJudge,N/A,Mistral-24B,graduate
+effort_required,Q2: Effort Required,452.0,8.478195877764135e-06,***,23,23,AgentJudge,N/A,Mistral-24B,graduate
+mental_demand,Q3: Mental Demand,425.5,9.72135519767369e-06,***,23,23,AgentJudge,N/A,Mistral-24B,graduate
+perceived_controllability,Q4: Controllability,448.0,2.1056771202952793e-05,***,23,23,AgentJudge,N/A,Mistral-24B,graduate
+temporal_demand,Q5: Temporal Demand,401.0,0.001157775849594205,**,23,23,AgentJudge,N/A,Mistral-24B,graduate
+trust,Q6: Trust,327.0,0.13339008204330532,ns,23,23,AgentJudge,N/A,Mistral-24B,graduate

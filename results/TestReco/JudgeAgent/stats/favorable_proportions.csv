@@ -1,0 +1,7 @@
+Question,Question_Name,CROWD_n>=4,CROWD_N,CROWD_%>=4,GPT-5_n>=4,GPT-5_N,GPT-5_%>=4,LLaMA-8B_n>=4,LLaMA-8B_N,LLaMA-8B_%>=4,Mistral-24B_n>=4,Mistral-24B_N,Mistral-24B_%>=4
+Q1,Accomplishment,39,55,70.9,25,55,45.5,24,55,43.6,32,55,58.2
+Q2,Effort Required,49,55,89.1,23,55,41.8,1,55,1.8,13,55,23.6
+Q3,Mental Demand,49,55,89.1,25,55,45.5,36,55,65.5,53,55,96.4
+Q4,Controllability,35,55,63.6,9,55,16.4,13,55,23.6,12,55,21.8
+Q5,Temporal Demand,32,55,58.2,0,55,0.0,0,55,0.0,0,55,0.0
+Q6,Trust,33,55,60.0,19,55,34.5,31,55,56.4,29,55,52.7

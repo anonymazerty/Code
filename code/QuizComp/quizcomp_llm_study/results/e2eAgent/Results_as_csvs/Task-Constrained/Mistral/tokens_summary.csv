@@ -1,0 +1,7 @@
+prompt_type,llm,model_name,run_number,num_simulations,total_tokens,total_llm_calls
+Task-Constrained,Mistral,mistralai/mistral-small-3.2-24b-instruct,0,65,171171,168
+Task-Constrained,Mistral,mistralai/mistral-small-3.2-24b-instruct,1,65,164335,162
+Task-Constrained,Mistral,mistralai/mistral-small-3.2-24b-instruct,2,65,171096,168
+Task-Constrained,Mistral,mistralai/mistral-small-3.2-24b-instruct,3,65,168352,165
+Task-Constrained,Mistral,mistralai/mistral-small-3.2-24b-instruct,4,65,165398,163
+Task-Constrained,Mistral,mistralai/mistral-small-3.2-24b-instruct,ALL,325,840352,826

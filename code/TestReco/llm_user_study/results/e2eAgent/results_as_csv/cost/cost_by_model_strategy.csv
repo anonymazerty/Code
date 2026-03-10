@@ -1,0 +1,10 @@
+model,strategy,simul_student_usd,survey_usd,total_usd,n_q_calls,n_s_calls
+gpt-5-2025-08-07,Calibrated,100.5191,5.480655,105.999755,13750,275
+gpt-5-2025-08-07,Task-Constrained,152.215225,5.467045,157.68227,13750,275
+gpt-5-2025-08-07,Role-Anchored,100.841557,5.426435,106.267992,13750,275
+llama-3-8b,Calibrated,0.840472,0.073467,0.913939,13750,275
+llama-3-8b,Task-Constrained,0.970186,0.074324,1.044509,13750,275
+llama-3-8b,Role-Anchored,0.84207,0.074303,0.916373,13750,275
+mistral-24b-instruct,Calibrated,1.33364,0.110121,1.443761,13750,275
+mistral-24b-instruct,Task-Constrained,1.621289,0.109162,1.730451,13750,275
+mistral-24b-instruct,Role-Anchored,1.335956,0.109698,1.445654,13750,275

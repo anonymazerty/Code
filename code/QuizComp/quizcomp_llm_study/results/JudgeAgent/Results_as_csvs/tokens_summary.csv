@@ -1,0 +1,4 @@
+llm,model_name,num_simulations,total_tokens,total_llm_calls
+GPT5,gpt-5-2025-08-07,325,576421,324
+llama8B,llama3.1:8b,325,340967,325
+Mistral,mistralai/mistral-small-3.2-24b-instruct,325,332443,324

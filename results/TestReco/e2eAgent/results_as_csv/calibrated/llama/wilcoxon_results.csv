@@ -1,0 +1,25 @@
+metric,metric_label,U_stat,p_value,significance,crowd_n,agent_n,mode,prompt,model,profile
+accomplishment,Q1: Accomplishment,826.5,6.550772619552962e-06,***,55,55,E2E Agent,Calibrated,LLaMA-8B,All
+effort_required,Q2: Effort Required,2720.5,6.881562232275896e-15,***,55,55,E2E Agent,Calibrated,LLaMA-8B,All
+mental_demand,Q3: Mental Demand,2172.5,1.6009401151057236e-06,***,55,55,E2E Agent,Calibrated,LLaMA-8B,All
+perceived_controllability,Q4: Controllability,1662.0,0.331738798396772,ns,55,55,E2E Agent,Calibrated,LLaMA-8B,All
+temporal_demand,Q5: Temporal Demand,2485.5,1.4679710412391908e-10,***,55,55,E2E Agent,Calibrated,LLaMA-8B,All
+trust,Q6: Trust,726.0,4.0766753595062164e-07,***,55,55,E2E Agent,Calibrated,LLaMA-8B,All
+accomplishment,Q1: Accomplishment,33.0,0.45993597347516046,ns,9,9,E2E Agent,Calibrated,LLaMA-8B,high_school
+effort_required,Q2: Effort Required,66.0,0.016735462679022366,*,9,9,E2E Agent,Calibrated,LLaMA-8B,high_school
+mental_demand,Q3: Mental Demand,54.0,0.14293891411903953,ns,9,9,E2E Agent,Calibrated,LLaMA-8B,high_school
+perceived_controllability,Q4: Controllability,58.5,0.08820150262646032,ns,9,9,E2E Agent,Calibrated,LLaMA-8B,high_school
+temporal_demand,Q5: Temporal Demand,58.5,0.08860097919771151,ns,9,9,E2E Agent,Calibrated,LLaMA-8B,high_school
+trust,Q6: Trust,27.0,0.18838513471909535,ns,9,9,E2E Agent,Calibrated,LLaMA-8B,high_school
+accomplishment,Q1: Accomplishment,121.5,0.000672557118149643,***,23,23,E2E Agent,Calibrated,LLaMA-8B,undergraduate
+effort_required,Q2: Effort Required,494.5,3.3980856082939916e-08,***,23,23,E2E Agent,Calibrated,LLaMA-8B,undergraduate
+mental_demand,Q3: Mental Demand,345.0,0.03978326389629477,*,23,23,E2E Agent,Calibrated,LLaMA-8B,undergraduate
+perceived_controllability,Q4: Controllability,191.5,0.08118491972912008,ns,23,23,E2E Agent,Calibrated,LLaMA-8B,undergraduate
+temporal_demand,Q5: Temporal Demand,448.5,3.962991540790109e-06,***,23,23,E2E Agent,Calibrated,LLaMA-8B,undergraduate
+trust,Q6: Trust,102.5,0.00018028986690771904,***,23,23,E2E Agent,Calibrated,LLaMA-8B,undergraduate
+accomplishment,Q1: Accomplishment,133.0,0.0004955856280454365,***,23,23,E2E Agent,Calibrated,LLaMA-8B,graduate
+effort_required,Q2: Effort Required,482.0,3.3024028412310427e-07,***,23,23,E2E Agent,Calibrated,LLaMA-8B,graduate
+mental_demand,Q3: Mental Demand,425.5,9.72135519767369e-06,***,23,23,E2E Agent,Calibrated,LLaMA-8B,graduate
+perceived_controllability,Q4: Controllability,350.5,0.025654302725166115,*,23,23,E2E Agent,Calibrated,LLaMA-8B,graduate
+temporal_demand,Q5: Temporal Demand,443.5,2.3589539023990062e-05,***,23,23,E2E Agent,Calibrated,LLaMA-8B,graduate
+trust,Q6: Trust,101.5,2.1213557453624275e-05,***,23,23,E2E Agent,Calibrated,LLaMA-8B,graduate

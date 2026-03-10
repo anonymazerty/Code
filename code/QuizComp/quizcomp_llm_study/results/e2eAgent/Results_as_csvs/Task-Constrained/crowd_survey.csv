@@ -1,0 +1,66 @@
+session_id,prolific_pid,Q1_Accomplishment,Q2_Effort,Q3_Mental_Demand,Q4_Controllability,Q5_Temporal_Demand,Q6_Satisfaction,Current_Job_Role
+5,697274f14ba12d763b82e610,3,2,2,2,4,2,College Teacher
+7,6977a75554c163cc6664f749,5,2,3,3,4,4,College Teacher
+8,672baa684649287a25e6130f,4,2,3,3,2,4,High School Teacher
+9,694b9f1c43f972a25a092dd2,4,4,4,4,4,4,College Teacher
+10,67409da3525cfe05680d7f53,2,3,4,3,3,3,High School Teacher
+11,6367bcc2571a0adcee41ae53,5,5,5,5,5,5,High School Teacher
+12,68a5f9f40b71ed556a624b78,3,4,4,5,2,3,High School Teacher
+13,696dffe2743963cdce54128c,1,4,4,2,2,2,High School Teacher
+14,61430bcb6d7e2ec5993eeaf4,3,2,4,4,3,4,College Teacher
+15,696a88d7f6e44c3434e8a2c4,4,3,3,3,4,2,High School Teacher
+16,672b6ffcea50a91ac23dd705,5,2,2,3,2,4,College Teacher
+17,6063b039a95d68dc47e1624d,5,4,4,4,2,4,High School Teacher
+18,65b96074491c5acab7390dbd,3,4,2,5,1,3,College Teacher
+19,697868b39ae56d2b72946e2c,2,3,4,4,2,3,College Teacher
+20,68cf706ed449a3e570b00380,5,5,5,3,1,5,High School Teacher
+21,6978f0d31eee040048065920,3,3,5,3,4,4,High School Teacher
+23,69698037e442102b583983c0,1,2,2,1,1,1,College Teacher
+24,697a2b1c69b6fa5acf4874e5,4,1,2,2,1,4,High School Teacher
+25,695fb49ed951787df4da9974,2,2,2,1,1,2,College Teacher
+26,62ead0772116e6bc70b7cd09,2,4,2,1,2,4,High School Teacher
+27,696001215742076b5a4b539f,1,2,2,1,3,2,College Teacher
+29,697a58809140acb77b2a6c1a,4,3,2,4,2,4,High School Teacher
+31,697a6fbca71796a6bdde7139,3,3,4,5,3,5,College Teacher
+32,697a6d7fe579688108a6dc38,4,5,5,4,4,5,College Teacher
+33,695fcd69c6fe6570b30efb65,2,3,3,4,1,3,College Teacher
+34,695ffb90683fd081e9d0a758,1,5,4,1,1,1,High School Teacher
+35,6977e2406bd72dae06ee5ef5,5,3,3,2,3,5,College Teacher
+38,695ff65efbef4ed6e2310c7a,1,1,5,1,1,1,College Teacher
+39,697ac17e7de490c574e0f5a9,1,3,2,1,1,1,College Teacher
+41,5ecd4fd21c94a20976d923e4,3,1,1,4,1,5,College Teacher
+42,697a6d2e272fe7f711527c5a,4,3,4,5,3,4,College Teacher
+43,67227b6a95c02df067984f28,4,3,3,4,1,4,High School Teacher
+44,697a478b94bca1722d0995a2,5,4,5,4,2,4,College Teacher
+46,6977b337ff2f3823156b1f69,2,4,4,1,2,2,College Teacher
+47,697be53b7479d5289c7e5a9e,4,2,2,3,5,4,College Teacher
+48,6960c3ab440b5e7d5aeecd3d,1,1,1,1,1,1,High School Teacher
+52,697cc097555c0129bbf9a988,2,4,3,2,3,2,High School Teacher
+53,697cbfb01ee0ad1e7374c584,5,3,2,3,5,5,High School Teacher
+54,697cf5f0e400431b9b245876,3,1,4,3,2,3,College Teacher
+55,697ab98caa7079baa7919743,4,3,4,3,2,3,College Teacher
+57,697d9e2921b9c502efc63f59,5,5,4,5,5,4,College Teacher
+58,697cf4989a402d974daed55d,5,5,4,4,5,5,High School Teacher
+59,697dcb871f720fee0e39b82e,4,3,3,1,1,4,High School Teacher
+60,697b4daf0aa9b272f76f4d4d,5,2,3,5,3,5,College Teacher
+61,6912a7215ab3a0bd7eee9a00,1,1,1,3,1,1,High School Teacher
+63,65cb90ace80f886a058024ce,5,3,4,5,2,5,College Teacher
+64,697e055fadd6b35cb2f1c99f,4,4,4,3,2,4,College Teacher
+65,6980dab35149f78fba4a45b3,3,4,3,1,3,3,High School Teacher
+66,69809e2d72b4e51672090486,3,4,5,4,3,3,College Teacher
+67,691f0a4a9d104abca2402652,2,5,5,2,3,2,College Teacher
+68,5fd8b3ef6a260626886363c1,4,3,2,4,2,3,High School Teacher
+69,6980a6ede87af1a5046c132f,3,1,2,2,1,4,High School Teacher
+70,698a58f718cf71db398a09b1,4,2,3,4,3,4,College Teacher
+71,6977a47f891c2f3112db706d,3,3,3,3,3,3,High School Teacher
+72,697a6e12c0ee5d636cc5717d,2,3,4,3,1,3,High School Teacher
+73,612ea926374f6bb3a45dd488,4,5,5,5,4,5,College Teacher
+74,6980a57b187f7952eb6eac37,5,1,3,3,3,3,College Teacher
+75,6972607d2c622ee3b7b8b420,4,3,3,2,3,3,College Teacher
+76,697801e663df41c309064cf4,3,2,3,3,4,3,High School Teacher
+78,697e0c45d16cc5b0de9f3099,5,4,3,4,2,5,College Teacher
+80,698b9c69f961f92592b06af2,2,3,5,1,1,2,College Teacher
+81,697b7d329eb08e3eb1ec8e2b,2,4,5,2,5,3,High School Teacher
+83,69986a5a5c8d5b8f04d0d570,1,2,1,1,1,1,High School Teacher
+84,699cd5c5942aff029f6b8246,1,1,1,1,1,1,College Teacher
+85,6658f0a58f1ee667f4264a93,4,4,5,4,3,3,College Teacher

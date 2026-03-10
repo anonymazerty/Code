@@ -1,0 +1,7 @@
+prompt_type,llm,model_name,run_number,num_simulations,total_tokens,total_llm_calls
+Calibrated,GPT5,gpt-5-2025-08-07,1,65,1184966,474
+Calibrated,GPT5,gpt-5-2025-08-07,2,65,1089593,439
+Calibrated,GPT5,gpt-5-2025-08-07,3,65,1133921,453
+Calibrated,GPT5,gpt-5-2025-08-07,4,65,1115388,452
+Calibrated,GPT5,gpt-5-2025-08-07,5,65,1150057,463
+Calibrated,GPT5,gpt-5-2025-08-07,ALL,325,5673925,2281

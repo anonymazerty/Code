@@ -1,0 +1,10 @@
+prompt_type,llm,model_name,num_simulations,total_tokens,total_llm_calls
+Calibrated,GPT5,gpt-5-2025-08-07,325,5673925,2281
+Calibrated,llama8B,llama3.1:8b,325,2293372,1499
+Calibrated,Mistral,mistralai/mistral-small-3.2-24b-instruct,325,1821144,1203
+Role-Anchored,GPT5,gpt-5-2025-08-07,325,2057791,1230
+Role-Anchored,llama8B,llama3.1:8b,325,726702,679
+Role-Anchored,Mistral,mistralai/mistral-small-3.2-24b-instruct,325,901816,866
+Task-Constrained,GPT5,gpt-5-2025-08-07,325,1898408,1152
+Task-Constrained,llama8B,llama3.1:8b,325,985046,951
+Task-Constrained,Mistral,mistralai/mistral-small-3.2-24b-instruct,325,840352,826

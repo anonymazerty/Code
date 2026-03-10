@@ -1,0 +1,289 @@
+metric,metric_label,crowd_n,crowd_median,crowd_iqr,ci_med,ci_iqr,agent_n,agent_median,agent_iqr,delta_med,delta_iqr,med_compatible,iqr_compatible,d_score,align_score,mode,prompt,model,profile
+accomplishment,Q1: Accomplishment,55,4.0,2.0,"[4.0, 4.0]","[1.0, 2.5]",55,5.0,0.0,1.0,-2.0,False,False,1.5,0.22313016014842982,E2E Agent,Task-Constrained,LLaMA-8B,All
+effort_required,Q2: Effort Required,55,5.0,1.0,"[4.0, 5.0]","[1.0, 1.0]",55,3.0,0.0,-2.0,-1.0,False,False,3.0,0.049787068367863944,E2E Agent,Task-Constrained,LLaMA-8B,All
+mental_demand,Q3: Mental Demand,55,5.0,1.0,"[4.0, 5.0]","[1.0, 1.0]",55,4.0,0.0,-1.0,-1.0,True,False,2.0,0.1353352832366127,E2E Agent,Task-Constrained,LLaMA-8B,All
+perceived_controllability,Q4: Controllability,55,4.0,2.0,"[4.0, 4.0]","[1.0, 2.5]",55,4.0,0.0,0.0,-2.0,True,False,1.0,0.36787944117144233,E2E Agent,Task-Constrained,LLaMA-8B,All
+temporal_demand,Q5: Temporal Demand,55,4.0,2.0,"[3.0, 5.0]","[2.0, 3.0]",55,2.0,0.0,-2.0,-2.0,False,False,2.0,0.1353352832366127,E2E Agent,Task-Constrained,LLaMA-8B,All
+trust,Q6: Trust,55,4.0,2.0,"[3.0, 4.0]","[1.0, 2.0]",55,5.0,1.0,1.0,-1.0,False,True,1.0,0.36787944117144233,E2E Agent,Task-Constrained,LLaMA-8B,All
+accomplishment,Q1: Accomplishment,9,4.0,2.0,"[1.0, 5.0]","[0.0, 4.0]",9,5.0,1.0,1.0,-1.0,True,True,1.0,0.36787944117144233,E2E Agent,Task-Constrained,LLaMA-8B,high_school
+effort_required,Q2: Effort Required,9,5.0,1.0,"[3.0, 5.0]","[0.0, 3.0]",9,3.0,1.0,-2.0,0.0,True,True,2.0,0.1353352832366127,E2E Agent,Task-Constrained,LLaMA-8B,high_school
+mental_demand,Q3: Mental Demand,9,4.0,1.0,"[4.0, 5.0]","[0.0, 2.0]",9,4.0,0.0,0.0,-1.0,True,True,1.0,0.36787944117144233,E2E Agent,Task-Constrained,LLaMA-8B,high_school
+perceived_controllability,Q4: Controllability,9,4.0,2.0,"[2.0, 5.0]","[0.0, 3.0]",9,3.0,1.0,-1.0,-1.0,True,True,1.0,0.36787944117144233,E2E Agent,Task-Constrained,LLaMA-8B,high_school
+temporal_demand,Q5: Temporal Demand,9,3.0,2.0,"[1.0, 4.0]","[0.0, 4.0]",9,2.0,0.0,-1.0,-2.0,True,True,1.5,0.22313016014842982,E2E Agent,Task-Constrained,LLaMA-8B,high_school
+trust,Q6: Trust,9,3.0,1.0,"[3.0, 5.0]","[0.0, 3.0]",9,4.0,0.0,1.0,-1.0,True,True,2.0,0.1353352832366127,E2E Agent,Task-Constrained,LLaMA-8B,high_school
+accomplishment,Q1: Accomplishment,23,4.0,2.0,"[3.0, 4.0]","[0.0, 3.0]",23,5.0,1.0,1.0,-1.0,False,True,1.0,0.36787944117144233,E2E Agent,Task-Constrained,LLaMA-8B,undergraduate
+effort_required,Q2: Effort Required,23,4.0,1.0,"[4.0, 5.0]","[0.5, 1.0]",23,3.0,0.0,-1.0,-1.0,False,False,2.0,0.1353352832366127,E2E Agent,Task-Constrained,LLaMA-8B,undergraduate
+mental_demand,Q3: Mental Demand,23,5.0,1.0,"[4.0, 5.0]","[0.5, 2.0]",23,4.0,0.0,-1.0,-1.0,True,False,2.0,0.1353352832366127,E2E Agent,Task-Constrained,LLaMA-8B,undergraduate
+perceived_controllability,Q4: Controllability,23,3.0,1.5,"[3.0, 4.0]","[1.0, 2.0]",23,4.0,0.0,1.0,-1.5,True,False,1.6666666666666665,0.18887560283756186,E2E Agent,Task-Constrained,LLaMA-8B,undergraduate
+temporal_demand,Q5: Temporal Demand,23,4.0,2.5,"[3.0, 5.0]","[1.0, 3.0]",23,2.0,0.0,-2.0,-2.5,False,False,1.8,0.16529888822158653,E2E Agent,Task-Constrained,LLaMA-8B,undergraduate
+trust,Q6: Trust,23,3.0,1.5,"[3.0, 4.0]","[1.0, 3.0]",23,4.0,1.0,1.0,-0.5,True,True,1.0,0.36787944117144233,E2E Agent,Task-Constrained,LLaMA-8B,undergraduate
+accomplishment,Q1: Accomplishment,23,4.0,1.0,"[4.0, 5.0]","[1.0, 2.0]",23,5.0,0.0,1.0,-1.0,True,False,2.0,0.1353352832366127,E2E Agent,Task-Constrained,LLaMA-8B,graduate
+effort_required,Q2: Effort Required,23,5.0,0.5,"[5.0, 5.0]","[0.0, 1.0]",23,3.0,0.5,-2.0,0.0,False,True,4.0,0.01831563888873418,E2E Agent,Task-Constrained,LLaMA-8B,graduate
+mental_demand,Q3: Mental Demand,23,5.0,1.0,"[4.0, 5.0]","[0.0, 1.0]",23,4.0,0.0,-1.0,-1.0,True,True,2.0,0.1353352832366127,E2E Agent,Task-Constrained,LLaMA-8B,graduate
+perceived_controllability,Q4: Controllability,23,4.0,1.0,"[4.0, 5.0]","[1.0, 2.0]",23,4.0,0.0,0.0,-1.0,True,False,1.0,0.36787944117144233,E2E Agent,Task-Constrained,LLaMA-8B,graduate
+temporal_demand,Q5: Temporal Demand,23,5.0,2.0,"[3.0, 5.0]","[0.0, 4.0]",23,2.0,0.0,-3.0,-2.0,False,True,2.5,0.0820849986238988,E2E Agent,Task-Constrained,LLaMA-8B,graduate
+trust,Q6: Trust,23,4.0,1.0,"[4.0, 5.0]","[0.0, 2.0]",23,5.0,0.0,1.0,-1.0,True,True,2.0,0.1353352832366127,E2E Agent,Task-Constrained,LLaMA-8B,graduate
+accomplishment,Q1: Accomplishment,55,4.0,2.0,"[4.0, 4.0]","[1.0, 2.5]",55,5.0,0.0,1.0,-2.0,False,False,1.5,0.22313016014842982,E2E Agent,Task-Constrained,GPT-5,All
+effort_required,Q2: Effort Required,55,5.0,1.0,"[4.0, 5.0]","[1.0, 1.0]",55,3.0,0.0,-2.0,-1.0,False,False,3.0,0.049787068367863944,E2E Agent,Task-Constrained,GPT-5,All
+mental_demand,Q3: Mental Demand,55,5.0,1.0,"[4.0, 5.0]","[1.0, 1.0]",55,4.0,0.0,-1.0,-1.0,True,False,2.0,0.1353352832366127,E2E Agent,Task-Constrained,GPT-5,All
+perceived_controllability,Q4: Controllability,55,4.0,2.0,"[4.0, 4.0]","[1.0, 2.5]",55,4.0,0.0,0.0,-2.0,True,False,1.0,0.36787944117144233,E2E Agent,Task-Constrained,GPT-5,All
+temporal_demand,Q5: Temporal Demand,55,4.0,2.0,"[3.0, 5.0]","[2.0, 3.0]",55,2.0,0.0,-2.0,-2.0,False,False,2.0,0.1353352832366127,E2E Agent,Task-Constrained,GPT-5,All
+trust,Q6: Trust,55,4.0,2.0,"[3.0, 4.0]","[1.0, 2.0]",55,5.0,0.0,1.0,-2.0,False,False,1.5,0.22313016014842982,E2E Agent,Task-Constrained,GPT-5,All
+accomplishment,Q1: Accomplishment,9,4.0,2.0,"[1.0, 5.0]","[0.0, 4.0]",9,5.0,1.0,1.0,-1.0,True,True,1.0,0.36787944117144233,E2E Agent,Task-Constrained,GPT-5,high_school
+effort_required,Q2: Effort Required,9,5.0,1.0,"[3.0, 5.0]","[0.0, 3.0]",9,3.0,0.0,-2.0,-1.0,True,True,3.0,0.049787068367863944,E2E Agent,Task-Constrained,GPT-5,high_school
+mental_demand,Q3: Mental Demand,9,4.0,1.0,"[4.0, 5.0]","[0.0, 2.0]",9,4.0,0.0,0.0,-1.0,True,True,1.0,0.36787944117144233,E2E Agent,Task-Constrained,GPT-5,high_school
+perceived_controllability,Q4: Controllability,9,4.0,2.0,"[2.0, 5.0]","[0.0, 3.0]",9,3.0,1.0,-1.0,-1.0,True,True,1.0,0.36787944117144233,E2E Agent,Task-Constrained,GPT-5,high_school
+temporal_demand,Q5: Temporal Demand,9,3.0,2.0,"[1.0, 4.0]","[0.0, 4.0]",9,2.0,0.0,-1.0,-2.0,True,True,1.5,0.22313016014842982,E2E Agent,Task-Constrained,GPT-5,high_school
+trust,Q6: Trust,9,3.0,1.0,"[3.0, 5.0]","[0.0, 3.0]",9,4.0,0.0,1.0,-1.0,True,True,2.0,0.1353352832366127,E2E Agent,Task-Constrained,GPT-5,high_school
+accomplishment,Q1: Accomplishment,23,4.0,2.0,"[3.0, 4.0]","[0.0, 3.0]",23,5.0,0.0,1.0,-2.0,False,True,1.5,0.22313016014842982,E2E Agent,Task-Constrained,GPT-5,undergraduate
+effort_required,Q2: Effort Required,23,4.0,1.0,"[4.0, 5.0]","[0.5, 1.0]",23,3.0,0.0,-1.0,-1.0,False,False,2.0,0.1353352832366127,E2E Agent,Task-Constrained,GPT-5,undergraduate
+mental_demand,Q3: Mental Demand,23,5.0,1.0,"[4.0, 5.0]","[0.5, 2.0]",23,4.0,0.0,-1.0,-1.0,True,False,2.0,0.1353352832366127,E2E Agent,Task-Constrained,GPT-5,undergraduate
+perceived_controllability,Q4: Controllability,23,3.0,1.5,"[3.0, 4.0]","[1.0, 2.0]",23,4.0,0.0,1.0,-1.5,True,False,1.6666666666666665,0.18887560283756186,E2E Agent,Task-Constrained,GPT-5,undergraduate
+temporal_demand,Q5: Temporal Demand,23,4.0,2.5,"[3.0, 5.0]","[1.0, 3.0]",23,2.0,0.0,-2.0,-2.5,False,False,1.8,0.16529888822158653,E2E Agent,Task-Constrained,GPT-5,undergraduate
+trust,Q6: Trust,23,3.0,1.5,"[3.0, 4.0]","[1.0, 3.0]",23,5.0,0.0,2.0,-1.5,False,False,2.333333333333333,0.0969719678644051,E2E Agent,Task-Constrained,GPT-5,undergraduate
+accomplishment,Q1: Accomplishment,23,4.0,1.0,"[4.0, 5.0]","[1.0, 2.0]",23,5.0,0.0,1.0,-1.0,True,False,2.0,0.1353352832366127,E2E Agent,Task-Constrained,GPT-5,graduate
+effort_required,Q2: Effort Required,23,5.0,0.5,"[5.0, 5.0]","[0.0, 1.0]",23,3.0,0.0,-2.0,-0.5,False,True,5.0,0.006737946999085467,E2E Agent,Task-Constrained,GPT-5,graduate
+mental_demand,Q3: Mental Demand,23,5.0,1.0,"[4.0, 5.0]","[0.0, 1.0]",23,4.0,0.0,-1.0,-1.0,True,True,2.0,0.1353352832366127,E2E Agent,Task-Constrained,GPT-5,graduate
+perceived_controllability,Q4: Controllability,23,4.0,1.0,"[4.0, 5.0]","[1.0, 2.0]",23,4.0,0.0,0.0,-1.0,True,False,1.0,0.36787944117144233,E2E Agent,Task-Constrained,GPT-5,graduate
+temporal_demand,Q5: Temporal Demand,23,5.0,2.0,"[3.0, 5.0]","[0.0, 4.0]",23,2.0,0.0,-3.0,-2.0,False,True,2.5,0.0820849986238988,E2E Agent,Task-Constrained,GPT-5,graduate
+trust,Q6: Trust,23,4.0,1.0,"[4.0, 5.0]","[0.0, 2.0]",23,5.0,0.0,1.0,-1.0,True,True,2.0,0.1353352832366127,E2E Agent,Task-Constrained,GPT-5,graduate
+accomplishment,Q1: Accomplishment,55,4.0,2.0,"[4.0, 4.0]","[1.0, 2.5]",55,5.0,0.0,1.0,-2.0,False,False,1.5,0.22313016014842982,E2E Agent,Task-Constrained,Mistral-24B,All
+effort_required,Q2: Effort Required,55,5.0,1.0,"[4.0, 5.0]","[1.0, 1.0]",55,3.0,0.0,-2.0,-1.0,False,False,3.0,0.049787068367863944,E2E Agent,Task-Constrained,Mistral-24B,All
+mental_demand,Q3: Mental Demand,55,5.0,1.0,"[4.0, 5.0]","[1.0, 1.0]",55,4.0,0.0,-1.0,-1.0,True,False,2.0,0.1353352832366127,E2E Agent,Task-Constrained,Mistral-24B,All
+perceived_controllability,Q4: Controllability,55,4.0,2.0,"[4.0, 4.0]","[1.0, 2.5]",55,4.0,0.0,0.0,-2.0,True,False,1.0,0.36787944117144233,E2E Agent,Task-Constrained,Mistral-24B,All
+temporal_demand,Q5: Temporal Demand,55,4.0,2.0,"[3.0, 5.0]","[2.0, 3.0]",55,2.0,0.0,-2.0,-2.0,False,False,2.0,0.1353352832366127,E2E Agent,Task-Constrained,Mistral-24B,All
+trust,Q6: Trust,55,4.0,2.0,"[3.0, 4.0]","[1.0, 2.0]",55,5.0,0.0,1.0,-2.0,False,False,1.5,0.22313016014842982,E2E Agent,Task-Constrained,Mistral-24B,All
+accomplishment,Q1: Accomplishment,9,4.0,2.0,"[1.0, 5.0]","[0.0, 4.0]",9,5.0,1.0,1.0,-1.0,True,True,1.0,0.36787944117144233,E2E Agent,Task-Constrained,Mistral-24B,high_school
+effort_required,Q2: Effort Required,9,5.0,1.0,"[3.0, 5.0]","[0.0, 3.0]",9,3.0,0.0,-2.0,-1.0,True,True,3.0,0.049787068367863944,E2E Agent,Task-Constrained,Mistral-24B,high_school
+mental_demand,Q3: Mental Demand,9,4.0,1.0,"[4.0, 5.0]","[0.0, 2.0]",9,4.0,0.0,0.0,-1.0,True,True,1.0,0.36787944117144233,E2E Agent,Task-Constrained,Mistral-24B,high_school
+perceived_controllability,Q4: Controllability,9,4.0,2.0,"[2.0, 5.0]","[0.0, 3.0]",9,3.0,1.0,-1.0,-1.0,True,True,1.0,0.36787944117144233,E2E Agent,Task-Constrained,Mistral-24B,high_school
+temporal_demand,Q5: Temporal Demand,9,3.0,2.0,"[1.0, 4.0]","[0.0, 4.0]",9,2.0,0.0,-1.0,-2.0,True,True,1.5,0.22313016014842982,E2E Agent,Task-Constrained,Mistral-24B,high_school
+trust,Q6: Trust,9,3.0,1.0,"[3.0, 5.0]","[0.0, 3.0]",9,4.0,0.0,1.0,-1.0,True,True,2.0,0.1353352832366127,E2E Agent,Task-Constrained,Mistral-24B,high_school
+accomplishment,Q1: Accomplishment,23,4.0,2.0,"[3.0, 4.0]","[0.0, 3.0]",23,5.0,0.0,1.0,-2.0,False,True,1.5,0.22313016014842982,E2E Agent,Task-Constrained,Mistral-24B,undergraduate
+effort_required,Q2: Effort Required,23,4.0,1.0,"[4.0, 5.0]","[0.5, 1.0]",23,3.0,0.0,-1.0,-1.0,False,False,2.0,0.1353352832366127,E2E Agent,Task-Constrained,Mistral-24B,undergraduate
+mental_demand,Q3: Mental Demand,23,5.0,1.0,"[4.0, 5.0]","[0.5, 2.0]",23,4.0,0.0,-1.0,-1.0,True,False,2.0,0.1353352832366127,E2E Agent,Task-Constrained,Mistral-24B,undergraduate
+perceived_controllability,Q4: Controllability,23,3.0,1.5,"[3.0, 4.0]","[1.0, 2.0]",23,4.0,0.0,1.0,-1.5,True,False,1.6666666666666665,0.18887560283756186,E2E Agent,Task-Constrained,Mistral-24B,undergraduate
+temporal_demand,Q5: Temporal Demand,23,4.0,2.5,"[3.0, 5.0]","[1.0, 3.0]",23,2.0,0.0,-2.0,-2.5,False,False,1.8,0.16529888822158653,E2E Agent,Task-Constrained,Mistral-24B,undergraduate
+trust,Q6: Trust,23,3.0,1.5,"[3.0, 4.0]","[1.0, 3.0]",23,5.0,0.5,2.0,-1.0,False,False,2.0,0.1353352832366127,E2E Agent,Task-Constrained,Mistral-24B,undergraduate
+accomplishment,Q1: Accomplishment,23,4.0,1.0,"[4.0, 5.0]","[1.0, 2.0]",23,5.0,0.0,1.0,-1.0,True,False,2.0,0.1353352832366127,E2E Agent,Task-Constrained,Mistral-24B,graduate
+effort_required,Q2: Effort Required,23,5.0,0.5,"[5.0, 5.0]","[0.0, 1.0]",23,3.0,1.0,-2.0,0.5,False,True,5.0,0.006737946999085467,E2E Agent,Task-Constrained,Mistral-24B,graduate
+mental_demand,Q3: Mental Demand,23,5.0,1.0,"[4.0, 5.0]","[0.0, 1.0]",23,4.0,0.0,-1.0,-1.0,True,True,2.0,0.1353352832366127,E2E Agent,Task-Constrained,Mistral-24B,graduate
+perceived_controllability,Q4: Controllability,23,4.0,1.0,"[4.0, 5.0]","[1.0, 2.0]",23,4.0,0.0,0.0,-1.0,True,False,1.0,0.36787944117144233,E2E Agent,Task-Constrained,Mistral-24B,graduate
+temporal_demand,Q5: Temporal Demand,23,5.0,2.0,"[3.0, 5.0]","[0.0, 4.0]",23,2.0,0.0,-3.0,-2.0,False,True,2.5,0.0820849986238988,E2E Agent,Task-Constrained,Mistral-24B,graduate
+trust,Q6: Trust,23,4.0,1.0,"[4.0, 5.0]","[0.0, 2.0]",23,5.0,0.0,1.0,-1.0,True,True,2.0,0.1353352832366127,E2E Agent,Task-Constrained,Mistral-24B,graduate
+accomplishment,Q1: Accomplishment,55,4.0,2.0,"[4.0, 4.0]","[1.0, 2.5]",55,5.0,1.0,1.0,-1.0,False,True,1.0,0.36787944117144233,E2E Agent,Role-Anchored,LLaMA-8B,All
+effort_required,Q2: Effort Required,55,5.0,1.0,"[4.0, 5.0]","[1.0, 1.0]",55,3.0,0.0,-2.0,-1.0,False,False,3.0,0.049787068367863944,E2E Agent,Role-Anchored,LLaMA-8B,All
+mental_demand,Q3: Mental Demand,55,5.0,1.0,"[4.0, 5.0]","[1.0, 1.0]",55,4.0,0.0,-1.0,-1.0,True,False,2.0,0.1353352832366127,E2E Agent,Role-Anchored,LLaMA-8B,All
+perceived_controllability,Q4: Controllability,55,4.0,2.0,"[4.0, 4.0]","[1.0, 2.5]",55,4.0,1.0,0.0,-1.0,True,True,0.5,0.6065306597126334,E2E Agent,Role-Anchored,LLaMA-8B,All
+temporal_demand,Q5: Temporal Demand,55,4.0,2.0,"[3.0, 5.0]","[2.0, 3.0]",55,2.0,0.0,-2.0,-2.0,False,False,2.0,0.1353352832366127,E2E Agent,Role-Anchored,LLaMA-8B,All
+trust,Q6: Trust,55,4.0,2.0,"[3.0, 4.0]","[1.0, 2.0]",55,5.0,1.0,1.0,-1.0,False,True,1.0,0.36787944117144233,E2E Agent,Role-Anchored,LLaMA-8B,All
+accomplishment,Q1: Accomplishment,9,4.0,2.0,"[1.0, 5.0]","[0.0, 4.0]",9,4.0,0.0,0.0,-2.0,True,True,1.0,0.36787944117144233,E2E Agent,Role-Anchored,LLaMA-8B,high_school
+effort_required,Q2: Effort Required,9,5.0,1.0,"[3.0, 5.0]","[0.0, 3.0]",9,3.0,0.0,-2.0,-1.0,True,True,3.0,0.049787068367863944,E2E Agent,Role-Anchored,LLaMA-8B,high_school
+mental_demand,Q3: Mental Demand,9,4.0,1.0,"[4.0, 5.0]","[0.0, 2.0]",9,4.0,0.0,0.0,-1.0,True,True,1.0,0.36787944117144233,E2E Agent,Role-Anchored,LLaMA-8B,high_school
+perceived_controllability,Q4: Controllability,9,4.0,2.0,"[2.0, 5.0]","[0.0, 3.0]",9,3.0,0.0,-1.0,-2.0,True,True,1.5,0.22313016014842982,E2E Agent,Role-Anchored,LLaMA-8B,high_school
+temporal_demand,Q5: Temporal Demand,9,3.0,2.0,"[1.0, 4.0]","[0.0, 4.0]",9,2.0,0.0,-1.0,-2.0,True,True,1.5,0.22313016014842982,E2E Agent,Role-Anchored,LLaMA-8B,high_school
+trust,Q6: Trust,9,3.0,1.0,"[3.0, 5.0]","[0.0, 3.0]",9,4.0,0.0,1.0,-1.0,True,True,2.0,0.1353352832366127,E2E Agent,Role-Anchored,LLaMA-8B,high_school
+accomplishment,Q1: Accomplishment,23,4.0,2.0,"[3.0, 4.0]","[0.0, 3.0]",23,5.0,1.0,1.0,-1.0,False,True,1.0,0.36787944117144233,E2E Agent,Role-Anchored,LLaMA-8B,undergraduate
+effort_required,Q2: Effort Required,23,4.0,1.0,"[4.0, 5.0]","[0.5, 1.0]",23,3.0,0.0,-1.0,-1.0,False,False,2.0,0.1353352832366127,E2E Agent,Role-Anchored,LLaMA-8B,undergraduate
+mental_demand,Q3: Mental Demand,23,5.0,1.0,"[4.0, 5.0]","[0.5, 2.0]",23,4.0,0.0,-1.0,-1.0,True,False,2.0,0.1353352832366127,E2E Agent,Role-Anchored,LLaMA-8B,undergraduate
+perceived_controllability,Q4: Controllability,23,3.0,1.5,"[3.0, 4.0]","[1.0, 2.0]",23,4.0,0.5,1.0,-1.0,True,False,1.3333333333333333,0.26359713811572677,E2E Agent,Role-Anchored,LLaMA-8B,undergraduate
+temporal_demand,Q5: Temporal Demand,23,4.0,2.5,"[3.0, 5.0]","[1.0, 3.0]",23,2.0,0.0,-2.0,-2.5,False,False,1.8,0.16529888822158653,E2E Agent,Role-Anchored,LLaMA-8B,undergraduate
+trust,Q6: Trust,23,3.0,1.5,"[3.0, 4.0]","[1.0, 3.0]",23,4.0,1.0,1.0,-0.5,True,True,1.0,0.36787944117144233,E2E Agent,Role-Anchored,LLaMA-8B,undergraduate
+accomplishment,Q1: Accomplishment,23,4.0,1.0,"[4.0, 5.0]","[1.0, 2.0]",23,5.0,1.0,1.0,0.0,True,True,1.0,0.36787944117144233,E2E Agent,Role-Anchored,LLaMA-8B,graduate
+effort_required,Q2: Effort Required,23,5.0,0.5,"[5.0, 5.0]","[0.0, 1.0]",23,3.0,0.0,-2.0,-0.5,False,True,5.0,0.006737946999085467,E2E Agent,Role-Anchored,LLaMA-8B,graduate
+mental_demand,Q3: Mental Demand,23,5.0,1.0,"[4.0, 5.0]","[0.0, 1.0]",23,4.0,0.0,-1.0,-1.0,True,True,2.0,0.1353352832366127,E2E Agent,Role-Anchored,LLaMA-8B,graduate
+perceived_controllability,Q4: Controllability,23,4.0,1.0,"[4.0, 5.0]","[1.0, 2.0]",23,4.0,0.0,0.0,-1.0,True,False,1.0,0.36787944117144233,E2E Agent,Role-Anchored,LLaMA-8B,graduate
+temporal_demand,Q5: Temporal Demand,23,5.0,2.0,"[3.0, 5.0]","[0.0, 4.0]",23,2.0,0.0,-3.0,-2.0,False,True,2.5,0.0820849986238988,E2E Agent,Role-Anchored,LLaMA-8B,graduate
+trust,Q6: Trust,23,4.0,1.0,"[4.0, 5.0]","[0.0, 2.0]",23,5.0,0.0,1.0,-1.0,True,True,2.0,0.1353352832366127,E2E Agent,Role-Anchored,LLaMA-8B,graduate
+accomplishment,Q1: Accomplishment,55,4.0,2.0,"[4.0, 4.0]","[1.0, 2.5]",55,5.0,1.0,1.0,-1.0,False,True,1.0,0.36787944117144233,E2E Agent,Role-Anchored,GPT-5,All
+effort_required,Q2: Effort Required,55,5.0,1.0,"[4.0, 5.0]","[1.0, 1.0]",55,3.0,0.0,-2.0,-1.0,False,False,3.0,0.049787068367863944,E2E Agent,Role-Anchored,GPT-5,All
+mental_demand,Q3: Mental Demand,55,5.0,1.0,"[4.0, 5.0]","[1.0, 1.0]",55,4.0,0.0,-1.0,-1.0,True,False,2.0,0.1353352832366127,E2E Agent,Role-Anchored,GPT-5,All
+perceived_controllability,Q4: Controllability,55,4.0,2.0,"[4.0, 4.0]","[1.0, 2.5]",55,4.0,1.0,0.0,-1.0,True,True,0.5,0.6065306597126334,E2E Agent,Role-Anchored,GPT-5,All
+temporal_demand,Q5: Temporal Demand,55,4.0,2.0,"[3.0, 5.0]","[2.0, 3.0]",55,2.0,0.0,-2.0,-2.0,False,False,2.0,0.1353352832366127,E2E Agent,Role-Anchored,GPT-5,All
+trust,Q6: Trust,55,4.0,2.0,"[3.0, 4.0]","[1.0, 2.0]",55,5.0,1.0,1.0,-1.0,False,True,1.0,0.36787944117144233,E2E Agent,Role-Anchored,GPT-5,All
+accomplishment,Q1: Accomplishment,9,4.0,2.0,"[1.0, 5.0]","[0.0, 4.0]",9,4.0,0.0,0.0,-2.0,True,True,1.0,0.36787944117144233,E2E Agent,Role-Anchored,GPT-5,high_school
+effort_required,Q2: Effort Required,9,5.0,1.0,"[3.0, 5.0]","[0.0, 3.0]",9,3.0,0.0,-2.0,-1.0,True,True,3.0,0.049787068367863944,E2E Agent,Role-Anchored,GPT-5,high_school
+mental_demand,Q3: Mental Demand,9,4.0,1.0,"[4.0, 5.0]","[0.0, 2.0]",9,4.0,0.0,0.0,-1.0,True,True,1.0,0.36787944117144233,E2E Agent,Role-Anchored,GPT-5,high_school
+perceived_controllability,Q4: Controllability,9,4.0,2.0,"[2.0, 5.0]","[0.0, 3.0]",9,3.0,0.0,-1.0,-2.0,True,True,1.5,0.22313016014842982,E2E Agent,Role-Anchored,GPT-5,high_school
+temporal_demand,Q5: Temporal Demand,9,3.0,2.0,"[1.0, 4.0]","[0.0, 4.0]",9,2.0,0.0,-1.0,-2.0,True,True,1.5,0.22313016014842982,E2E Agent,Role-Anchored,GPT-5,high_school
+trust,Q6: Trust,9,3.0,1.0,"[3.0, 5.0]","[0.0, 3.0]",9,4.0,0.0,1.0,-1.0,True,True,2.0,0.1353352832366127,E2E Agent,Role-Anchored,GPT-5,high_school
+accomplishment,Q1: Accomplishment,23,4.0,2.0,"[3.0, 4.0]","[0.0, 3.0]",23,5.0,0.5,1.0,-1.5,False,True,1.25,0.2865047968601901,E2E Agent,Role-Anchored,GPT-5,undergraduate
+effort_required,Q2: Effort Required,23,4.0,1.0,"[4.0, 5.0]","[0.5, 1.0]",23,3.0,0.0,-1.0,-1.0,False,False,2.0,0.1353352832366127,E2E Agent,Role-Anchored,GPT-5,undergraduate
+mental_demand,Q3: Mental Demand,23,5.0,1.0,"[4.0, 5.0]","[0.5, 2.0]",23,4.0,0.0,-1.0,-1.0,True,False,2.0,0.1353352832366127,E2E Agent,Role-Anchored,GPT-5,undergraduate
+perceived_controllability,Q4: Controllability,23,3.0,1.5,"[3.0, 4.0]","[1.0, 2.0]",23,4.0,0.5,1.0,-1.0,True,False,1.3333333333333333,0.26359713811572677,E2E Agent,Role-Anchored,GPT-5,undergraduate
+temporal_demand,Q5: Temporal Demand,23,4.0,2.5,"[3.0, 5.0]","[1.0, 3.0]",23,2.0,0.0,-2.0,-2.5,False,False,1.8,0.16529888822158653,E2E Agent,Role-Anchored,GPT-5,undergraduate
+trust,Q6: Trust,23,3.0,1.5,"[3.0, 4.0]","[1.0, 3.0]",23,5.0,1.0,2.0,-0.5,False,True,1.6666666666666665,0.18887560283756186,E2E Agent,Role-Anchored,GPT-5,undergraduate
+accomplishment,Q1: Accomplishment,23,4.0,1.0,"[4.0, 5.0]","[1.0, 2.0]",23,5.0,0.0,1.0,-1.0,True,False,2.0,0.1353352832366127,E2E Agent,Role-Anchored,GPT-5,graduate
+effort_required,Q2: Effort Required,23,5.0,0.5,"[5.0, 5.0]","[0.0, 1.0]",23,3.0,0.5,-2.0,0.0,False,True,4.0,0.01831563888873418,E2E Agent,Role-Anchored,GPT-5,graduate
+mental_demand,Q3: Mental Demand,23,5.0,1.0,"[4.0, 5.0]","[0.0, 1.0]",23,4.0,0.0,-1.0,-1.0,True,True,2.0,0.1353352832366127,E2E Agent,Role-Anchored,GPT-5,graduate
+perceived_controllability,Q4: Controllability,23,4.0,1.0,"[4.0, 5.0]","[1.0, 2.0]",23,4.0,0.0,0.0,-1.0,True,False,1.0,0.36787944117144233,E2E Agent,Role-Anchored,GPT-5,graduate
+temporal_demand,Q5: Temporal Demand,23,5.0,2.0,"[3.0, 5.0]","[0.0, 4.0]",23,2.0,0.0,-3.0,-2.0,False,True,2.5,0.0820849986238988,E2E Agent,Role-Anchored,GPT-5,graduate
+trust,Q6: Trust,23,4.0,1.0,"[4.0, 5.0]","[0.0, 2.0]",23,5.0,0.0,1.0,-1.0,True,True,2.0,0.1353352832366127,E2E Agent,Role-Anchored,GPT-5,graduate
+accomplishment,Q1: Accomplishment,55,4.0,2.0,"[4.0, 4.0]","[1.0, 2.5]",55,5.0,1.0,1.0,-1.0,False,True,1.0,0.36787944117144233,E2E Agent,Role-Anchored,Mistral-24B,All
+effort_required,Q2: Effort Required,55,5.0,1.0,"[4.0, 5.0]","[1.0, 1.0]",55,3.0,0.0,-2.0,-1.0,False,False,3.0,0.049787068367863944,E2E Agent,Role-Anchored,Mistral-24B,All
+mental_demand,Q3: Mental Demand,55,5.0,1.0,"[4.0, 5.0]","[1.0, 1.0]",55,4.0,0.0,-1.0,-1.0,True,False,2.0,0.1353352832366127,E2E Agent,Role-Anchored,Mistral-24B,All
+perceived_controllability,Q4: Controllability,55,4.0,2.0,"[4.0, 4.0]","[1.0, 2.5]",55,4.0,1.0,0.0,-1.0,True,True,0.5,0.6065306597126334,E2E Agent,Role-Anchored,Mistral-24B,All
+temporal_demand,Q5: Temporal Demand,55,4.0,2.0,"[3.0, 5.0]","[2.0, 3.0]",55,2.0,0.0,-2.0,-2.0,False,False,2.0,0.1353352832366127,E2E Agent,Role-Anchored,Mistral-24B,All
+trust,Q6: Trust,55,4.0,2.0,"[3.0, 4.0]","[1.0, 2.0]",55,5.0,1.0,1.0,-1.0,False,True,1.0,0.36787944117144233,E2E Agent,Role-Anchored,Mistral-24B,All
+accomplishment,Q1: Accomplishment,9,4.0,2.0,"[1.0, 5.0]","[0.0, 4.0]",9,4.0,0.0,0.0,-2.0,True,True,1.0,0.36787944117144233,E2E Agent,Role-Anchored,Mistral-24B,high_school
+effort_required,Q2: Effort Required,9,5.0,1.0,"[3.0, 5.0]","[0.0, 3.0]",9,3.0,0.0,-2.0,-1.0,True,True,3.0,0.049787068367863944,E2E Agent,Role-Anchored,Mistral-24B,high_school
+mental_demand,Q3: Mental Demand,9,4.0,1.0,"[4.0, 5.0]","[0.0, 2.0]",9,4.0,0.0,0.0,-1.0,True,True,1.0,0.36787944117144233,E2E Agent,Role-Anchored,Mistral-24B,high_school
+perceived_controllability,Q4: Controllability,9,4.0,2.0,"[2.0, 5.0]","[0.0, 3.0]",9,3.0,0.0,-1.0,-2.0,True,True,1.5,0.22313016014842982,E2E Agent,Role-Anchored,Mistral-24B,high_school
+temporal_demand,Q5: Temporal Demand,9,3.0,2.0,"[1.0, 4.0]","[0.0, 4.0]",9,2.0,0.0,-1.0,-2.0,True,True,1.5,0.22313016014842982,E2E Agent,Role-Anchored,Mistral-24B,high_school
+trust,Q6: Trust,9,3.0,1.0,"[3.0, 5.0]","[0.0, 3.0]",9,4.0,0.0,1.0,-1.0,True,True,2.0,0.1353352832366127,E2E Agent,Role-Anchored,Mistral-24B,high_school
+accomplishment,Q1: Accomplishment,23,4.0,2.0,"[3.0, 4.0]","[0.0, 3.0]",23,4.0,1.0,0.0,-1.0,True,True,0.5,0.6065306597126334,E2E Agent,Role-Anchored,Mistral-24B,undergraduate
+effort_required,Q2: Effort Required,23,4.0,1.0,"[4.0, 5.0]","[0.5, 1.0]",23,3.0,0.0,-1.0,-1.0,False,False,2.0,0.1353352832366127,E2E Agent,Role-Anchored,Mistral-24B,undergraduate
+mental_demand,Q3: Mental Demand,23,5.0,1.0,"[4.0, 5.0]","[0.5, 2.0]",23,4.0,0.0,-1.0,-1.0,True,False,2.0,0.1353352832366127,E2E Agent,Role-Anchored,Mistral-24B,undergraduate
+perceived_controllability,Q4: Controllability,23,3.0,1.5,"[3.0, 4.0]","[1.0, 2.0]",23,4.0,1.0,1.0,-0.5,True,True,1.0,0.36787944117144233,E2E Agent,Role-Anchored,Mistral-24B,undergraduate
+temporal_demand,Q5: Temporal Demand,23,4.0,2.5,"[3.0, 5.0]","[1.0, 3.0]",23,2.0,0.0,-2.0,-2.5,False,False,1.8,0.16529888822158653,E2E Agent,Role-Anchored,Mistral-24B,undergraduate
+trust,Q6: Trust,23,3.0,1.5,"[3.0, 4.0]","[1.0, 3.0]",23,4.0,1.0,1.0,-0.5,True,True,1.0,0.36787944117144233,E2E Agent,Role-Anchored,Mistral-24B,undergraduate
+accomplishment,Q1: Accomplishment,23,4.0,1.0,"[4.0, 5.0]","[1.0, 2.0]",23,5.0,0.0,1.0,-1.0,True,False,2.0,0.1353352832366127,E2E Agent,Role-Anchored,Mistral-24B,graduate
+effort_required,Q2: Effort Required,23,5.0,0.5,"[5.0, 5.0]","[0.0, 1.0]",23,3.0,0.0,-2.0,-0.5,False,True,5.0,0.006737946999085467,E2E Agent,Role-Anchored,Mistral-24B,graduate
+mental_demand,Q3: Mental Demand,23,5.0,1.0,"[4.0, 5.0]","[0.0, 1.0]",23,4.0,0.0,-1.0,-1.0,True,True,2.0,0.1353352832366127,E2E Agent,Role-Anchored,Mistral-24B,graduate
+perceived_controllability,Q4: Controllability,23,4.0,1.0,"[4.0, 5.0]","[1.0, 2.0]",23,4.0,0.0,0.0,-1.0,True,False,1.0,0.36787944117144233,E2E Agent,Role-Anchored,Mistral-24B,graduate
+temporal_demand,Q5: Temporal Demand,23,5.0,2.0,"[3.0, 5.0]","[0.0, 4.0]",23,2.0,0.0,-3.0,-2.0,False,True,2.5,0.0820849986238988,E2E Agent,Role-Anchored,Mistral-24B,graduate
+trust,Q6: Trust,23,4.0,1.0,"[4.0, 5.0]","[0.0, 2.0]",23,5.0,0.0,1.0,-1.0,True,True,2.0,0.1353352832366127,E2E Agent,Role-Anchored,Mistral-24B,graduate
+accomplishment,Q1: Accomplishment,55,4.0,2.0,"[4.0, 4.0]","[1.0, 2.5]",55,5.0,1.0,1.0,-1.0,False,True,1.0,0.36787944117144233,E2E Agent,Calibrated,LLaMA-8B,All
+effort_required,Q2: Effort Required,55,5.0,1.0,"[4.0, 5.0]","[1.0, 1.0]",55,3.0,0.0,-2.0,-1.0,False,False,3.0,0.049787068367863944,E2E Agent,Calibrated,LLaMA-8B,All
+mental_demand,Q3: Mental Demand,55,5.0,1.0,"[4.0, 5.0]","[1.0, 1.0]",55,4.0,0.0,-1.0,-1.0,True,False,2.0,0.1353352832366127,E2E Agent,Calibrated,LLaMA-8B,All
+perceived_controllability,Q4: Controllability,55,4.0,2.0,"[4.0, 4.0]","[1.0, 2.5]",55,4.0,1.0,0.0,-1.0,True,True,0.5,0.6065306597126334,E2E Agent,Calibrated,LLaMA-8B,All
+temporal_demand,Q5: Temporal Demand,55,4.0,2.0,"[3.0, 5.0]","[2.0, 3.0]",55,2.0,0.0,-2.0,-2.0,False,False,2.0,0.1353352832366127,E2E Agent,Calibrated,LLaMA-8B,All
+trust,Q6: Trust,55,4.0,2.0,"[3.0, 4.0]","[1.0, 2.0]",55,5.0,1.0,1.0,-1.0,False,True,1.0,0.36787944117144233,E2E Agent,Calibrated,LLaMA-8B,All
+accomplishment,Q1: Accomplishment,9,4.0,2.0,"[1.0, 5.0]","[0.0, 4.0]",9,4.0,0.0,0.0,-2.0,True,True,1.0,0.36787944117144233,E2E Agent,Calibrated,LLaMA-8B,high_school
+effort_required,Q2: Effort Required,9,5.0,1.0,"[3.0, 5.0]","[0.0, 3.0]",9,3.0,0.0,-2.0,-1.0,True,True,3.0,0.049787068367863944,E2E Agent,Calibrated,LLaMA-8B,high_school
+mental_demand,Q3: Mental Demand,9,4.0,1.0,"[4.0, 5.0]","[0.0, 2.0]",9,4.0,0.0,0.0,-1.0,True,True,1.0,0.36787944117144233,E2E Agent,Calibrated,LLaMA-8B,high_school
+perceived_controllability,Q4: Controllability,9,4.0,2.0,"[2.0, 5.0]","[0.0, 3.0]",9,3.0,0.0,-1.0,-2.0,True,True,1.5,0.22313016014842982,E2E Agent,Calibrated,LLaMA-8B,high_school
+temporal_demand,Q5: Temporal Demand,9,3.0,2.0,"[1.0, 4.0]","[0.0, 4.0]",9,2.0,0.0,-1.0,-2.0,True,True,1.5,0.22313016014842982,E2E Agent,Calibrated,LLaMA-8B,high_school
+trust,Q6: Trust,9,3.0,1.0,"[3.0, 5.0]","[0.0, 3.0]",9,4.0,0.0,1.0,-1.0,True,True,2.0,0.1353352832366127,E2E Agent,Calibrated,LLaMA-8B,high_school
+accomplishment,Q1: Accomplishment,23,4.0,2.0,"[3.0, 4.0]","[0.0, 3.0]",23,5.0,1.0,1.0,-1.0,False,True,1.0,0.36787944117144233,E2E Agent,Calibrated,LLaMA-8B,undergraduate
+effort_required,Q2: Effort Required,23,4.0,1.0,"[4.0, 5.0]","[0.5, 1.0]",23,3.0,0.0,-1.0,-1.0,False,False,2.0,0.1353352832366127,E2E Agent,Calibrated,LLaMA-8B,undergraduate
+mental_demand,Q3: Mental Demand,23,5.0,1.0,"[4.0, 5.0]","[0.5, 2.0]",23,4.0,0.0,-1.0,-1.0,True,False,2.0,0.1353352832366127,E2E Agent,Calibrated,LLaMA-8B,undergraduate
+perceived_controllability,Q4: Controllability,23,3.0,1.5,"[3.0, 4.0]","[1.0, 2.0]",23,4.0,0.5,1.0,-1.0,True,False,1.3333333333333333,0.26359713811572677,E2E Agent,Calibrated,LLaMA-8B,undergraduate
+temporal_demand,Q5: Temporal Demand,23,4.0,2.5,"[3.0, 5.0]","[1.0, 3.0]",23,2.0,0.0,-2.0,-2.5,False,False,1.8,0.16529888822158653,E2E Agent,Calibrated,LLaMA-8B,undergraduate
+trust,Q6: Trust,23,3.0,1.5,"[3.0, 4.0]","[1.0, 3.0]",23,5.0,1.0,2.0,-0.5,False,True,1.6666666666666665,0.18887560283756186,E2E Agent,Calibrated,LLaMA-8B,undergraduate
+accomplishment,Q1: Accomplishment,23,4.0,1.0,"[4.0, 5.0]","[1.0, 2.0]",23,5.0,0.0,1.0,-1.0,True,False,2.0,0.1353352832366127,E2E Agent,Calibrated,LLaMA-8B,graduate
+effort_required,Q2: Effort Required,23,5.0,0.5,"[5.0, 5.0]","[0.0, 1.0]",23,3.0,0.0,-2.0,-0.5,False,True,5.0,0.006737946999085467,E2E Agent,Calibrated,LLaMA-8B,graduate
+mental_demand,Q3: Mental Demand,23,5.0,1.0,"[4.0, 5.0]","[0.0, 1.0]",23,4.0,0.0,-1.0,-1.0,True,True,2.0,0.1353352832366127,E2E Agent,Calibrated,LLaMA-8B,graduate
+perceived_controllability,Q4: Controllability,23,4.0,1.0,"[4.0, 5.0]","[1.0, 2.0]",23,4.0,0.0,0.0,-1.0,True,False,1.0,0.36787944117144233,E2E Agent,Calibrated,LLaMA-8B,graduate
+temporal_demand,Q5: Temporal Demand,23,5.0,2.0,"[3.0, 5.0]","[0.0, 4.0]",23,2.0,0.0,-3.0,-2.0,False,True,2.5,0.0820849986238988,E2E Agent,Calibrated,LLaMA-8B,graduate
+trust,Q6: Trust,23,4.0,1.0,"[4.0, 5.0]","[0.0, 2.0]",23,5.0,0.0,1.0,-1.0,True,True,2.0,0.1353352832366127,E2E Agent,Calibrated,LLaMA-8B,graduate
+accomplishment,Q1: Accomplishment,55,4.0,2.0,"[4.0, 4.0]","[1.0, 2.5]",55,5.0,1.0,1.0,-1.0,False,True,1.0,0.36787944117144233,E2E Agent,Calibrated,GPT-5,All
+effort_required,Q2: Effort Required,55,5.0,1.0,"[4.0, 5.0]","[1.0, 1.0]",55,3.0,0.0,-2.0,-1.0,False,False,3.0,0.049787068367863944,E2E Agent,Calibrated,GPT-5,All
+mental_demand,Q3: Mental Demand,55,5.0,1.0,"[4.0, 5.0]","[1.0, 1.0]",55,4.0,0.0,-1.0,-1.0,True,False,2.0,0.1353352832366127,E2E Agent,Calibrated,GPT-5,All
+perceived_controllability,Q4: Controllability,55,4.0,2.0,"[4.0, 4.0]","[1.0, 2.5]",55,4.0,0.0,0.0,-2.0,True,False,1.0,0.36787944117144233,E2E Agent,Calibrated,GPT-5,All
+temporal_demand,Q5: Temporal Demand,55,4.0,2.0,"[3.0, 5.0]","[2.0, 3.0]",55,2.0,0.0,-2.0,-2.0,False,False,2.0,0.1353352832366127,E2E Agent,Calibrated,GPT-5,All
+trust,Q6: Trust,55,4.0,2.0,"[3.0, 4.0]","[1.0, 2.0]",55,5.0,1.0,1.0,-1.0,False,True,1.0,0.36787944117144233,E2E Agent,Calibrated,GPT-5,All
+accomplishment,Q1: Accomplishment,9,4.0,2.0,"[1.0, 5.0]","[0.0, 4.0]",9,4.0,0.0,0.0,-2.0,True,True,1.0,0.36787944117144233,E2E Agent,Calibrated,GPT-5,high_school
+effort_required,Q2: Effort Required,9,5.0,1.0,"[3.0, 5.0]","[0.0, 3.0]",9,3.0,0.0,-2.0,-1.0,True,True,3.0,0.049787068367863944,E2E Agent,Calibrated,GPT-5,high_school
+mental_demand,Q3: Mental Demand,9,4.0,1.0,"[4.0, 5.0]","[0.0, 2.0]",9,4.0,0.0,0.0,-1.0,True,True,1.0,0.36787944117144233,E2E Agent,Calibrated,GPT-5,high_school
+perceived_controllability,Q4: Controllability,9,4.0,2.0,"[2.0, 5.0]","[0.0, 3.0]",9,3.0,0.0,-1.0,-2.0,True,True,1.5,0.22313016014842982,E2E Agent,Calibrated,GPT-5,high_school
+temporal_demand,Q5: Temporal Demand,9,3.0,2.0,"[1.0, 4.0]","[0.0, 4.0]",9,2.0,0.0,-1.0,-2.0,True,True,1.5,0.22313016014842982,E2E Agent,Calibrated,GPT-5,high_school
+trust,Q6: Trust,9,3.0,1.0,"[3.0, 5.0]","[0.0, 3.0]",9,4.0,0.0,1.0,-1.0,True,True,2.0,0.1353352832366127,E2E Agent,Calibrated,GPT-5,high_school
+accomplishment,Q1: Accomplishment,23,4.0,2.0,"[3.0, 4.0]","[0.0, 3.0]",23,5.0,0.5,1.0,-1.5,False,True,1.25,0.2865047968601901,E2E Agent,Calibrated,GPT-5,undergraduate
+effort_required,Q2: Effort Required,23,4.0,1.0,"[4.0, 5.0]","[0.5, 1.0]",23,3.0,0.0,-1.0,-1.0,False,False,2.0,0.1353352832366127,E2E Agent,Calibrated,GPT-5,undergraduate
+mental_demand,Q3: Mental Demand,23,5.0,1.0,"[4.0, 5.0]","[0.5, 2.0]",23,4.0,0.0,-1.0,-1.0,True,False,2.0,0.1353352832366127,E2E Agent,Calibrated,GPT-5,undergraduate
+perceived_controllability,Q4: Controllability,23,3.0,1.5,"[3.0, 4.0]","[1.0, 2.0]",23,4.0,0.0,1.0,-1.5,True,False,1.6666666666666665,0.18887560283756186,E2E Agent,Calibrated,GPT-5,undergraduate
+temporal_demand,Q5: Temporal Demand,23,4.0,2.5,"[3.0, 5.0]","[1.0, 3.0]",23,2.0,0.0,-2.0,-2.5,False,False,1.8,0.16529888822158653,E2E Agent,Calibrated,GPT-5,undergraduate
+trust,Q6: Trust,23,3.0,1.5,"[3.0, 4.0]","[1.0, 3.0]",23,5.0,1.0,2.0,-0.5,False,True,1.6666666666666665,0.18887560283756186,E2E Agent,Calibrated,GPT-5,undergraduate
+accomplishment,Q1: Accomplishment,23,4.0,1.0,"[4.0, 5.0]","[1.0, 2.0]",23,5.0,0.5,1.0,-0.5,True,False,1.5,0.22313016014842982,E2E Agent,Calibrated,GPT-5,graduate
+effort_required,Q2: Effort Required,23,5.0,0.5,"[5.0, 5.0]","[0.0, 1.0]",23,3.0,0.0,-2.0,-0.5,False,True,5.0,0.006737946999085467,E2E Agent,Calibrated,GPT-5,graduate
+mental_demand,Q3: Mental Demand,23,5.0,1.0,"[4.0, 5.0]","[0.0, 1.0]",23,4.0,0.0,-1.0,-1.0,True,True,2.0,0.1353352832366127,E2E Agent,Calibrated,GPT-5,graduate
+perceived_controllability,Q4: Controllability,23,4.0,1.0,"[4.0, 5.0]","[1.0, 2.0]",23,4.0,0.0,0.0,-1.0,True,False,1.0,0.36787944117144233,E2E Agent,Calibrated,GPT-5,graduate
+temporal_demand,Q5: Temporal Demand,23,5.0,2.0,"[3.0, 5.0]","[0.0, 4.0]",23,2.0,0.0,-3.0,-2.0,False,True,2.5,0.0820849986238988,E2E Agent,Calibrated,GPT-5,graduate
+trust,Q6: Trust,23,4.0,1.0,"[4.0, 5.0]","[0.0, 2.0]",23,5.0,0.0,1.0,-1.0,True,True,2.0,0.1353352832366127,E2E Agent,Calibrated,GPT-5,graduate
+accomplishment,Q1: Accomplishment,55,4.0,2.0,"[4.0, 4.0]","[1.0, 2.5]",55,5.0,1.0,1.0,-1.0,False,True,1.0,0.36787944117144233,E2E Agent,Calibrated,Mistral-24B,All
+effort_required,Q2: Effort Required,55,5.0,1.0,"[4.0, 5.0]","[1.0, 1.0]",55,3.0,0.0,-2.0,-1.0,False,False,3.0,0.049787068367863944,E2E Agent,Calibrated,Mistral-24B,All
+mental_demand,Q3: Mental Demand,55,5.0,1.0,"[4.0, 5.0]","[1.0, 1.0]",55,4.0,0.0,-1.0,-1.0,True,False,2.0,0.1353352832366127,E2E Agent,Calibrated,Mistral-24B,All
+perceived_controllability,Q4: Controllability,55,4.0,2.0,"[4.0, 4.0]","[1.0, 2.5]",55,4.0,1.0,0.0,-1.0,True,True,0.5,0.6065306597126334,E2E Agent,Calibrated,Mistral-24B,All
+temporal_demand,Q5: Temporal Demand,55,4.0,2.0,"[3.0, 5.0]","[2.0, 3.0]",55,2.0,0.0,-2.0,-2.0,False,False,2.0,0.1353352832366127,E2E Agent,Calibrated,Mistral-24B,All
+trust,Q6: Trust,55,4.0,2.0,"[3.0, 4.0]","[1.0, 2.0]",55,5.0,1.0,1.0,-1.0,False,True,1.0,0.36787944117144233,E2E Agent,Calibrated,Mistral-24B,All
+accomplishment,Q1: Accomplishment,9,4.0,2.0,"[1.0, 5.0]","[0.0, 4.0]",9,4.0,0.0,0.0,-2.0,True,True,1.0,0.36787944117144233,E2E Agent,Calibrated,Mistral-24B,high_school
+effort_required,Q2: Effort Required,9,5.0,1.0,"[3.0, 5.0]","[0.0, 3.0]",9,3.0,0.0,-2.0,-1.0,True,True,3.0,0.049787068367863944,E2E Agent,Calibrated,Mistral-24B,high_school
+mental_demand,Q3: Mental Demand,9,4.0,1.0,"[4.0, 5.0]","[0.0, 2.0]",9,4.0,0.0,0.0,-1.0,True,True,1.0,0.36787944117144233,E2E Agent,Calibrated,Mistral-24B,high_school
+perceived_controllability,Q4: Controllability,9,4.0,2.0,"[2.0, 5.0]","[0.0, 3.0]",9,3.0,0.0,-1.0,-2.0,True,True,1.5,0.22313016014842982,E2E Agent,Calibrated,Mistral-24B,high_school
+temporal_demand,Q5: Temporal Demand,9,3.0,2.0,"[1.0, 4.0]","[0.0, 4.0]",9,2.0,0.0,-1.0,-2.0,True,True,1.5,0.22313016014842982,E2E Agent,Calibrated,Mistral-24B,high_school
+trust,Q6: Trust,9,3.0,1.0,"[3.0, 5.0]","[0.0, 3.0]",9,4.0,0.0,1.0,-1.0,True,True,2.0,0.1353352832366127,E2E Agent,Calibrated,Mistral-24B,high_school
+accomplishment,Q1: Accomplishment,23,4.0,2.0,"[3.0, 4.0]","[0.0, 3.0]",23,5.0,1.0,1.0,-1.0,False,True,1.0,0.36787944117144233,E2E Agent,Calibrated,Mistral-24B,undergraduate
+effort_required,Q2: Effort Required,23,4.0,1.0,"[4.0, 5.0]","[0.5, 1.0]",23,3.0,0.0,-1.0,-1.0,False,False,2.0,0.1353352832366127,E2E Agent,Calibrated,Mistral-24B,undergraduate
+mental_demand,Q3: Mental Demand,23,5.0,1.0,"[4.0, 5.0]","[0.5, 2.0]",23,4.0,0.0,-1.0,-1.0,True,False,2.0,0.1353352832366127,E2E Agent,Calibrated,Mistral-24B,undergraduate
+perceived_controllability,Q4: Controllability,23,3.0,1.5,"[3.0, 4.0]","[1.0, 2.0]",23,4.0,1.0,1.0,-0.5,True,True,1.0,0.36787944117144233,E2E Agent,Calibrated,Mistral-24B,undergraduate
+temporal_demand,Q5: Temporal Demand,23,4.0,2.5,"[3.0, 5.0]","[1.0, 3.0]",23,2.0,0.0,-2.0,-2.5,False,False,1.8,0.16529888822158653,E2E Agent,Calibrated,Mistral-24B,undergraduate
+trust,Q6: Trust,23,3.0,1.5,"[3.0, 4.0]","[1.0, 3.0]",23,4.0,1.0,1.0,-0.5,True,True,1.0,0.36787944117144233,E2E Agent,Calibrated,Mistral-24B,undergraduate
+accomplishment,Q1: Accomplishment,23,4.0,1.0,"[4.0, 5.0]","[1.0, 2.0]",23,5.0,0.0,1.0,-1.0,True,False,2.0,0.1353352832366127,E2E Agent,Calibrated,Mistral-24B,graduate
+effort_required,Q2: Effort Required,23,5.0,0.5,"[5.0, 5.0]","[0.0, 1.0]",23,3.0,1.0,-2.0,0.5,False,True,5.0,0.006737946999085467,E2E Agent,Calibrated,Mistral-24B,graduate
+mental_demand,Q3: Mental Demand,23,5.0,1.0,"[4.0, 5.0]","[0.0, 1.0]",23,4.0,0.0,-1.0,-1.0,True,True,2.0,0.1353352832366127,E2E Agent,Calibrated,Mistral-24B,graduate
+perceived_controllability,Q4: Controllability,23,4.0,1.0,"[4.0, 5.0]","[1.0, 2.0]",23,4.0,0.0,0.0,-1.0,True,False,1.0,0.36787944117144233,E2E Agent,Calibrated,Mistral-24B,graduate
+temporal_demand,Q5: Temporal Demand,23,5.0,2.0,"[3.0, 5.0]","[0.0, 4.0]",23,2.0,0.0,-3.0,-2.0,False,True,2.5,0.0820849986238988,E2E Agent,Calibrated,Mistral-24B,graduate
+trust,Q6: Trust,23,4.0,1.0,"[4.0, 5.0]","[0.0, 2.0]",23,5.0,0.0,1.0,-1.0,True,True,2.0,0.1353352832366127,E2E Agent,Calibrated,Mistral-24B,graduate
+accomplishment,Q1: Accomplishment,55,4.0,2.0,"[4.0, 4.0]","[1.0, 2.5]",55,4.0,1.0,0.0,-1.0,True,True,0.5,0.6065306597126334,AgentJudge,N/A,LLaMA-8B,All
+effort_required,Q2: Effort Required,55,5.0,1.0,"[4.0, 5.0]","[1.0, 1.0]",55,3.0,1.0,-2.0,0.0,False,True,2.0,0.1353352832366127,AgentJudge,N/A,LLaMA-8B,All
+mental_demand,Q3: Mental Demand,55,5.0,1.0,"[4.0, 5.0]","[1.0, 1.0]",55,4.0,0.0,-1.0,-1.0,True,False,2.0,0.1353352832366127,AgentJudge,N/A,LLaMA-8B,All
+perceived_controllability,Q4: Controllability,55,4.0,2.0,"[4.0, 4.0]","[1.0, 2.5]",55,3.0,2.0,-1.0,0.0,False,True,0.5,0.6065306597126334,AgentJudge,N/A,LLaMA-8B,All
+temporal_demand,Q5: Temporal Demand,55,4.0,2.0,"[3.0, 5.0]","[2.0, 3.0]",55,2.0,0.75,-2.0,-1.25,False,False,1.625,0.19691167520419406,AgentJudge,N/A,LLaMA-8B,All
+trust,Q6: Trust,55,4.0,2.0,"[3.0, 4.0]","[1.0, 2.0]",55,4.0,1.0,0.0,-1.0,True,True,0.5,0.6065306597126334,AgentJudge,N/A,LLaMA-8B,All
+accomplishment,Q1: Accomplishment,9,4.0,2.0,"[1.0, 5.0]","[0.0, 4.0]",9,2.0,2.0,-2.0,0.0,True,True,1.0,0.36787944117144233,AgentJudge,N/A,LLaMA-8B,high_school
+effort_required,Q2: Effort Required,9,5.0,1.0,"[3.0, 5.0]","[0.0, 3.0]",9,3.5,1.0,-1.5,0.0,True,True,1.5,0.22313016014842982,AgentJudge,N/A,LLaMA-8B,high_school
+mental_demand,Q3: Mental Demand,9,4.0,1.0,"[4.0, 5.0]","[0.0, 2.0]",9,4.0,0.0,0.0,-1.0,True,True,1.0,0.36787944117144233,AgentJudge,N/A,LLaMA-8B,high_school
+perceived_controllability,Q4: Controllability,9,4.0,2.0,"[2.0, 5.0]","[0.0, 3.0]",9,2.0,1.5,-2.0,-0.5,True,True,1.25,0.2865047968601901,AgentJudge,N/A,LLaMA-8B,high_school
+temporal_demand,Q5: Temporal Demand,9,3.0,2.0,"[1.0, 4.0]","[0.0, 4.0]",9,2.0,1.0,-1.0,-1.0,True,True,1.0,0.36787944117144233,AgentJudge,N/A,LLaMA-8B,high_school
+trust,Q6: Trust,9,3.0,1.0,"[3.0, 5.0]","[0.0, 3.0]",9,3.0,2.0,0.0,1.0,True,True,1.0,0.36787944117144233,AgentJudge,N/A,LLaMA-8B,high_school
+accomplishment,Q1: Accomplishment,23,4.0,2.0,"[3.0, 4.0]","[0.0, 3.0]",23,4.0,1.0,0.0,-1.0,True,True,0.5,0.6065306597126334,AgentJudge,N/A,LLaMA-8B,undergraduate
+effort_required,Q2: Effort Required,23,4.0,1.0,"[4.0, 5.0]","[0.5, 1.0]",23,3.0,1.0,-1.0,0.0,False,True,1.0,0.36787944117144233,AgentJudge,N/A,LLaMA-8B,undergraduate
+mental_demand,Q3: Mental Demand,23,5.0,1.0,"[4.0, 5.0]","[0.5, 2.0]",23,4.0,0.0,-1.0,-1.0,True,False,2.0,0.1353352832366127,AgentJudge,N/A,LLaMA-8B,undergraduate
+perceived_controllability,Q4: Controllability,23,3.0,1.5,"[3.0, 4.0]","[1.0, 2.0]",23,3.0,2.0,0.0,0.5,True,True,0.3333333333333333,0.7165313105737893,AgentJudge,N/A,LLaMA-8B,undergraduate
+temporal_demand,Q5: Temporal Demand,23,4.0,2.5,"[3.0, 5.0]","[1.0, 3.0]",23,2.0,1.0,-2.0,-1.5,False,True,1.4,0.2465969639416065,AgentJudge,N/A,LLaMA-8B,undergraduate
+trust,Q6: Trust,23,3.0,1.5,"[3.0, 4.0]","[1.0, 3.0]",23,4.0,1.0,1.0,-0.5,True,True,1.0,0.36787944117144233,AgentJudge,N/A,LLaMA-8B,undergraduate
+accomplishment,Q1: Accomplishment,23,4.0,1.0,"[4.0, 5.0]","[1.0, 2.0]",23,4.0,1.0,0.0,0.0,True,True,0.0,1.0,AgentJudge,N/A,LLaMA-8B,graduate
+effort_required,Q2: Effort Required,23,5.0,0.5,"[5.0, 5.0]","[0.0, 1.0]",23,3.0,1.0,-2.0,0.5,False,True,5.0,0.006737946999085467,AgentJudge,N/A,LLaMA-8B,graduate
+mental_demand,Q3: Mental Demand,23,5.0,1.0,"[4.0, 5.0]","[0.0, 1.0]",23,4.0,0.0,-1.0,-1.0,True,True,2.0,0.1353352832366127,AgentJudge,N/A,LLaMA-8B,graduate
+perceived_controllability,Q4: Controllability,23,4.0,1.0,"[4.0, 5.0]","[1.0, 2.0]",23,3.0,1.0,-1.0,0.0,False,True,1.0,0.36787944117144233,AgentJudge,N/A,LLaMA-8B,graduate
+temporal_demand,Q5: Temporal Demand,23,5.0,2.0,"[3.0, 5.0]","[0.0, 4.0]",23,2.0,0.0,-3.0,-2.0,False,True,2.5,0.0820849986238988,AgentJudge,N/A,LLaMA-8B,graduate
+trust,Q6: Trust,23,4.0,1.0,"[4.0, 5.0]","[0.0, 2.0]",23,4.0,0.0,0.0,-1.0,True,True,1.0,0.36787944117144233,AgentJudge,N/A,LLaMA-8B,graduate
+accomplishment,Q1: Accomplishment,55,4.0,2.0,"[4.0, 4.0]","[1.0, 2.5]",55,4.0,3.0,0.0,1.0,True,False,0.5,0.6065306597126334,AgentJudge,N/A,GPT-5,All
+effort_required,Q2: Effort Required,55,5.0,1.0,"[4.0, 5.0]","[1.0, 1.0]",55,4.0,1.0,-1.0,0.0,True,True,1.0,0.36787944117144233,AgentJudge,N/A,GPT-5,All
+mental_demand,Q3: Mental Demand,55,5.0,1.0,"[4.0, 5.0]","[1.0, 1.0]",55,4.0,1.0,-1.0,0.0,True,True,1.0,0.36787944117144233,AgentJudge,N/A,GPT-5,All
+perceived_controllability,Q4: Controllability,55,4.0,2.0,"[4.0, 4.0]","[1.0, 2.5]",55,3.0,1.0,-1.0,-1.0,False,True,1.0,0.36787944117144233,AgentJudge,N/A,GPT-5,All
+temporal_demand,Q5: Temporal Demand,55,4.0,2.0,"[3.0, 5.0]","[2.0, 3.0]",55,2.0,0.0,-2.0,-2.0,False,False,2.0,0.1353352832366127,AgentJudge,N/A,GPT-5,All
+trust,Q6: Trust,55,4.0,2.0,"[3.0, 4.0]","[1.0, 2.0]",55,3.0,1.0,-1.0,-1.0,True,True,1.0,0.36787944117144233,AgentJudge,N/A,GPT-5,All
+accomplishment,Q1: Accomplishment,9,4.0,2.0,"[1.0, 5.0]","[0.0, 4.0]",9,2.0,3.0,-2.0,1.0,True,True,1.5,0.22313016014842982,AgentJudge,N/A,GPT-5,high_school
+effort_required,Q2: Effort Required,9,5.0,1.0,"[3.0, 5.0]","[0.0, 3.0]",9,4.0,0.0,-1.0,-1.0,True,True,2.0,0.1353352832366127,AgentJudge,N/A,GPT-5,high_school
+mental_demand,Q3: Mental Demand,9,4.0,1.0,"[4.0, 5.0]","[0.0, 2.0]",9,4.0,0.0,0.0,-1.0,True,True,1.0,0.36787944117144233,AgentJudge,N/A,GPT-5,high_school
+perceived_controllability,Q4: Controllability,9,4.0,2.0,"[2.0, 5.0]","[0.0, 3.0]",9,2.0,1.0,-2.0,-1.0,True,True,1.5,0.22313016014842982,AgentJudge,N/A,GPT-5,high_school
+temporal_demand,Q5: Temporal Demand,9,3.0,2.0,"[1.0, 4.0]","[0.0, 4.0]",9,3.0,1.0,0.0,-1.0,True,True,0.5,0.6065306597126334,AgentJudge,N/A,GPT-5,high_school
+trust,Q6: Trust,9,3.0,1.0,"[3.0, 5.0]","[0.0, 3.0]",9,2.0,2.0,-1.0,1.0,False,True,2.0,0.1353352832366127,AgentJudge,N/A,GPT-5,high_school
+accomplishment,Q1: Accomplishment,23,4.0,2.0,"[3.0, 4.0]","[0.0, 3.0]",23,4.0,2.0,0.0,0.0,True,True,0.0,1.0,AgentJudge,N/A,GPT-5,undergraduate
+effort_required,Q2: Effort Required,23,4.0,1.0,"[4.0, 5.0]","[0.5, 1.0]",23,4.0,0.0,0.0,-1.0,True,False,1.0,0.36787944117144233,AgentJudge,N/A,GPT-5,undergraduate
+mental_demand,Q3: Mental Demand,23,5.0,1.0,"[4.0, 5.0]","[0.5, 2.0]",23,4.0,0.0,-1.0,-1.0,True,False,2.0,0.1353352832366127,AgentJudge,N/A,GPT-5,undergraduate
+perceived_controllability,Q4: Controllability,23,3.0,1.5,"[3.0, 4.0]","[1.0, 2.0]",23,3.0,1.0,0.0,-0.5,True,True,0.3333333333333333,0.7165313105737893,AgentJudge,N/A,GPT-5,undergraduate
+temporal_demand,Q5: Temporal Demand,23,4.0,2.5,"[3.0, 5.0]","[1.0, 3.0]",23,2.0,0.5,-2.0,-2.0,False,False,1.6,0.20189651799465538,AgentJudge,N/A,GPT-5,undergraduate
+trust,Q6: Trust,23,3.0,1.5,"[3.0, 4.0]","[1.0, 3.0]",23,4.0,1.0,1.0,-0.5,True,True,1.0,0.36787944117144233,AgentJudge,N/A,GPT-5,undergraduate
+accomplishment,Q1: Accomplishment,23,4.0,1.0,"[4.0, 5.0]","[1.0, 2.0]",23,4.0,1.5,0.0,0.5,True,True,0.5,0.6065306597126334,AgentJudge,N/A,GPT-5,graduate
+effort_required,Q2: Effort Required,23,5.0,0.5,"[5.0, 5.0]","[0.0, 1.0]",23,3.0,0.0,-2.0,-0.5,False,True,5.0,0.006737946999085467,AgentJudge,N/A,GPT-5,graduate
+mental_demand,Q3: Mental Demand,23,5.0,1.0,"[4.0, 5.0]","[0.0, 1.0]",23,3.0,0.0,-2.0,-1.0,False,True,3.0,0.049787068367863944,AgentJudge,N/A,GPT-5,graduate
+perceived_controllability,Q4: Controllability,23,4.0,1.0,"[4.0, 5.0]","[1.0, 2.0]",23,3.0,0.5,-1.0,-0.5,False,False,1.5,0.22313016014842982,AgentJudge,N/A,GPT-5,graduate
+temporal_demand,Q5: Temporal Demand,23,5.0,2.0,"[3.0, 5.0]","[0.0, 4.0]",23,2.0,0.0,-3.0,-2.0,False,True,2.5,0.0820849986238988,AgentJudge,N/A,GPT-5,graduate
+trust,Q6: Trust,23,4.0,1.0,"[4.0, 5.0]","[0.0, 2.0]",23,3.0,1.5,-1.0,0.5,False,True,1.5,0.22313016014842982,AgentJudge,N/A,GPT-5,graduate
+accomplishment,Q1: Accomplishment,55,4.0,2.0,"[4.0, 4.0]","[1.0, 2.5]",55,4.0,1.0,0.0,-1.0,True,True,0.5,0.6065306597126334,AgentJudge,N/A,Mistral-24B,All
+effort_required,Q2: Effort Required,55,5.0,1.0,"[4.0, 5.0]","[1.0, 1.0]",55,4.0,1.0,-1.0,0.0,True,True,1.0,0.36787944117144233,AgentJudge,N/A,Mistral-24B,All
+mental_demand,Q3: Mental Demand,55,5.0,1.0,"[4.0, 5.0]","[1.0, 1.0]",55,4.0,0.0,-1.0,-1.0,True,False,2.0,0.1353352832366127,AgentJudge,N/A,Mistral-24B,All
+perceived_controllability,Q4: Controllability,55,4.0,2.0,"[4.0, 4.0]","[1.0, 2.5]",55,3.0,0.5,-1.0,-1.5,False,False,1.25,0.2865047968601901,AgentJudge,N/A,Mistral-24B,All
+temporal_demand,Q5: Temporal Demand,55,4.0,2.0,"[3.0, 5.0]","[2.0, 3.0]",55,3.0,1.0,-1.0,-1.0,True,False,1.0,0.36787944117144233,AgentJudge,N/A,Mistral-24B,All
+trust,Q6: Trust,55,4.0,2.0,"[3.0, 4.0]","[1.0, 2.0]",55,4.0,1.5,0.0,-0.5,True,True,0.25,0.7788007830714049,AgentJudge,N/A,Mistral-24B,All
+accomplishment,Q1: Accomplishment,9,4.0,2.0,"[1.0, 5.0]","[0.0, 4.0]",9,3.0,1.0,-1.0,-1.0,True,True,1.0,0.36787944117144233,AgentJudge,N/A,Mistral-24B,high_school
+effort_required,Q2: Effort Required,9,5.0,1.0,"[3.0, 5.0]","[0.0, 3.0]",9,4.0,0.0,-1.0,-1.0,True,True,2.0,0.1353352832366127,AgentJudge,N/A,Mistral-24B,high_school
+mental_demand,Q3: Mental Demand,9,4.0,1.0,"[4.0, 5.0]","[0.0, 2.0]",9,4.0,0.0,0.0,-1.0,True,True,1.0,0.36787944117144233,AgentJudge,N/A,Mistral-24B,high_school
+perceived_controllability,Q4: Controllability,9,4.0,2.0,"[2.0, 5.0]","[0.0, 3.0]",9,2.0,1.0,-2.0,-1.0,True,True,1.5,0.22313016014842982,AgentJudge,N/A,Mistral-24B,high_school
+temporal_demand,Q5: Temporal Demand,9,3.0,2.0,"[1.0, 4.0]","[0.0, 4.0]",9,3.0,0.0,0.0,-2.0,True,True,1.0,0.36787944117144233,AgentJudge,N/A,Mistral-24B,high_school
+trust,Q6: Trust,9,3.0,1.0,"[3.0, 5.0]","[0.0, 3.0]",9,2.0,1.0,-1.0,0.0,False,True,1.0,0.36787944117144233,AgentJudge,N/A,Mistral-24B,high_school
+accomplishment,Q1: Accomplishment,23,4.0,2.0,"[3.0, 4.0]","[0.0, 3.0]",23,4.0,1.0,0.0,-1.0,True,True,0.5,0.6065306597126334,AgentJudge,N/A,Mistral-24B,undergraduate
+effort_required,Q2: Effort Required,23,4.0,1.0,"[4.0, 5.0]","[0.5, 1.0]",23,3.0,1.0,-1.0,0.0,False,True,1.0,0.36787944117144233,AgentJudge,N/A,Mistral-24B,undergraduate
+mental_demand,Q3: Mental Demand,23,5.0,1.0,"[4.0, 5.0]","[0.5, 2.0]",23,4.0,0.0,-1.0,-1.0,True,False,2.0,0.1353352832366127,AgentJudge,N/A,Mistral-24B,undergraduate
+perceived_controllability,Q4: Controllability,23,3.0,1.5,"[3.0, 4.0]","[1.0, 2.0]",23,3.0,1.0,0.0,-0.5,True,True,0.3333333333333333,0.7165313105737893,AgentJudge,N/A,Mistral-24B,undergraduate
+temporal_demand,Q5: Temporal Demand,23,4.0,2.5,"[3.0, 5.0]","[1.0, 3.0]",23,2.0,1.0,-2.0,-1.5,False,True,1.4,0.2465969639416065,AgentJudge,N/A,Mistral-24B,undergraduate
+trust,Q6: Trust,23,3.0,1.5,"[3.0, 4.0]","[1.0, 3.0]",23,4.0,1.0,1.0,-0.5,True,True,1.0,0.36787944117144233,AgentJudge,N/A,Mistral-24B,undergraduate
+accomplishment,Q1: Accomplishment,23,4.0,1.0,"[4.0, 5.0]","[1.0, 2.0]",23,4.0,0.5,0.0,-0.5,True,False,0.5,0.6065306597126334,AgentJudge,N/A,Mistral-24B,graduate
+effort_required,Q2: Effort Required,23,5.0,0.5,"[5.0, 5.0]","[0.0, 1.0]",23,4.0,0.5,-1.0,0.0,False,True,2.0,0.1353352832366127,AgentJudge,N/A,Mistral-24B,graduate
+mental_demand,Q3: Mental Demand,23,5.0,1.0,"[4.0, 5.0]","[0.0, 1.0]",23,4.0,0.0,-1.0,-1.0,True,True,2.0,0.1353352832366127,AgentJudge,N/A,Mistral-24B,graduate
+perceived_controllability,Q4: Controllability,23,4.0,1.0,"[4.0, 5.0]","[1.0, 2.0]",23,3.0,0.0,-1.0,-1.0,False,False,2.0,0.1353352832366127,AgentJudge,N/A,Mistral-24B,graduate
+temporal_demand,Q5: Temporal Demand,23,5.0,2.0,"[3.0, 5.0]","[0.0, 4.0]",23,3.0,0.0,-2.0,-2.0,True,True,2.0,0.1353352832366127,AgentJudge,N/A,Mistral-24B,graduate
+trust,Q6: Trust,23,4.0,1.0,"[4.0, 5.0]","[0.0, 2.0]",23,4.0,0.5,0.0,-0.5,True,True,0.5,0.6065306597126334,AgentJudge,N/A,Mistral-24B,graduate

@@ -1,0 +1,15 @@
+category,measure,formula,e2eAgent_value
+Participation & Completion,Session count,Total number of study sessions,2475
+Participation & Completion,Completion rate,#completed/#sessions,100.00% (2475/2475)
+Participation & Completion,Drop-off rate,#abandoned/#sessions,0.00% (0/2475)
+Participation & Completion,Full completion rate,#completed(10 steps)/#sessions,100.00% (2475/2475)
+Latency,Session duration,sum(LLM latency) per session,5.16 min
+Latency,Learning step duration,avg llm_student_call latency,5.01 sec
+Latency,Response time,avg(response_time_ms)/1000,5.00 sec
+Performance,Pretest accuracy,mean(correct | phase=pretest),75.45%
+Performance,Learning accuracy,mean(correct | phase=learning),72.11%
+Learning Dynamics,Mastery gain per session,final_mastery - initial_mastery,52.26%
+Learning Dynamics,Reward components,"sum r_perf, sum r_gap, sum r_apt","6.8143, 0.3171, 8.0002"
+Agent Cost & Behavior,Latency,avg(latency_s),9.06 sec
+Agent Cost & Behavior,Token usage per call,sum(total_tokens),1890.09
+Agent Cost & Behavior,Strategy distribution,"f_perf, f_gap, f_apt","16.34%, 58.40%, 25.27%"

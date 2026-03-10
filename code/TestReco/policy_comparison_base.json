@@ -1,0 +1,7 @@
+{
+  "Experiment": {
+    "PPO_Performance": "results/1O_ppo_scalarized_performance_irt_2025-12-09_09-59-43_model",
+    "A2C_Gap": "results/1O_a2c_scalarized_gap_irt_2025-12-09_10-44-31_model",
+    "SARSA_Aptitude": "results/1O_sarsa_scalarized_aptitude_irt_2025-12-09_11-30-15_model"
+  }
+}

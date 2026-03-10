@@ -1,0 +1,48 @@
+{
+  "state_dim": 11,
+  "action_dim": 3,
+  "hidden_dims": [
+    64,
+    64
+  ],
+  "gamma": 0.99,
+  "gae_lambda": 0.95,
+  "clip_ratio": 0.1,
+  "value_coef": 0.5,
+  "entropy_coef": 0.0,
+  "max_grad_norm": 0.5,
+  "target_kl": 0.01,
+  "learning_rate": 0.0001,
+  "mini_batch_size": 64,
+  "n_epochs": 10,
+  "normalize_advantages": true,
+  "device": "cpu",
+  "skills": [
+    "Fundamental Mathematics"
+  ],
+  "difficulties": [
+    1.0,
+    2.0,
+    3.0,
+    4.0,
+    5.0
+  ],
+  "num_skills": 1,
+  "num_difficulties": 5,
+  "agent_type": "ppo",
+  "response_model": "irt",
+  "data_type": "QA",
+  "benchmark": "math_bench",
+  "target_skill_bundle": [
+    "Fundamental Mathematics"
+  ],
+  "objectives": [
+    "performance"
+  ],
+  "timestamp": "2025-12-23_11-25-12",
+  "steps": 50,
+  "episodes": 30,
+  "seed": 42,
+  "reward_mode": "scalarized",
+  "ppo_n_steps": 256
+}

@@ -1,0 +1,29 @@
+
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+py_env_fast/
+.env
+.env.local
+.env.*.local
+
+# Data files (mathE dataset + generated universes)
+data/
+
+# Generated quizzes
+output_quizzes/
+
+# LLM study interactive results only
+quizcomp_llm_study/interactive_results/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log

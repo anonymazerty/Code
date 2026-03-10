@@ -1,0 +1,289 @@
+Config,Group,Role,Question,Median
+JudgeAgent,CROWD,All,Q1_Accomplishment,3.0
+JudgeAgent,CROWD,All,Q2_Effort,3.0
+JudgeAgent,CROWD,All,Q3_Mental_Demand,3.0
+JudgeAgent,CROWD,All,Q4_Controllability,3.0
+JudgeAgent,CROWD,All,Q5_Temporal_Demand,2.0
+JudgeAgent,CROWD,All,Q6_Satisfaction,3.0
+JudgeAgent,GPT-5,All,Q1_Accomplishment,4.0
+JudgeAgent,GPT-5,All,Q2_Effort,2.0
+JudgeAgent,GPT-5,All,Q3_Mental_Demand,2.0
+JudgeAgent,GPT-5,All,Q4_Controllability,4.0
+JudgeAgent,GPT-5,All,Q5_Temporal_Demand,1.0
+JudgeAgent,GPT-5,All,Q6_Satisfaction,4.0
+JudgeAgent,LLaMA-8B,All,Q1_Accomplishment,4.0
+JudgeAgent,LLaMA-8B,All,Q2_Effort,3.0
+JudgeAgent,LLaMA-8B,All,Q3_Mental_Demand,3.0
+JudgeAgent,LLaMA-8B,All,Q4_Controllability,4.0
+JudgeAgent,LLaMA-8B,All,Q5_Temporal_Demand,2.0
+JudgeAgent,LLaMA-8B,All,Q6_Satisfaction,4.0
+JudgeAgent,Mistral-24B,All,Q1_Accomplishment,4.0
+JudgeAgent,Mistral-24B,All,Q2_Effort,3.0
+JudgeAgent,Mistral-24B,All,Q3_Mental_Demand,3.0
+JudgeAgent,Mistral-24B,All,Q4_Controllability,4.0
+JudgeAgent,Mistral-24B,All,Q5_Temporal_Demand,2.0
+JudgeAgent,Mistral-24B,All,Q6_Satisfaction,4.0
+e2e Calibrated,CROWD,All,Q1_Accomplishment,3.0
+e2e Calibrated,CROWD,All,Q2_Effort,3.0
+e2e Calibrated,CROWD,All,Q3_Mental_Demand,3.0
+e2e Calibrated,CROWD,All,Q4_Controllability,3.0
+e2e Calibrated,CROWD,All,Q5_Temporal_Demand,2.0
+e2e Calibrated,CROWD,All,Q6_Satisfaction,3.0
+e2e Calibrated,GPT-5,All,Q1_Accomplishment,4.0
+e2e Calibrated,GPT-5,All,Q2_Effort,2.0
+e2e Calibrated,GPT-5,All,Q3_Mental_Demand,2.0
+e2e Calibrated,GPT-5,All,Q4_Controllability,3.0
+e2e Calibrated,GPT-5,All,Q5_Temporal_Demand,1.0
+e2e Calibrated,GPT-5,All,Q6_Satisfaction,3.0
+e2e Calibrated,LLaMA-8B,All,Q1_Accomplishment,3.0
+e2e Calibrated,LLaMA-8B,All,Q2_Effort,3.0
+e2e Calibrated,LLaMA-8B,All,Q3_Mental_Demand,2.0
+e2e Calibrated,LLaMA-8B,All,Q4_Controllability,3.0
+e2e Calibrated,LLaMA-8B,All,Q5_Temporal_Demand,3.0
+e2e Calibrated,LLaMA-8B,All,Q6_Satisfaction,3.0
+e2e Calibrated,Mistral-24B,All,Q1_Accomplishment,4.0
+e2e Calibrated,Mistral-24B,All,Q2_Effort,2.0
+e2e Calibrated,Mistral-24B,All,Q3_Mental_Demand,2.0
+e2e Calibrated,Mistral-24B,All,Q4_Controllability,3.0
+e2e Calibrated,Mistral-24B,All,Q5_Temporal_Demand,1.0
+e2e Calibrated,Mistral-24B,All,Q6_Satisfaction,4.0
+e2e Role-Anchored,CROWD,All,Q1_Accomplishment,3.0
+e2e Role-Anchored,CROWD,All,Q2_Effort,3.0
+e2e Role-Anchored,CROWD,All,Q3_Mental_Demand,3.0
+e2e Role-Anchored,CROWD,All,Q4_Controllability,3.0
+e2e Role-Anchored,CROWD,All,Q5_Temporal_Demand,2.0
+e2e Role-Anchored,CROWD,All,Q6_Satisfaction,3.0
+e2e Role-Anchored,GPT-5,All,Q1_Accomplishment,3.0
+e2e Role-Anchored,GPT-5,All,Q2_Effort,2.0
+e2e Role-Anchored,GPT-5,All,Q3_Mental_Demand,2.0
+e2e Role-Anchored,GPT-5,All,Q4_Controllability,3.0
+e2e Role-Anchored,GPT-5,All,Q5_Temporal_Demand,1.0
+e2e Role-Anchored,GPT-5,All,Q6_Satisfaction,3.0
+e2e Role-Anchored,LLaMA-8B,All,Q1_Accomplishment,4.0
+e2e Role-Anchored,LLaMA-8B,All,Q2_Effort,3.0
+e2e Role-Anchored,LLaMA-8B,All,Q3_Mental_Demand,2.0
+e2e Role-Anchored,LLaMA-8B,All,Q4_Controllability,4.0
+e2e Role-Anchored,LLaMA-8B,All,Q5_Temporal_Demand,3.0
+e2e Role-Anchored,LLaMA-8B,All,Q6_Satisfaction,3.0
+e2e Role-Anchored,Mistral-24B,All,Q1_Accomplishment,4.0
+e2e Role-Anchored,Mistral-24B,All,Q2_Effort,2.0
+e2e Role-Anchored,Mistral-24B,All,Q3_Mental_Demand,2.0
+e2e Role-Anchored,Mistral-24B,All,Q4_Controllability,3.0
+e2e Role-Anchored,Mistral-24B,All,Q5_Temporal_Demand,1.0
+e2e Role-Anchored,Mistral-24B,All,Q6_Satisfaction,4.0
+e2e Task-Constrained,CROWD,All,Q1_Accomplishment,3.0
+e2e Task-Constrained,CROWD,All,Q2_Effort,3.0
+e2e Task-Constrained,CROWD,All,Q3_Mental_Demand,3.0
+e2e Task-Constrained,CROWD,All,Q4_Controllability,3.0
+e2e Task-Constrained,CROWD,All,Q5_Temporal_Demand,2.0
+e2e Task-Constrained,CROWD,All,Q6_Satisfaction,3.0
+e2e Task-Constrained,GPT-5,All,Q1_Accomplishment,3.0
+e2e Task-Constrained,GPT-5,All,Q2_Effort,2.0
+e2e Task-Constrained,GPT-5,All,Q3_Mental_Demand,2.0
+e2e Task-Constrained,GPT-5,All,Q4_Controllability,3.0
+e2e Task-Constrained,GPT-5,All,Q5_Temporal_Demand,1.0
+e2e Task-Constrained,GPT-5,All,Q6_Satisfaction,3.0
+e2e Task-Constrained,LLaMA-8B,All,Q1_Accomplishment,4.0
+e2e Task-Constrained,LLaMA-8B,All,Q2_Effort,3.0
+e2e Task-Constrained,LLaMA-8B,All,Q3_Mental_Demand,2.0
+e2e Task-Constrained,LLaMA-8B,All,Q4_Controllability,3.0
+e2e Task-Constrained,LLaMA-8B,All,Q5_Temporal_Demand,3.0
+e2e Task-Constrained,LLaMA-8B,All,Q6_Satisfaction,3.0
+e2e Task-Constrained,Mistral-24B,All,Q1_Accomplishment,4.0
+e2e Task-Constrained,Mistral-24B,All,Q2_Effort,2.0
+e2e Task-Constrained,Mistral-24B,All,Q3_Mental_Demand,2.0
+e2e Task-Constrained,Mistral-24B,All,Q4_Controllability,3.0
+e2e Task-Constrained,Mistral-24B,All,Q5_Temporal_Demand,1.0
+e2e Task-Constrained,Mistral-24B,All,Q6_Satisfaction,4.0
+JudgeAgent,CROWD,College Teacher,Q1_Accomplishment,4.0
+JudgeAgent,CROWD,College Teacher,Q2_Effort,3.0
+JudgeAgent,CROWD,College Teacher,Q3_Mental_Demand,4.0
+JudgeAgent,CROWD,College Teacher,Q4_Controllability,3.0
+JudgeAgent,CROWD,College Teacher,Q5_Temporal_Demand,3.0
+JudgeAgent,CROWD,College Teacher,Q6_Satisfaction,3.0
+JudgeAgent,GPT-5,College Teacher,Q1_Accomplishment,4.0
+JudgeAgent,GPT-5,College Teacher,Q2_Effort,2.0
+JudgeAgent,GPT-5,College Teacher,Q3_Mental_Demand,2.0
+JudgeAgent,GPT-5,College Teacher,Q4_Controllability,4.0
+JudgeAgent,GPT-5,College Teacher,Q5_Temporal_Demand,1.0
+JudgeAgent,GPT-5,College Teacher,Q6_Satisfaction,4.0
+JudgeAgent,LLaMA-8B,College Teacher,Q1_Accomplishment,4.0
+JudgeAgent,LLaMA-8B,College Teacher,Q2_Effort,3.0
+JudgeAgent,LLaMA-8B,College Teacher,Q3_Mental_Demand,3.0
+JudgeAgent,LLaMA-8B,College Teacher,Q4_Controllability,4.0
+JudgeAgent,LLaMA-8B,College Teacher,Q5_Temporal_Demand,2.0
+JudgeAgent,LLaMA-8B,College Teacher,Q6_Satisfaction,4.0
+JudgeAgent,Mistral-24B,College Teacher,Q1_Accomplishment,4.0
+JudgeAgent,Mistral-24B,College Teacher,Q2_Effort,3.0
+JudgeAgent,Mistral-24B,College Teacher,Q3_Mental_Demand,3.0
+JudgeAgent,Mistral-24B,College Teacher,Q4_Controllability,4.0
+JudgeAgent,Mistral-24B,College Teacher,Q5_Temporal_Demand,2.0
+JudgeAgent,Mistral-24B,College Teacher,Q6_Satisfaction,4.0
+e2e Calibrated,CROWD,College Teacher,Q1_Accomplishment,4.0
+e2e Calibrated,CROWD,College Teacher,Q2_Effort,3.0
+e2e Calibrated,CROWD,College Teacher,Q3_Mental_Demand,4.0
+e2e Calibrated,CROWD,College Teacher,Q4_Controllability,3.0
+e2e Calibrated,CROWD,College Teacher,Q5_Temporal_Demand,3.0
+e2e Calibrated,CROWD,College Teacher,Q6_Satisfaction,3.0
+e2e Calibrated,GPT-5,College Teacher,Q1_Accomplishment,4.0
+e2e Calibrated,GPT-5,College Teacher,Q2_Effort,2.0
+e2e Calibrated,GPT-5,College Teacher,Q3_Mental_Demand,2.0
+e2e Calibrated,GPT-5,College Teacher,Q4_Controllability,3.0
+e2e Calibrated,GPT-5,College Teacher,Q5_Temporal_Demand,1.0
+e2e Calibrated,GPT-5,College Teacher,Q6_Satisfaction,3.0
+e2e Calibrated,LLaMA-8B,College Teacher,Q1_Accomplishment,3.0
+e2e Calibrated,LLaMA-8B,College Teacher,Q2_Effort,3.0
+e2e Calibrated,LLaMA-8B,College Teacher,Q3_Mental_Demand,2.0
+e2e Calibrated,LLaMA-8B,College Teacher,Q4_Controllability,3.0
+e2e Calibrated,LLaMA-8B,College Teacher,Q5_Temporal_Demand,3.0
+e2e Calibrated,LLaMA-8B,College Teacher,Q6_Satisfaction,3.0
+e2e Calibrated,Mistral-24B,College Teacher,Q1_Accomplishment,4.0
+e2e Calibrated,Mistral-24B,College Teacher,Q2_Effort,2.0
+e2e Calibrated,Mistral-24B,College Teacher,Q3_Mental_Demand,2.0
+e2e Calibrated,Mistral-24B,College Teacher,Q4_Controllability,3.0
+e2e Calibrated,Mistral-24B,College Teacher,Q5_Temporal_Demand,1.0
+e2e Calibrated,Mistral-24B,College Teacher,Q6_Satisfaction,4.0
+e2e Role-Anchored,CROWD,College Teacher,Q1_Accomplishment,4.0
+e2e Role-Anchored,CROWD,College Teacher,Q2_Effort,3.0
+e2e Role-Anchored,CROWD,College Teacher,Q3_Mental_Demand,4.0
+e2e Role-Anchored,CROWD,College Teacher,Q4_Controllability,3.0
+e2e Role-Anchored,CROWD,College Teacher,Q5_Temporal_Demand,3.0
+e2e Role-Anchored,CROWD,College Teacher,Q6_Satisfaction,3.0
+e2e Role-Anchored,GPT-5,College Teacher,Q1_Accomplishment,3.0
+e2e Role-Anchored,GPT-5,College Teacher,Q2_Effort,2.0
+e2e Role-Anchored,GPT-5,College Teacher,Q3_Mental_Demand,2.0
+e2e Role-Anchored,GPT-5,College Teacher,Q4_Controllability,3.0
+e2e Role-Anchored,GPT-5,College Teacher,Q5_Temporal_Demand,1.0
+e2e Role-Anchored,GPT-5,College Teacher,Q6_Satisfaction,3.0
+e2e Role-Anchored,LLaMA-8B,College Teacher,Q1_Accomplishment,4.0
+e2e Role-Anchored,LLaMA-8B,College Teacher,Q2_Effort,3.0
+e2e Role-Anchored,LLaMA-8B,College Teacher,Q3_Mental_Demand,2.0
+e2e Role-Anchored,LLaMA-8B,College Teacher,Q4_Controllability,4.0
+e2e Role-Anchored,LLaMA-8B,College Teacher,Q5_Temporal_Demand,3.0
+e2e Role-Anchored,LLaMA-8B,College Teacher,Q6_Satisfaction,3.0
+e2e Role-Anchored,Mistral-24B,College Teacher,Q1_Accomplishment,4.0
+e2e Role-Anchored,Mistral-24B,College Teacher,Q2_Effort,2.0
+e2e Role-Anchored,Mistral-24B,College Teacher,Q3_Mental_Demand,2.0
+e2e Role-Anchored,Mistral-24B,College Teacher,Q4_Controllability,3.0
+e2e Role-Anchored,Mistral-24B,College Teacher,Q5_Temporal_Demand,1.0
+e2e Role-Anchored,Mistral-24B,College Teacher,Q6_Satisfaction,4.0
+e2e Task-Constrained,CROWD,College Teacher,Q1_Accomplishment,4.0
+e2e Task-Constrained,CROWD,College Teacher,Q2_Effort,3.0
+e2e Task-Constrained,CROWD,College Teacher,Q3_Mental_Demand,4.0
+e2e Task-Constrained,CROWD,College Teacher,Q4_Controllability,3.0
+e2e Task-Constrained,CROWD,College Teacher,Q5_Temporal_Demand,3.0
+e2e Task-Constrained,CROWD,College Teacher,Q6_Satisfaction,3.0
+e2e Task-Constrained,GPT-5,College Teacher,Q1_Accomplishment,3.0
+e2e Task-Constrained,GPT-5,College Teacher,Q2_Effort,2.0
+e2e Task-Constrained,GPT-5,College Teacher,Q3_Mental_Demand,2.0
+e2e Task-Constrained,GPT-5,College Teacher,Q4_Controllability,3.0
+e2e Task-Constrained,GPT-5,College Teacher,Q5_Temporal_Demand,1.0
+e2e Task-Constrained,GPT-5,College Teacher,Q6_Satisfaction,3.0
+e2e Task-Constrained,LLaMA-8B,College Teacher,Q1_Accomplishment,4.0
+e2e Task-Constrained,LLaMA-8B,College Teacher,Q2_Effort,3.0
+e2e Task-Constrained,LLaMA-8B,College Teacher,Q3_Mental_Demand,2.0
+e2e Task-Constrained,LLaMA-8B,College Teacher,Q4_Controllability,3.0
+e2e Task-Constrained,LLaMA-8B,College Teacher,Q5_Temporal_Demand,3.0
+e2e Task-Constrained,LLaMA-8B,College Teacher,Q6_Satisfaction,3.0
+e2e Task-Constrained,Mistral-24B,College Teacher,Q1_Accomplishment,4.0
+e2e Task-Constrained,Mistral-24B,College Teacher,Q2_Effort,2.0
+e2e Task-Constrained,Mistral-24B,College Teacher,Q3_Mental_Demand,2.0
+e2e Task-Constrained,Mistral-24B,College Teacher,Q4_Controllability,3.0
+e2e Task-Constrained,Mistral-24B,College Teacher,Q5_Temporal_Demand,1.0
+e2e Task-Constrained,Mistral-24B,College Teacher,Q6_Satisfaction,4.0
+JudgeAgent,CROWD,High School Teacher,Q1_Accomplishment,3.0
+JudgeAgent,CROWD,High School Teacher,Q2_Effort,3.0
+JudgeAgent,CROWD,High School Teacher,Q3_Mental_Demand,3.0
+JudgeAgent,CROWD,High School Teacher,Q4_Controllability,3.0
+JudgeAgent,CROWD,High School Teacher,Q5_Temporal_Demand,2.0
+JudgeAgent,CROWD,High School Teacher,Q6_Satisfaction,3.0
+JudgeAgent,GPT-5,High School Teacher,Q1_Accomplishment,4.0
+JudgeAgent,GPT-5,High School Teacher,Q2_Effort,2.0
+JudgeAgent,GPT-5,High School Teacher,Q3_Mental_Demand,2.0
+JudgeAgent,GPT-5,High School Teacher,Q4_Controllability,4.0
+JudgeAgent,GPT-5,High School Teacher,Q5_Temporal_Demand,1.0
+JudgeAgent,GPT-5,High School Teacher,Q6_Satisfaction,4.0
+JudgeAgent,LLaMA-8B,High School Teacher,Q1_Accomplishment,4.0
+JudgeAgent,LLaMA-8B,High School Teacher,Q2_Effort,3.0
+JudgeAgent,LLaMA-8B,High School Teacher,Q3_Mental_Demand,3.0
+JudgeAgent,LLaMA-8B,High School Teacher,Q4_Controllability,4.0
+JudgeAgent,LLaMA-8B,High School Teacher,Q5_Temporal_Demand,2.0
+JudgeAgent,LLaMA-8B,High School Teacher,Q6_Satisfaction,4.0
+JudgeAgent,Mistral-24B,High School Teacher,Q1_Accomplishment,4.0
+JudgeAgent,Mistral-24B,High School Teacher,Q2_Effort,3.0
+JudgeAgent,Mistral-24B,High School Teacher,Q3_Mental_Demand,3.0
+JudgeAgent,Mistral-24B,High School Teacher,Q4_Controllability,4.0
+JudgeAgent,Mistral-24B,High School Teacher,Q5_Temporal_Demand,2.0
+JudgeAgent,Mistral-24B,High School Teacher,Q6_Satisfaction,4.0
+e2e Calibrated,CROWD,High School Teacher,Q1_Accomplishment,3.0
+e2e Calibrated,CROWD,High School Teacher,Q2_Effort,3.0
+e2e Calibrated,CROWD,High School Teacher,Q3_Mental_Demand,3.0
+e2e Calibrated,CROWD,High School Teacher,Q4_Controllability,3.0
+e2e Calibrated,CROWD,High School Teacher,Q5_Temporal_Demand,2.0
+e2e Calibrated,CROWD,High School Teacher,Q6_Satisfaction,3.0
+e2e Calibrated,GPT-5,High School Teacher,Q1_Accomplishment,4.0
+e2e Calibrated,GPT-5,High School Teacher,Q2_Effort,2.0
+e2e Calibrated,GPT-5,High School Teacher,Q3_Mental_Demand,2.0
+e2e Calibrated,GPT-5,High School Teacher,Q4_Controllability,3.0
+e2e Calibrated,GPT-5,High School Teacher,Q5_Temporal_Demand,1.0
+e2e Calibrated,GPT-5,High School Teacher,Q6_Satisfaction,3.0
+e2e Calibrated,LLaMA-8B,High School Teacher,Q1_Accomplishment,3.0
+e2e Calibrated,LLaMA-8B,High School Teacher,Q2_Effort,3.0
+e2e Calibrated,LLaMA-8B,High School Teacher,Q3_Mental_Demand,2.0
+e2e Calibrated,LLaMA-8B,High School Teacher,Q4_Controllability,3.0
+e2e Calibrated,LLaMA-8B,High School Teacher,Q5_Temporal_Demand,3.0
+e2e Calibrated,LLaMA-8B,High School Teacher,Q6_Satisfaction,3.0
+e2e Calibrated,Mistral-24B,High School Teacher,Q1_Accomplishment,4.0
+e2e Calibrated,Mistral-24B,High School Teacher,Q2_Effort,2.0
+e2e Calibrated,Mistral-24B,High School Teacher,Q3_Mental_Demand,2.0
+e2e Calibrated,Mistral-24B,High School Teacher,Q4_Controllability,3.0
+e2e Calibrated,Mistral-24B,High School Teacher,Q5_Temporal_Demand,1.0
+e2e Calibrated,Mistral-24B,High School Teacher,Q6_Satisfaction,4.0
+e2e Role-Anchored,CROWD,High School Teacher,Q1_Accomplishment,3.0
+e2e Role-Anchored,CROWD,High School Teacher,Q2_Effort,3.0
+e2e Role-Anchored,CROWD,High School Teacher,Q3_Mental_Demand,3.0
+e2e Role-Anchored,CROWD,High School Teacher,Q4_Controllability,3.0
+e2e Role-Anchored,CROWD,High School Teacher,Q5_Temporal_Demand,2.0
+e2e Role-Anchored,CROWD,High School Teacher,Q6_Satisfaction,3.0
+e2e Role-Anchored,GPT-5,High School Teacher,Q1_Accomplishment,3.0
+e2e Role-Anchored,GPT-5,High School Teacher,Q2_Effort,2.0
+e2e Role-Anchored,GPT-5,High School Teacher,Q3_Mental_Demand,2.0
+e2e Role-Anchored,GPT-5,High School Teacher,Q4_Controllability,3.0
+e2e Role-Anchored,GPT-5,High School Teacher,Q5_Temporal_Demand,1.0
+e2e Role-Anchored,GPT-5,High School Teacher,Q6_Satisfaction,3.0
+e2e Role-Anchored,LLaMA-8B,High School Teacher,Q1_Accomplishment,4.0
+e2e Role-Anchored,LLaMA-8B,High School Teacher,Q2_Effort,3.0
+e2e Role-Anchored,LLaMA-8B,High School Teacher,Q3_Mental_Demand,2.0
+e2e Role-Anchored,LLaMA-8B,High School Teacher,Q4_Controllability,4.0
+e2e Role-Anchored,LLaMA-8B,High School Teacher,Q5_Temporal_Demand,3.0
+e2e Role-Anchored,LLaMA-8B,High School Teacher,Q6_Satisfaction,3.0
+e2e Role-Anchored,Mistral-24B,High School Teacher,Q1_Accomplishment,4.0
+e2e Role-Anchored,Mistral-24B,High School Teacher,Q2_Effort,2.0
+e2e Role-Anchored,Mistral-24B,High School Teacher,Q3_Mental_Demand,2.0
+e2e Role-Anchored,Mistral-24B,High School Teacher,Q4_Controllability,3.0
+e2e Role-Anchored,Mistral-24B,High School Teacher,Q5_Temporal_Demand,1.0
+e2e Role-Anchored,Mistral-24B,High School Teacher,Q6_Satisfaction,4.0
+e2e Task-Constrained,CROWD,High School Teacher,Q1_Accomplishment,3.0
+e2e Task-Constrained,CROWD,High School Teacher,Q2_Effort,3.0
+e2e Task-Constrained,CROWD,High School Teacher,Q3_Mental_Demand,3.0
+e2e Task-Constrained,CROWD,High School Teacher,Q4_Controllability,3.0
+e2e Task-Constrained,CROWD,High School Teacher,Q5_Temporal_Demand,2.0
+e2e Task-Constrained,CROWD,High School Teacher,Q6_Satisfaction,3.0
+e2e Task-Constrained,GPT-5,High School Teacher,Q1_Accomplishment,3.0
+e2e Task-Constrained,GPT-5,High School Teacher,Q2_Effort,2.0
+e2e Task-Constrained,GPT-5,High School Teacher,Q3_Mental_Demand,2.0
+e2e Task-Constrained,GPT-5,High School Teacher,Q4_Controllability,3.0
+e2e Task-Constrained,GPT-5,High School Teacher,Q5_Temporal_Demand,1.0
+e2e Task-Constrained,GPT-5,High School Teacher,Q6_Satisfaction,3.0
+e2e Task-Constrained,LLaMA-8B,High School Teacher,Q1_Accomplishment,4.0
+e2e Task-Constrained,LLaMA-8B,High School Teacher,Q2_Effort,3.0
+e2e Task-Constrained,LLaMA-8B,High School Teacher,Q3_Mental_Demand,2.5
+e2e Task-Constrained,LLaMA-8B,High School Teacher,Q4_Controllability,3.0
+e2e Task-Constrained,LLaMA-8B,High School Teacher,Q5_Temporal_Demand,3.0
+e2e Task-Constrained,LLaMA-8B,High School Teacher,Q6_Satisfaction,3.0
+e2e Task-Constrained,Mistral-24B,High School Teacher,Q1_Accomplishment,4.0
+e2e Task-Constrained,Mistral-24B,High School Teacher,Q2_Effort,2.0
+e2e Task-Constrained,Mistral-24B,High School Teacher,Q3_Mental_Demand,2.0
+e2e Task-Constrained,Mistral-24B,High School Teacher,Q4_Controllability,3.0
+e2e Task-Constrained,Mistral-24B,High School Teacher,Q5_Temporal_Demand,1.0
+e2e Task-Constrained,Mistral-24B,High School Teacher,Q6_Satisfaction,4.0

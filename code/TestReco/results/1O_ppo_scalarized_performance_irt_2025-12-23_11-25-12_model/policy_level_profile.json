@@ -1,0 +1,11 @@
+{
+  "avg_scalar_reward": 19.12666666666667,
+  "std_scalar_reward": 2.883739855735181,
+  "objective_avg_rewards": {
+    "performance": 19.12666666666667
+  },
+  "avg_steps_per_episode": 21.4,
+  "objectives": [
+    "performance"
+  ]
+}

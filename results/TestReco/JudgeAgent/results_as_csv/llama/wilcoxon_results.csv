@@ -1,0 +1,25 @@
+metric,metric_label,U_stat,p_value,significance,crowd_n,agent_n,mode,prompt,model,profile
+accomplishment,Q1: Accomplishment,1924.0,0.009556800841761694,**,55,55,AgentJudge,N/A,LLaMA-8B,All
+effort_required,Q2: Effort Required,2575.0,2.3594003108542423e-11,***,55,55,AgentJudge,N/A,LLaMA-8B,All
+mental_demand,Q3: Mental Demand,2207.0,8.562866302891135e-07,***,55,55,AgentJudge,N/A,LLaMA-8B,All
+perceived_controllability,Q4: Controllability,2034.5,0.0012623490959863051,**,55,55,AgentJudge,N/A,LLaMA-8B,All
+temporal_demand,Q5: Temporal Demand,2370.5,7.13812389423156e-08,***,55,55,AgentJudge,N/A,LLaMA-8B,All
+trust,Q6: Trust,1503.5,0.9568936215814834,ns,55,55,AgentJudge,N/A,LLaMA-8B,All
+accomplishment,Q1: Accomplishment,47.5,0.5501369767748843,ns,9,9,AgentJudge,N/A,LLaMA-8B,high_school
+effort_required,Q2: Effort Required,61.0,0.06596956589011915,ns,9,9,AgentJudge,N/A,LLaMA-8B,high_school
+mental_demand,Q3: Mental Demand,58.5,0.07661190350918284,ns,9,9,AgentJudge,N/A,LLaMA-8B,high_school
+perceived_controllability,Q4: Controllability,60.0,0.08747186954080528,ns,9,9,AgentJudge,N/A,LLaMA-8B,high_school
+temporal_demand,Q5: Temporal Demand,50.5,0.377627255104211,ns,9,9,AgentJudge,N/A,LLaMA-8B,high_school
+trust,Q6: Trust,48.0,0.5247157330184229,ns,9,9,AgentJudge,N/A,LLaMA-8B,high_school
+accomplishment,Q1: Accomplishment,316.0,0.23446184956559835,ns,23,23,AgentJudge,N/A,LLaMA-8B,undergraduate
+effort_required,Q2: Effort Required,445.0,2.5350682717028388e-05,***,23,23,AgentJudge,N/A,LLaMA-8B,undergraduate
+mental_demand,Q3: Mental Demand,350.5,0.030621226566163503,*,23,23,AgentJudge,N/A,LLaMA-8B,undergraduate
+perceived_controllability,Q4: Controllability,291.5,0.5439693050669903,ns,23,23,AgentJudge,N/A,LLaMA-8B,undergraduate
+temporal_demand,Q5: Temporal Demand,415.5,0.0004517969686071824,***,23,23,AgentJudge,N/A,LLaMA-8B,undergraduate
+trust,Q6: Trust,228.0,0.4113746880344564,ns,23,23,AgentJudge,N/A,LLaMA-8B,undergraduate
+accomplishment,Q1: Accomplishment,358.5,0.02762561674582367,*,23,23,AgentJudge,N/A,LLaMA-8B,graduate
+effort_required,Q2: Effort Required,474.0,1.2555873433817978e-06,***,23,23,AgentJudge,N/A,LLaMA-8B,graduate
+mental_demand,Q3: Mental Demand,425.5,9.72135519767369e-06,***,23,23,AgentJudge,N/A,LLaMA-8B,graduate
+perceived_controllability,Q4: Controllability,421.0,0.00031216537565950864,***,23,23,AgentJudge,N/A,LLaMA-8B,graduate
+temporal_demand,Q5: Temporal Demand,441.0,4.495540385509918e-05,***,23,23,AgentJudge,N/A,LLaMA-8B,graduate
+trust,Q6: Trust,288.5,0.5397594484533847,ns,23,23,AgentJudge,N/A,LLaMA-8B,graduate
